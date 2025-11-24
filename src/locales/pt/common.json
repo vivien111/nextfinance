@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Início",
+    "simulation": "Simulação",
+    "application": "Pedido de empréstimo",
+    "about": "Sobre",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "navigation": "Navegação",
+    "contact": "Contacto",
+    "email": "Email",
+    "phone": "Tel",
+    "schedule": "Seg - Sex",
+    "hours": "9h - 18h",
+    "rights": "Todos os direitos reservados",
+    "description": "O seu parceiro de confiança para todos os seus projectos de financiamento. Soluções de empréstimo adaptadas às suas necessidades."
+  },
+  "buttons": {
+    "simulateLoan": "Simular meu empréstimo",
+    "makeRequest": "Fazer um pedido",
+    "simulateThisLoan": "Simular este empréstimo",
+    "startSimulation": "Iniciar simulação",
+    "contactUs": "Contacte-nos"
+  },
+  "language": {
+    "select": "Idioma / Language",
+    "french": "Français",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "italian": "Italiano",
+    "portuguese": "Português"
+  }
+}

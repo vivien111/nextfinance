@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "title": "Realize your projects with",
+    "subtitle": "PrêtFacile",
+    "description": "Financing solutions adapted to all your needs. Free simulation with no commitment."
+  },
+  "features": {
+    "title": "Our advantages",
+    "freeSimulation": {
+      "title": "Free simulation",
+      "description": "Calculate your monthly payments in a few clicks with no commitment"
+    },
+    "quickResponse": {
+      "title": "Quick response",
+      "description": "Get a principle response within 24 hours maximum"
+    },
+    "secure": {
+      "title": "Secure and confidential",
+      "description": "Your data is protected and remains confidential"
+    }
+  },
+  "loans": {
+    "title": "Our loan solutions",
+    "description": "Choose the solution adapted to your project",
+    "personalLoan": "Personal Loan",
+    "autoLoan": "Auto Loan",
+    "worksLoan": "Works Loan",
+    "from": "From",
+    "duration": "Duration"
+  },
+  "testimonials": {
+    "title": "They trust us",
+    "description": "Discover feedback from our satisfied customers"
+  },
+  "partners": {
+    "title": "Our financial partners"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "description": "Quickly find answers to your questions",
+    "items": [
+      {
+        "question": "What documents are needed for a loan application?",
+        "answer": "For a loan application, you will need: ID card, proof of address, recent pay slips (3 months), and recent bank statements. The exact list may vary depending on the loan type."
+      },
+      {
+        "question": "What is the processing time for an application?",
+        "answer": "We process most applications within 24 to 48 hours. Once approved, funds are typically transferred within 3 to 5 business days."
+      },
+      {
+        "question": "Are there any application fees?",
+        "answer": "No, PrêtFacile does not charge any application fees. Our compensation is included in the interest rate, ensuring complete transparency."
+      }
+    ],
+    "cta": {
+      "title": "Can't find the answer to your question?",
+      "description": "Our team of advisors is available to answer all your questions."
+    }
+  },
+  "cta": {
+    "title": "Ready to start your project?",
+    "description": "Join thousands of satisfied customers and get your response within 24 hours"
+  }
+}

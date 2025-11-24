@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "simulation": "Simulation",
+    "application": "Demande de prêt",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Tél",
+    "schedule": "Du lun. au ven.",
+    "hours": "9h - 18h",
+    "rights": "Tous droits réservés",
+    "description": "Votre partenaire de confiance pour tous vos projets de financement. Des solutions de prêt adaptées à vos besoins."
+  },
+  "buttons": {
+    "simulateLoan": "Simuler mon prêt",
+    "makeRequest": "Faire une demande",
+    "simulateThisLoan": "Simuler ce prêt",
+    "startSimulation": "Commencer la simulation",
+    "contactUs": "Nous contacter"
+  },
+  "language": {
+    "select": "Langue / Language",
+    "french": "Français",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "italian": "Italiano",
+    "portuguese": "Português"
+  }
+}

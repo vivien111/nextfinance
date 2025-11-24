@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "title": "Réalisez vos projets avec",
+    "subtitle": "PrêtFacile",
+    "description": "Des solutions de financement adaptées à tous vos besoins. Simulation gratuite et sans engagement."
+  },
+  "features": {
+    "title": "Nos avantages",
+    "freeSimulation": {
+      "title": "Simulation gratuite",
+      "description": "Calculez vos mensualités en quelques clics sans engagement"
+    },
+    "quickResponse": {
+      "title": "Réponse rapide",
+      "description": "Obtenez une réponse de principe en 24h maximum"
+    },
+    "secure": {
+      "title": "Sécurisé et confidentiel",
+      "description": "Vos données sont protégées et restent confidentielles"
+    }
+  },
+  "loans": {
+    "title": "Nos solutions de prêt",
+    "description": "Choisissez la solution adaptée à votre projet",
+    "personalLoan": "Prêt Personnel",
+    "autoLoan": "Prêt Auto",
+    "worksLoan": "Prêt Travaux",
+    "from": "De",
+    "duration": "Durée"
+  },
+  "testimonials": {
+    "title": "Ils nous font confiance",
+    "description": "Découvrez les retours de nos clients satisfaits"
+  },
+  "partners": {
+    "title": "Nos partenaires financiers"
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "description": "Trouvez rapidement des réponses à vos questions",
+    "items": [
+      {
+        "question": "Quels documents sont nécessaires pour une demande de prêt ?",
+        "answer": "Pour une demande de prêt, vous aurez besoin de : pièce d'identité, justificatif de domicile, derniers bulletins de salaire (3 mois), et relevés bancaires récents. La liste exacte peut varier selon le type de prêt."
+      },
+      {
+        "question": "Quel est le délai de traitement d'une demande ?",
+        "answer": "Nous traitons la majorité des demandes sous 24 à 48 heures. Une fois accepté, le virement des fonds intervient généralement sous 3 à 5 jours ouvrés."
+      },
+      {
+        "question": "Y a-t-il des frais de dossier ?",
+        "answer": "Non, PrêtFacile ne facture aucun frais de dossier. Notre rémunération est incluse dans le taux d'intérêt, ce qui garantit une totale transparence."
+      }
+    ],
+    "cta": {
+      "title": "Vous ne trouvez pas la réponse à votre question ?",
+      "description": "Notre équipe de conseillers est à votre disposition pour répondre à toutes vos interrogations."
+    }
+  },
+  "cta": {
+    "title": "Prêt à démarrer votre projet ?",
+    "description": "Rejoignez les milliers de clients satisfaits et obtenez votre réponse en 24h"
+  }
+}

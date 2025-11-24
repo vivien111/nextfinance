@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "title": "Realiza tus proyectos con",
+    "subtitle": "PrêtFacile",
+    "description": "Soluciones de financiación adaptadas a todas tus necesidades. Simulación gratuita y sin compromiso."
+  },
+  "features": {
+    "title": "Nuestras ventajas",
+    "freeSimulation": {
+      "title": "Simulación gratuita",
+      "description": "Calcula tus cuotas mensuales en pocos clics sin compromiso"
+    },
+    "quickResponse": {
+      "title": "Respuesta rápida",
+      "description": "Obtén una respuesta de principio en 24 horas máximo"
+    },
+    "secure": {
+      "title": "Seguro y confidencial",
+      "description": "Tus datos están protegidos y permanecen confidenciales"
+    }
+  },
+  "loans": {
+    "title": "Nuestras soluciones de préstamo",
+    "description": "Elige la solución adaptada a tu proyecto",
+    "personalLoan": "Préstamo Personal",
+    "autoLoan": "Préstamo Auto",
+    "worksLoan": "Préstamo Trabajos",
+    "from": "De",
+    "duration": "Duración"
+  }
+}

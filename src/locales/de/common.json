@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "simulation": "Simulation",
+    "application": "Kreditantrag",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contact": "Kontakt",
+    "email": "E-Mail",
+    "phone": "Tel",
+    "schedule": "Mo - Fr",
+    "hours": "9h - 18h",
+    "rights": "Alle Rechte vorbehalten",
+    "description": "Ihr vertrauenswürdiger Partner für alle Ihre Finanzierungsprojekte. Darlehenslösungen, die auf Ihre Bedürfnisse zugeschnitten sind."
+  },
+  "buttons": {
+    "simulateLoan": "Mein Darlehen simulieren",
+    "makeRequest": "Anfrage stellen",
+    "simulateThisLoan": "Dieses Darlehen simulieren",
+    "startSimulation": "Simulation starten",
+    "contactUs": "Kontaktieren Sie uns"
+  },
+  "language": {
+    "select": "Sprache / Language",
+    "french": "Français",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "italian": "Italiano",
+    "portuguese": "Português"
+  }
+}

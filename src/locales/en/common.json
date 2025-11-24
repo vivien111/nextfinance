@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Home",
+    "simulation": "Simulation",
+    "application": "Loan Application",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "schedule": "Mon - Fri",
+    "hours": "9am - 6pm",
+    "rights": "All rights reserved",
+    "description": "Your trusted partner for all your financing projects. Loan solutions adapted to your needs."
+  },
+  "buttons": {
+    "simulateLoan": "Simulate my loan",
+    "makeRequest": "Make a request",
+    "simulateThisLoan": "Simulate this loan",
+    "startSimulation": "Start simulation",
+    "contactUs": "Contact us"
+  },
+  "language": {
+    "select": "Language / Langue",
+    "french": "Français",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "italian": "Italiano",
+    "portuguese": "Português"
+  }
+}
