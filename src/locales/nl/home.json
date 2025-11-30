@@ -1,0 +1,247 @@
+{
+  "simulation": {
+    "title": "Lensimulator",
+    "subtitle": "Bereken uw maandelijkse aflossing in realtime en vind de oplossing die bij uw budget past",
+    "loanParameters": "Leningparameters",
+    "loanAmount": "Leenbedrag",
+    "loanDuration": "Looptijd",
+    "interestRate": "Jaarlijks rentepercentage",
+    "interestNote": "Indicatieve rente onder voorbehoud van acceptatie van uw dossier",
+    "monthlyPayments": "Uw maandelijkse aflossing",
+    "perMonth": "per maand",
+    "financingDetails": "Financieringsdetails",
+    "borrowedAmount": "Geleend bedrag",
+    "totalInterest": "Totale rente",
+    "totalCost": "Totale kredietkosten",
+    "applyButton": "Lening aanvragen",
+    "simulationNote": "Deze simulatie is indicatief en vormt geen leningaanbod. De definitieve voorwaarden worden vastgesteld na onderzoek van uw dossier.",
+    "howItWorks": "Hoe werkt het?",
+    "step1Title": "Simuleer",
+    "step1Text": "Pas de parameters aan om de maandelijkse aflossing te vinden die bij uw budget past",
+    "step2Title": "Vraag aan",
+    "step2Text": "Vul het aanvraagformulier in enkele minuten in",
+    "step3Title": "Ontvang",
+    "step3Text": "Krijg binnen 24u een principeakkoord en snel uw geld"
+  },
+  "application": {
+    "title": "Leningaanvraag",
+    "description": "Vul dit formulier in om uw aanvraag te starten. Antwoord binnen 24u.",
+    "success": {
+      "title": "Aanvraag succesvol verzonden!",
+      "message": "We hebben uw leningaanvraag goed ontvangen. Ons team zal deze onderzoeken en neemt binnen 24u contact met u op voor een principeakkoord."
+    },
+    "error": {
+      "title": "Fout bij verzending",
+      "message": "Er is een fout opgetreden bij het verzenden van uw aanvraag. Probeer het opnieuw."
+    },
+    "sections": {
+      "personal_info": "Persoonlijke gegevens",
+      "loan_details": "Leningdetails",
+      "employment_situation": "Werk situatie"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Voornaam *",
+        "last_name": "Achternaam *",
+        "email": "E-mail *",
+        "phone": "Telefoon *",
+        "loan_amount": "Gewenst bedrag (€) *",
+        "loan_duration": "Looptijd (maanden) *",
+        "loan_purpose": "Doel van de lening *",
+        "employment_status": "Werk status *",
+        "monthly_income": "Netto maandinkomen (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Selecteer...",
+        "employment_status": "Selecteer..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Persoonlijke lening",
+          "auto": "Voertuigaankoop",
+          "home": "Verbouwing",
+          "consolidation": "Kredietconsolidatie",
+          "other": "Anders"
+        },
+        "employment_status": {
+          "employed": "Werknemer",
+          "self_employed": "Zelfstandige",
+          "unemployed": "Werkloos",
+          "retired": "Gepensioneerde",
+          "student": "Student"
+        },
+        "loan_duration": {
+          "12": "12 maanden",
+          "24": "24 maanden",
+          "36": "36 maanden",
+          "48": "48 maanden",
+          "60": "60 maanden",
+          "72": "72 maanden",
+          "84": "84 maanden",
+          "96": "96 maanden",
+          "120": "120 maanden"
+        }
+      },
+      "privacy_notice": "Door dit formulier in te dienen, accepteert u dat uw gegevens worden gebruikt voor het onderzoek van uw leningaanvraag. Uw informatie is beveiligd en vertrouwelijk.",
+      "buttons": {
+        "submit": "Mijn aanvraag verzenden",
+        "submitting": "Verzenden...",
+        "back_to_simulation": "Terug naar simulatie"
+      }
+    },
+    "next_steps": {
+      "title": "Volgende stappen",
+      "steps": [
+        "Ons team onderzoekt uw aanvraag binnen 24u",
+        "U ontvangt een principeakkoord per e-mail en telefoon",
+        "Als uw dossier wordt geaccepteerd, finaliseren we samen de details",
+        "Het geld wordt snel op uw rekening gestort"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Realiseer uw projecten met",
+    "subtitle": "Popular Financia",
+    "description": "Financieringsoplossingen afgestemd op al uw behoeften. Gratis simulatie en zonder verplichtingen.",
+    "simuler": "Mijn lening simuleren",
+    "Faire": "Een aanvraag doen"
+  },
+  "features": {
+    "title": "Onze voordelen",
+    "freeSimulation": {
+      "title": "Gratis simulatie",
+      "description": "Bereken uw maandelijkse aflossing in enkele klikken zonder verplichtingen"
+    },
+    "quickResponse": {
+      "title": "Snel antwoord",
+      "description": "Krijg binnen 24u een principeakkoord"
+    },
+    "secure": {
+      "title": "Veilig en vertrouwelijk",
+      "description": "Uw gegevens zijn beschermd en blijven vertrouwelijk"
+    }
+  },
+  "loans": {
+    "title": "Onze leenoplossingen",
+    "description": "Kies de oplossing die bij uw project past",
+    "personalLoan": "Persoonlijke Lening",
+    "autoLoan": "Autolening",
+    "worksLoan": "Verbouwlening",
+    "from": "Vanaf",
+    "duration": "Looptijd"
+  },
+  "testimonials": {
+    "title": "Zij vertrouwen op ons",
+    "description": "Ontdek de feedback van onze tevreden klanten"
+  },
+  "partners": {
+    "title": "Onze financiële partners"
+  },
+  "faq": {
+    "title": "Veelgestelde vragen",
+    "description": "Snel antwoord vinden op uw vragen",
+    "items": [
+      {
+        "question": "Welke documenten zijn nodig voor een leningaanvraag?",
+        "answer": "Voor een leningaanvraag heeft u nodig: identiteitsbewijs, adresbewijs, laatste loonstroken (3 maanden) en recente bankafschriften. De exacte lijst kan variëren per type lening."
+      },
+      {
+        "question": "Wat is de verwerkingstijd van een aanvraag?",
+        "answer": "We verwerken de meeste aanvragen binnen 24 tot 48 uur. Eenmaal geaccepteerd, vindt de overboeking meestal plaats binnen 3 tot 5 werkdagen."
+      },
+      {
+        "question": "Zijn er dossierkosten?",
+        "answer": "Nee, PrêtFacile rekent geen dossierkosten aan. Onze vergoeding is inbegrepen in de rente, wat volledige transparantie garandeert."
+      },
+      {
+        "question": "Kan ik mijn lening vervroegd aflossen?",
+        "answer": "Ja, u kunt uw lening vervroegd aflossen zonder kosten of boetes. Neem contact op met onze klantenservice."
+      },
+      {
+        "question": "Wat is het verschil tussen een persoonlijke lening en een bestemmingskrediet?",
+        "answer": "De persoonlijke lening is voor vrij gebruik, terwijl het bestemmingskrediet is gekoppeld aan een specifieke aankoop. De persoonlijke lening biedt meer flexibiliteit."
+      },
+      {
+        "question": "Is mijn rente vast gedurende de hele looptijd?",
+        "answer": "Ja, al onze leningen hebben vaste rentetarieven die gedurende de hele contractduur zijn gegarandeerd. Uw maandelijkse aflossing blijft gelijk van de eerste tot de laatste termijn."
+      }
+    ],
+    "cta": {
+      "title": "Vindt u niet het antwoord op uw vraag?",
+      "description": "Ons team van adviseurs staat tot uw beschikking om al uw vragen te beantwoorden."
+    }
+  },
+  "cta": {
+    "title": "Klaar om uw project te starten?",
+    "description": "Sluit u aan bij duizenden tevreden klanten en krijg binnen 24u antwoord"
+  },
+  "stats": {
+    "clients": "Tevreden klanten",
+    "reviews": "Klantbeoordelingen",
+    "acceptance": "Acceptatiepercentage"
+  },
+  "convincing_description": {
+    "title": "Waarom PrêtFacile kiezen voor uw project?",
+    "expertise_title": "Expertise en Eenvoud",
+    "expertise_description": "Met 10 jaar ervaring hebben we het aanvraagproces vereenvoudigd om u tijd te besparen en administratieve problemen te vermijden.",
+    "rates_title": "Gegarandeerd De Beste Tarieven",
+    "rates_description": "Dankzij onze partnerschappen met de grootste Franse banken onderhandelen we concurrerende rentetarieven, vaak lager dan in agentschappen.",
+    "support_title": "Persoonlijke Begeleiding",
+    "support_description": "Een vaste adviseer begeleidt u van begin tot eind. We passen onze oplossingen aan uw unieke situatie aan om uw kansen op acceptatie te maximaliseren.",
+    "time_title": "Aanzienlijke Tijdwinst",
+    "time_description": "Geen heen en weer meer naar agentschappen! Ons 100% online platform laat u uw aanvraag in slechts 15 minuten afronden, 7d/7.",
+    "badge_text": "tevredenheid",
+    "start_simulation": "Start mijn gratis simulatie",
+    "talk_to_advisor": "Praat met een adviseur"
+  },
+  "concise_advantages": {
+    "title": "De eenvoudigste financieringsoplossing op de markt",
+    "subtitle": "We hebben het verkrijgen van leningen gerevolutioneerd door complexiteit te verwijderen en u een transparante, snelle ervaring te bieden.",
+    "quick_title": "Snel",
+    "quick_description": "Antwoord binnen 24u en geld binnen 72u",
+    "economic_title": "Voordelig",
+    "economic_description": "0 dossierkosten en voor u onderhandelde tarieven",
+    "secure_title": "Veilig",
+    "secure_description": "Versleutelde gegevens en 100% veilig proces",
+    "tailored_title": "Op Maat",
+    "tailored_description": "Oplossingen afgestemd op uw unieke situatie",
+    "small_cta_title": "Laat uw projecten niet langer wachten",
+    "small_cta_description": "Elke dag telt wanneer het gaat om uw ambities te realiseren. Duizenden klanten vertrouwen ons maandelijks. En u?",
+    "start_now": "Ik begin nu - Het is gratis"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Persoonlijke Lening",
+      "features": ["Zonder bewijsstukken", "Snelle beslissing", "Concurrerende rente"]
+    },
+    "autoLoan": {
+      "title": "Autolening",
+      "features": ["Nieuw of occasion voertuig", "100% financiering", "Verzekering inbegrepen"]
+    },
+    "worksLoan": {
+      "title": "Verbouwlening",
+      "features": ["Renovatie", "Uitbreiding", "Energieverbetering"]
+    },
+    "simulate_this_loan": "Deze lening simuleren"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Zeer eenvoudig proces en attent team. Mijn lening werd binnen 24u geaccepteerd!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Parijs",
+      "text": "Beste tarief op de markt, ik beveel PrêtFacile ten zeerste aan voor uw projecten.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marseille",
+      "text": "Duidelijke en transparante simulatie, zonder verrassingen.",
+      "rating": 4
+    }
+  ]
+}

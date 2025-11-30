@@ -1,0 +1,247 @@
+{
+  "simulation": {
+    "title": "Symulator pożyczki",
+    "subtitle": "Oblicz swoje raty w czasie rzeczywistym i znajdź rozwiązanie dopasowane do Twojego budżetu",
+    "loanParameters": "Parametry pożyczki",
+    "loanAmount": "Kwota pożyczki",
+    "loanDuration": "Okres pożyczki",
+    "interestRate": "Roczne oprocentowanie",
+    "interestNote": "Oprocentowanie orientacyjne, zależne od akceptacji wniosku",
+    "monthlyPayments": "Twoje miesięczne raty",
+    "perMonth": "miesięcznie",
+    "financingDetails": "Szczegóły finansowania",
+    "borrowedAmount": "Pożyczona kwota",
+    "totalInterest": "Łączne odsetki",
+    "totalCost": "Całkowity koszt kredytu",
+    "applyButton": "Złóż wniosek o pożyczkę",
+    "simulationNote": "Ta symulacja ma charakter orientacyjny i nie stanowi oferty pożyczki. Ostateczne warunki zostaną ustalone po analizie wniosku.",
+    "howItWorks": "Jak to działa?",
+    "step1Title": "Symuluj",
+    "step1Text": "Dostosuj parametry, aby znaleźć ratę dopasowaną do Twojego budżetu",
+    "step2Title": "Złóż wniosek",
+    "step2Text": "Wypełnij formularz wniosku w kilka minut",
+    "step3Title": "Otrzymaj",
+    "step3Text": "Uzyskaj odpowiedź zasadniczą w ciągu 24h i środki szybko"
+  },
+  "application": {
+    "title": "Wniosek o pożyczkę",
+    "description": "Wypełnij ten formularz, aby rozpocząć proces. Odpowiedź w ciągu 24h.",
+    "success": {
+      "title": "Wniosek wysłany pomyślnie!",
+      "message": "Otrzymaliśmy Twój wniosek o pożyczkę. Nasz zespół przeanalizuje go i skontaktuje się z Tobą w ciągu 24h z odpowiedzią zasadniczą."
+    },
+    "error": {
+      "title": "Błąd podczas wysyłki",
+      "message": "Wystąpił błąd podczas wysyłania wniosku. Prosimy spróbować ponownie."
+    },
+    "sections": {
+      "personal_info": "Dane osobowe",
+      "loan_details": "Szczegóły pożyczki",
+      "employment_situation": "Sytuacja zawodowa"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Imię *",
+        "last_name": "Nazwisko *",
+        "email": "E-mail *",
+        "phone": "Telefon *",
+        "loan_amount": "Pożądana kwota (€) *",
+        "loan_duration": "Okres (miesiące) *",
+        "loan_purpose": "Cel pożyczki *",
+        "employment_status": "Status zawodowy *",
+        "monthly_income": "Miesięczny dochód netto (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Wybierz...",
+        "employment_status": "Wybierz..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Pożyczka osobista",
+          "auto": "Zakup pojazdu",
+          "home": "Remont",
+          "consolidation": "Konsolidacja kredytów",
+          "other": "Inny"
+        },
+        "employment_status": {
+          "employed": "Pracownik",
+          "self_employed": "Samozatrudniony",
+          "unemployed": "Bezrobotny",
+          "retired": "Emeryt",
+          "student": "Student"
+        },
+        "loan_duration": {
+          "12": "12 miesięcy",
+          "24": "24 miesiące",
+          "36": "36 miesięcy",
+          "48": "48 miesięcy",
+          "60": "60 miesięcy",
+          "72": "72 miesiące",
+          "84": "84 miesiące",
+          "96": "96 miesięcy",
+          "120": "120 miesięcy"
+        }
+      },
+      "privacy_notice": "Wysyłając ten formularz, akceptujesz wykorzystanie danych do analizy wniosku. Twoje informacje są bezpieczne i poufne.",
+      "buttons": {
+        "submit": "Wyślij wniosek",
+        "submitting": "Wysyłanie...",
+        "back_to_simulation": "Powrót do symulacji"
+      }
+    },
+    "next_steps": {
+      "title": "Kolejne kroki",
+      "steps": [
+        "Nasz zespół analizuje wniosek w ciągu 24h",
+        "Otrzymujesz odpowiedź zasadniczą e-mailem i telefonicznie",
+        "Po akceptacji, finalizujemy szczegóły",
+        "Środki są szybko przesyłane na konto"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Zrealizuj swoje projekty z",
+    "subtitle": "Popular Financia",
+    "description": "Rozwiązania finansowe dopasowane do potrzeb. Darmowa symulacja bez zobowiązań.",
+    "simuler": "Symuluj moją pożyczkę",
+    "Faire": "Złóż wniosek"
+  },
+  "features": {
+    "title": "Nasze zalety",
+    "freeSimulation": {
+      "title": "Darmowa symulacja",
+      "description": "Oblicz raty w kilka kliknięć bez zobowiązań"
+    },
+    "quickResponse": {
+      "title": "Szybka odpowiedź",
+      "description": "Uzyskaj odpowiedź zasadniczą w ciągu 24h"
+    },
+    "secure": {
+      "title": "Bezpieczne i poufne",
+      "description": "Twoje dane są chronione i poufne"
+    }
+  },
+  "loans": {
+    "title": "Nasze rozwiązania kredytowe",
+    "description": "Wybierz rozwiązanie dopasowane do projektu",
+    "personalLoan": "Pożyczka Osobista",
+    "autoLoan": "Pożyczka Samochodowa",
+    "worksLoan": "Pożyczka na Remont",
+    "from": "Od",
+    "duration": "Okres"
+  },
+  "testimonials": {
+    "title": "Ufają nam",
+    "description": "Poznaj opinie zadowolonych klientów"
+  },
+  "partners": {
+    "title": "Nasi partnerzy finansowi"
+  },
+  "faq": {
+    "title": "Częste pytania",
+    "description": "Znajdź szybko odpowiedzi na pytania",
+    "items": [
+      {
+        "question": "Jakie dokumenty są potrzebne do wniosku?",
+        "answer": "Potrzebne są: dowód osobisty, potwierdzenie adresu, ostatnie zaświadczenia o dochodach (3 miesiące) i wyciągi bankowe. Dokładna lista zależy od typu pożyczki."
+      },
+      {
+        "question": "Jaki jest czas rozpatrywania wniosku?",
+        "answer": "Większość wniosków rozpatrujemy w 24-48 godzin. Po akceptacji, przelew środków następuje w 3-5 dni roboczych."
+      },
+      {
+        "question": "Czy są prowizje?",
+        "answer": "Nie, PrêtFacile nie pobiera prowizji. Nasza rekompensata jest wliczona w oprocentowanie, co gwarantuje transparentność."
+      },
+      {
+        "question": "Czy mogę spłacić pożyczkę wcześniej?",
+        "answer": "Tak, można spłacić pożyczkę przedterminowo bez opłat. Skontaktuj się z obsługą klienta."
+      },
+      {
+        "question": "Różnica między pożyczką osobistą a celową?",
+        "answer": "Pożyczka osobista jest dowolnego przeznaczenia, a celowa na konkretny zakup. Pożyczka osobista oferuje większą elastyczność."
+      },
+      {
+        "question": "Czy oprocentowanie jest stałe?",
+        "answer": "Tak, wszystkie pożyczki mają stałe oprocentowanie gwarantowane przez cały okres. Raty pozostają niezmienne."
+      }
+    ],
+    "cta": {
+      "title": "Nie znalazłeś odpowiedzi?",
+      "description": "Nasi doradcy są do dyspozycji, aby odpowiedzieć na wszystkie pytania."
+    }
+  },
+  "cta": {
+    "title": "Gotów, aby rozpocząć projekt?",
+    "description": "Dołącz do tysięcy zadowolonych klientów i uzyskaj odpowiedź w 24h"
+  },
+  "stats": {
+    "clients": "Zadowolonych klientów",
+    "reviews": "Opinii klientów",
+    "acceptance": "Wskaźnik akceptacji"
+  },
+  "convincing_description": {
+    "title": "Dlaczego wybrać PrêtFacile?",
+    "expertise_title": "Ekspertyza i Prostota",
+    "expertise_description": "Z 10-letnim doświadczeniem uprościliśmy proces, oszczędzając czas i unikając formalności.",
+    "rates_title": "Gwarancja Najlepszych Stóp",
+    "rates_description": "Dzięki partnerstwu z bankami negocjujemy konkurencyjne stopy, często niższe niż w oddziałach.",
+    "support_title": "Spersonalizowane Wsparcie",
+    "support_description": "Dedykowany doradca towarzyszy od początku do końca. Dopasowujemy rozwiązania do sytuacji, maksymalizując szanse akceptacji.",
+    "time_title": "Znaczna Oszczędność Czasu",
+    "time_description": "Koniec wizyt w oddziałach! Platforma online umożliwia finalizację wniosku w 15 minut, 7 dni w tygodniu.",
+    "badge_text": "satysfakcji",
+    "start_simulation": "Rozpocznij darmową symulację",
+    "talk_to_advisor": "Porozmawiaj z doradcą"
+  },
+  "concise_advantages": {
+    "title": "Najprostsze rozwiązanie finansowe na rynku",
+    "subtitle": "Zrewolucjonizowaliśmy proces, usuwając złożoności i oferując przejrzyste, szybkie doświadczenie.",
+    "quick_title": "Szybko",
+    "quick_description": "Odpowiedź w 24h i środki w 72h",
+    "economic_title": "Ekonomicznie",
+    "economic_description": "0 prowizji i negocjowane stopy",
+    "secure_title": "Bezpiecznie",
+    "secure_description": "Zaszyfrowane dane i proces w 100% bezpieczny",
+    "tailored_title": "Na Miarę",
+    "tailored_description": "Rozwiązania dopasowane do sytuacji",
+    "small_cta_title": "Nie czekaj z projektami",
+    "small_cta_description": "Każdy dzień ma znaczenie w realizacji ambicji. Tysiące klientów ufa nam miesięcznie. A Ty?",
+    "start_now": "Rozpoczynam teraz - Za darmo"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Pożyczka Osobista",
+      "features": ["Bez zaświadczeń", "Szybka decyzja", "Konkurencyjne oprocentowanie"]
+    },
+    "autoLoan": {
+      "title": "Pożyczka Samochodowa",
+      "features": ["Pojazd nowy lub używany", "Finansowanie 100%", "Ubezpieczenie wliczone"]
+    },
+    "worksLoan": {
+      "title": "Pożyczka na Remont",
+      "features": ["Renowacja", "Rozbudowa", "Poprawa energetyczna"]
+    },
+    "simulate_this_loan": "Symuluj tę pożyczkę"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Bardzo prosty proces i uważny zespół. Moja pożyczka została zaakceptowana w 24h!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Paryż",
+      "text": "Najlepsza stopa na rynku, gorąco polecam PrêtFacile do projektów.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marsylia",
+      "text": "Jasna i przejrzysta symulacja, bez niespodzianek.",
+      "rating": 4
+    }
+  ]
+}

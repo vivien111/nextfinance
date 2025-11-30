@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "Informazioni su PrêtFacile",
+    "subtitle": "Dal 2008 aiutiamo migliaia di persone a realizzare i loro progetti grazie a soluzioni di finanziamento adatte e accessibili."
+  },
+
+  "stats": {
+    "clients": "Clienti soddisfatti",
+    "experience": "Esperienza",
+    "responseTime": "Tempo di risposta",
+    "satisfaction": "Tasso di soddisfazione"
+  },
+
+  "mission": {
+    "title": "La nostra missione",
+    "text": "Rendere il credito accessibile e trasparente per tutti, accompagnando ogni cliente nella realizzazione dei propri progetti personali e professionali."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Ascolto",
+      "desc": "Prendiamo il tempo per comprendere le tue esigenze e i tuoi progetti per offrirti la migliore soluzione."
+    },
+    "expertise": {
+      "title": "Esperienza riconosciuta",
+      "desc": "Oltre 15 anni di esperienza nel settore del credito per accompagnarti con fiducia."
+    },
+    "personalSupport": {
+      "title": "Supporto personalizzato",
+      "desc": "Un consulente dedicato ti guida in ogni fase della richiesta di prestito."
+    },
+    "transparency": {
+      "title": "Massima trasparenza",
+      "desc": "Condizioni chiare, senza costi nascosti. Sai esattamente cosa stai pagando."
+    }
+  },
+
+  "team": {
+    "title": "Un team di esperti al tuo servizio",
+    "text1": "Il nostro team di consulenti specializzati è formato per offrirti il miglior supporto possibile. Analizziamo ogni pratica con attenzione e proponiamo soluzioni personalizzate adatte alla tua situazione.",
+    "text2": "Che tu voglia finanziare un acquisto importante, realizzare lavori o concretizzare un progetto personale, siamo qui per guidarti e consigliarti in ogni fase.",
+
+    "points": {
+      "advice": "Consulenza gratuita: i nostri esperti rispondono a tutte le tue domande",
+      "fastStudy": "Valutazione rapida: risposta di principio entro 24 ore",
+      "followUp": "Follow-up personalizzato: un consulente dedicato fino allo sblocco dei fondi"
+    }
+  },
+
+  "why": {
+    "title": "Perché scegliere noi?",
+    "competitiveRates": "Tassi competitivi",
+    "competitiveRates_desc": "Negoziazione dei migliori tassi per il tuo profilo",
+
+    "simplifiedProcess": "Processo semplificato",
+    "simplifiedProcess_desc": "Procedure online e firma elettronica",
+
+    "flexibility": "Flessibilità",
+    "flexibility_desc": "Possibilità di rimborso anticipato senza costi",
+
+    "security": "Massima sicurezza",
+    "security_desc": "Dati criptati e conformi al GDPR"
+  },
+
+  "reviews": {
+    "title": "Cosa dicono i nostri clienti",
+    "subtitle": "Migliaia di clienti si affidano a noi",
+
+    "review1": {
+      "text": "Servizio impeccabile! Ho ottenuto il mio prestito in pochi giorni. Il team è stato molto attento e professionale.",
+      "author": "Marie L.",
+      "location": "Parigi"
+    },
+
+    "review2": {
+      "text": "Tasso molto competitivo e procedure semplificate. Raccomando vivamente PrêtFacile per finanziare i tuoi progetti.",
+      "author": "Thomas D.",
+      "location": "Lione"
+    },
+
+    "review3": {
+      "text": "Eccellente supporto dall'inizio alla fine. Il mio consulente è stato disponibile e ha risposto a tutte le mie domande.",
+      "author": "Sophie M.",
+      "location": "Marsiglia"
+    }
+  }
+}

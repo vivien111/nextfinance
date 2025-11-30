@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "O PrêtFacile",
+    "subtitle": "Od 2008 roku pomagamy tysiącom osób realizować ich projekty dzięki dopasowanym i dostępnym rozwiązaniom finansowym."
+  },
+
+  "stats": {
+    "clients": "Zadowolonych klientów",
+    "experience": "Doświadczenia",
+    "responseTime": "Czas odpowiedzi",
+    "satisfaction": "Wskaźnik satysfakcji"
+  },
+
+  "mission": {
+    "title": "Nasza misja",
+    "text": "Uczynić kredyt dostępnym i przejrzystym dla wszystkich, wspierając każdego klienta w realizacji jego osobistych i zawodowych projektów."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Słuchamy Cię",
+      "desc": "Poświęcamy czas na zrozumienie Twoich potrzeb i projektów, aby zaproponować najlepsze rozwiązanie."
+    },
+    "expertise": {
+      "title": "Uznana ekspertyza",
+      "desc": "Ponad 15 lat doświadczenia w sektorze kredytowym, aby wspierać Cię z pełnym zaufaniem."
+    },
+    "personalSupport": {
+      "title": "Spersonalizowane wsparcie",
+      "desc": "Dedykowany doradca prowadzi Cię przez każdy etap Twojego wniosku kredytowego."
+    },
+    "transparency": {
+      "title": "Pełna przejrzystość",
+      "desc": "Jasne warunki, bez ukrytych opłat. Wiesz dokładnie, za co płacisz."
+    }
+  },
+
+  "team": {
+    "title": "Zespół ekspertów do Twojej dyspozycji",
+    "text1": "Nasz zespół wyspecjalizowanych doradców jest przeszkolony, aby zapewnić Ci najlepsze możliwe wsparcie. Analizujemy każdą sprawę ze starannością i proponujemy spersonalizowane rozwiązania dopasowane do Twojej sytuacji.",
+    "text2": "Niezależnie od tego, czy chcesz sfinansować ważny zakup, przeprowadzić remont czy zrealizować osobisty projekt, jesteśmy tutaj, aby Cię prowadzić i doradzać na każdym etapie.",
+
+    "points": {
+      "advice": "Darmowa porada: Nasi eksperci odpowiadają na wszystkie Twoje pytania",
+      "fastStudy": "Szybka analiza: Odpowiedź zasadnicza w ciągu 24h",
+      "followUp": "Spersonalizowane wsparcie: Dedykowany doradca aż do wypłaty środków"
+    }
+  },
+
+  "why": {
+    "title": "Dlaczego warto nas wybrać?",
+    "competitiveRates": "Konkurencyjne oprocentowanie",
+    "competitiveRates_desc": "Wynegocjujemy najlepsze stopy dla Twojego profilu",
+
+    "simplifiedProcess": "Uproszczony proces",
+    "simplifiedProcess_desc": "Procedury online i podpis elektroniczny",
+
+    "flexibility": "Elastyczność",
+    "flexibility_desc": "Możliwość wcześniejszej spłaty bez dodatkowych opłat",
+
+    "security": "Maksymalne bezpieczeństwo",
+    "security_desc": "Zaszyfrowane dane i zgodność z RODO"
+  },
+
+  "reviews": {
+    "title": "Co mówią nasi klienci",
+    "subtitle": "Tysiące klientów nam ufa",
+
+    "review1": {
+      "text": "Nienaganna obsługa! Dostałem pożyczkę w zaledwie kilka dni. Zespół był bardzo uważny i profesjonalny.",
+      "author": "Marie L.",
+      "location": "Paryż"
+    },
+
+    "review2": {
+      "text": "Bardzo konkurencyjne oprocentowanie i uproszczone procedury. Gorąco polecam PrêtFacile do finansowania projektów.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Doskonałe wsparcie od początku do końca. Mój doradca był dostępny i odpowiedział na wszystkie moje pytania.",
+      "author": "Sophie M.",
+      "location": "Marsylia"
+    }
+  }
+}

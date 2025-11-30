@@ -1,47 +1,125 @@
 {
+  "application": {
+    "title": "Loan Application",
+    "description": "Fill out this form to start your application. Response within 24 hours.",
+    "success": {
+      "title": "Application successfully submitted!",
+      "message": "We have received your loan application. Our team will review it and contact you within 24 hours to give you a preliminary response."
+    },
+    "error": {
+      "title": "Submission error",
+      "message": "An error occurred while submitting your application. Please try again."
+    },
+    "sections": {
+      "personal_info": "Personal Information",
+      "loan_details": "Loan Details",
+      "employment_situation": "Employment Situation"
+    },
+    "form": {
+      "labels": {
+        "first_name": "First Name *",
+        "last_name": "Last Name *",
+        "email": "Email *",
+        "phone": "Phone *",
+        "loan_amount": "Desired Amount (€) *",
+        "loan_duration": "Duration (months) *",
+        "loan_purpose": "Loan Purpose *",
+        "employment_status": "Employment Status *",
+        "monthly_income": "Net Monthly Income (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Select...",
+        "employment_status": "Select..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Personal Loan",
+          "auto": "Vehicle Purchase",
+          "home": "Home Improvement",
+          "consolidation": "Debt Consolidation",
+          "other": "Other"
+        },
+        "employment_status": {
+          "employed": "Employed",
+          "self_employed": "Self-Employed",
+          "unemployed": "Unemployed",
+          "retired": "Retired",
+          "student": "Student"
+        },
+        "loan_duration": {
+          "12": "12 months",
+          "24": "24 months",
+          "36": "36 months",
+          "48": "48 months",
+          "60": "60 months",
+          "72": "72 months",
+          "84": "84 months",
+          "96": "96 months",
+          "120": "120 months"
+        }
+      },
+      "privacy_notice": "By submitting this form, you agree that your data will be used to process your loan application. Your information is secure and confidential.",
+      "buttons": {
+        "submit": "Submit My Application",
+        "submitting": "Submitting...",
+        "back_to_simulation": "Back to Simulation"
+      }
+    },
+    "next_steps": {
+      "title": "Next Steps",
+      "steps": [
+        "Our team reviews your application within 24 hours",
+        "You receive a preliminary response by email and phone",
+        "If your application is approved, we finalize the details together",
+        "Funds are quickly transferred to your account"
+      ]
+    }
+  },
   "hero": {
     "title": "Realize your projects with",
-    "subtitle": "PrêtFacile",
-    "description": "Financing solutions adapted to all your needs. Free simulation with no commitment."
+    "subtitle": "Popular Financia",
+    "description": "Financing solutions tailored to all your needs. Free simulation with no commitment.",
+    "simuler": "Simulate My Loan",
+    "Faire": "Make an Application"
   },
   "features": {
-    "title": "Our advantages",
+    "title": "Our Advantages",
     "freeSimulation": {
-      "title": "Free simulation",
+      "title": "Free Simulation",
       "description": "Calculate your monthly payments in a few clicks with no commitment"
     },
     "quickResponse": {
-      "title": "Quick response",
-      "description": "Get a principle response within 24 hours maximum"
+      "title": "Quick Response",
+      "description": "Get a preliminary response within 24 hours maximum"
     },
     "secure": {
-      "title": "Secure and confidential",
+      "title": "Secure and Confidential",
       "description": "Your data is protected and remains confidential"
     }
   },
   "loans": {
-    "title": "Our loan solutions",
-    "description": "Choose the solution adapted to your project",
+    "title": "Our Loan Solutions",
+    "description": "Choose the solution that fits your project",
     "personalLoan": "Personal Loan",
     "autoLoan": "Auto Loan",
-    "worksLoan": "Works Loan",
+    "worksLoan": "Home Improvement Loan",
     "from": "From",
     "duration": "Duration"
   },
   "testimonials": {
-    "title": "They trust us",
+    "title": "They Trust Us",
     "description": "Discover feedback from our satisfied customers"
   },
   "partners": {
-    "title": "Our financial partners"
+    "title": "Our Financial Partners"
   },
   "faq": {
-    "title": "Frequently asked questions",
+    "title": "Frequently Asked Questions",
     "description": "Quickly find answers to your questions",
     "items": [
       {
         "question": "What documents are needed for a loan application?",
-        "answer": "For a loan application, you will need: ID card, proof of address, recent pay slips (3 months), and recent bank statements. The exact list may vary depending on the loan type."
+        "answer": "For a loan application, you will need: ID document, proof of address, recent pay slips (3 months), and recent bank statements. The exact list may vary depending on the loan type."
       },
       {
         "question": "What is the processing time for an application?",
@@ -49,7 +127,19 @@
       },
       {
         "question": "Are there any application fees?",
-        "answer": "No, PrêtFacile does not charge any application fees. Our compensation is included in the interest rate, ensuring complete transparency."
+        "answer": "No, Popular Financia charges no application fees. Our compensation is included in the interest rate, ensuring complete transparency."
+      },
+      {
+        "question": "Can I repay my loan early?",
+        "answer": "Yes, you can repay your loan early without any fees or penalties. Simply contact our customer service to arrange the repayment."
+      },
+      {
+        "question": "What is the difference between a personal loan and a specific-purpose loan?",
+        "answer": "A personal loan is for free use, while a specific-purpose loan is tied to a specific purchase (car, home improvements...). Personal loans offer more flexibility."
+      },
+      {
+        "question": "Is my interest rate fixed for the entire loan duration?",
+        "answer": "Yes, all our loans offer guaranteed fixed rates for the entire contract duration. Your monthly payments remain the same from the first to the last repayment."
       }
     ],
     "cta": {
@@ -60,5 +150,74 @@
   "cta": {
     "title": "Ready to start your project?",
     "description": "Join thousands of satisfied customers and get your response within 24 hours"
-  }
+  },
+  "stats": {
+    "clients": "Satisfied Customers",
+    "reviews": "Customer Reviews",
+    "acceptance": "Acceptance Rate"
+  },
+  "convincing_description": {
+    "title": "Why Choose Popular Financia for Your Project?",
+    "expertise_title": "Expertise and Simplicity",
+    "expertise_description": "With 10 years of experience, we have simplified the loan application process to save you time and avoid administrative hassles.",
+    "rates_title": "Best Guaranteed Rates",
+    "rates_description": "Thanks to our partnerships with major French banks, we negotiate competitive interest rates for you, often lower than those offered in branches.",
+    "support_title": "Personalized Support",
+    "support_description": "A dedicated advisor follows you from start to finish of your project. We adapt our solutions to your unique situation to maximize your chances of approval.",
+    "time_title": "Significant Time Savings",
+    "time_description": "No more back-and-forth to branches! Our 100% online platform allows you to complete your application in just 15 minutes, 7 days a week.",
+    "badge_text": "satisfaction rate",
+    "start_simulation": "Start My Free Simulation",
+    "talk_to_advisor": "Speak to an Advisor"
+  },
+  "concise_advantages": {
+    "title": "The Simplest Financing Solution on the Market",
+    "subtitle": "We've revolutionized loan acquisition by removing complexities and offering you a transparent and fast experience.",
+    "quick_title": "Fast",
+    "quick_description": "Response within 24h and funds released within 72h",
+    "economic_title": "Economical",
+    "economic_description": "0 application fees and rates negotiated for you",
+    "secure_title": "Secure",
+    "secure_description": "Encrypted data and 100% secure process",
+    "tailored_title": "Tailored",
+    "tailored_description": "Solutions adapted to your unique situation",
+    "small_cta_title": "Don't put your projects on hold anymore",
+    "small_cta_description": "Every day counts when it comes to realizing your ambitions. Thousands of customers trust us every month. What about you?",
+    "start_now": "Start Now - It's Free"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Personal Loan",
+      "features": ["No documentation required", "Quick decision", "Competitive rate"]
+    },
+    "autoLoan": {
+      "title": "Auto Loan",
+      "features": ["New or used vehicle", "100% financing", "Insurance included"]
+    },
+    "worksLoan": {
+      "title": "Home Improvement Loan",
+      "features": ["Renovation", "Extension", "Energy improvement"]
+    },
+    "simulate_this_loan": "Simulate This Loan"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Very simple process and attentive team. My loan was approved in 24 hours!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Paris",
+      "text": "Best rates on the market, I highly recommend Popular Financia for your projects.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marseille",
+      "text": "Clear and transparent simulation, with no unpleasant surprises.",
+      "rating": 4
+    }
+  ]
 }

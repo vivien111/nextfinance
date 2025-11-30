@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Bizimlə əlaqə",
+    "subtitle": "Komandamız bütün suallarınızı cavablandırmaq üçün xidmətinizdədir",
+    "phone": "Telefon",
+    "phone_sub": "B.e. - C.e., 09:00 - 18:00",
+    "email": "Email",
+    "email_sub": "24 saat ərzində cavab",
+    "address": "Ünvan",
+    "hours": "İş saatları",
+    "hours_week": "B.e. - C.e.: 09:00 - 18:00",
+    "hours_weekend": "Şənbə - Bazar: Bağlı",
+    "send_message": "Bizə mesaj göndərin",
+    "success_title": "Mesaj göndərildi!",
+    "success_msg": "Mesajınızı aldıq və ən qısa zamanda sizə cavab verəcəyik.",
+    "error_title": "Xəta",
+    "error_msg": "Xəta baş verdi. Zəhmət olmasa yenidən cəhd edin.",
+    "form": {
+      "name": "Tam ad",
+      "name_placeholder": "Jean Dupont",
+      "email": "Email",
+      "email_placeholder": "jean.dupont@example.com",
+      "subject": "Mövzu",
+      "select_subject": "Mövzu seçin",
+      "subject_loan": "Kredit haqqında məlumat",
+      "subject_status": "Müraciətimin statusu",
+      "subject_technical": "Texniki problem",
+      "subject_partnership": "Əməkdaşlıq",
+      "subject_other": "Digər",
+      "message": "Mesaj",
+      "message_placeholder": "Sorğunuzu təsvir edin..."
+    },
+    "sending": "Göndərilir...",
+    "send": "Mesajı göndər"
+  }
+}

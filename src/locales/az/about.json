@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "PrêtFacile Haqqında",
+    "subtitle": "2008-ci ildən etibarən uyğun və əlçatan maliyyə həlləri ilə minlərlə insanın layihələrini həyata keçirməsinə kömək edirik."
+  },
+
+  "stats": {
+    "clients": "Məmnun Müştərilər",
+    "experience": "Təcrübə",
+    "responseTime": "Cavab Müddəti",
+    "satisfaction": "Məmnunluq Dərəcəsi"
+  },
+
+  "mission": {
+    "title": "Missiyamız",
+    "text": "Hər bir müştərini şəxsi və peşəkar layihələrini həyata keçirməkdə dəstəkləyərək, kreditin hamı üçün əlçatan və şəffaf olmasını təmin etmək."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Sizi Dinləyirik",
+      "desc": "Ən yaxşı həlli təklif edə bilmək üçün ehtiyac və layihələrinizi anlamağa vaxt ayırırıq."
+    },
+    "expertise": {
+      "title": "Təsdiqlənmiş Ekspertiza",
+      "desc": "Sizə tam etimadla kömək etmək üçün kredit sektorunda 15 ildən çox təcrübə."
+    },
+    "personalSupport": {
+      "title": "Fərdi Dəstək",
+      "desc": "Xüsusi məsləhətçi kredit müraciətinizin hər mərhələsində sizə rəhbərlik edir."
+    },
+    "transparency": {
+      "title": "Tam Şəffaflıq",
+      "desc": "Aydın şərtlər, gizli ödənişlər olmadan. Nə ödədiyinizi dəqiq bilirsiniz."
+    }
+  },
+
+  "team": {
+    "title": "Xidmətinizdə Ekspertlər Komandası",
+    "text1": "İxtisaslaşmış məsləhətçilərdən ibarət komandamız sizə ən yaxşı dəstəyi təqdim etmək üçün hazırlanıb. Hər bir müraciəti diqqətlə öyrənirik və vəziyyətinizə uyğun fərdiləşdirilmiş həllər təklif edirik.",
+    "text2": "Mühüm bir alışı maliyyələşdirmək, təmir işləri görmək və ya şəxsi layihə həyata keçirmək istəyirsinizsə, hər addımda sizə rəhbərlik etmək və məsləhət vermək üçün buradayıq.",
+
+    "points": {
+      "advice": "Pulsuz Məsləhət: Ekspertlərimiz bütün suallarınıza cavab verir",
+      "fastStudy": "Sürətli Təhlil: Prinsipial cavab 24 saat ərzində",
+      "followUp": "Fərdi Müşayiət: Vəsaitlər ayrılana qədər xüsusi məsləhətçi"
+    }
+  },
+
+  "why": {
+    "title": "Niyə Bizi Seçməlisiniz?",
+    "competitiveRates": "Rəqabətli Faiz Dərəcələri",
+    "competitiveRates_desc": "Profiliniz üçün ən yaxşı faiz dərəcələrini müzakirə edirik",
+
+    "simplifiedProcess": "Sadələşdirilmiş Proses",
+    "simplifiedProcess_desc": "Onlayn müraciətlər və elektron imza",
+
+    "flexibility": "Çeviklik",
+    "flexibility_desc": "Ödənişsiz erkən geri ödəmə imkanı",
+
+    "security": "Maksimum Təhlükəsizlik",
+    "security_desc": "Şifrələnmiş məlumatlar və GDPR-a əməl"
+  },
+
+  "reviews": {
+    "title": "Müştərilərimiz Nə Deyir",
+    "subtitle": "Minlərlə müştəri bizə etimad edir",
+
+    "review1": {
+      "text": "Qüsursuz xidmət! Kreditimi cəmi bir neçə gün ərzində aldım. Komanda çox diqqətli və peşəkar oldu.",
+      "author": "Marie L.",
+      "location": "Paris"
+    },
+
+    "review2": {
+      "text": "Çox rəqabətli faiz dərəcəsi və sadələşdirilmiş prosedurlar. Layihələrinizin maliyyələşdirilməsi üçün PrêtFacile-i tövsiyə edirəm.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Başlanğıcdan sona qədər əla dəstək. Məsləhətçim bütün suallarıma cavab verdi və əlçatan oldu.",
+      "author": "Sophie M.",
+      "location": "Marseille"
+    }
+  }
+}

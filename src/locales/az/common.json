@@ -1,0 +1,42 @@
+{
+  "navigation": {
+    "home": "Ana Səhifə",
+    "simulation": "Simulyasiya",
+    "application": "Kredit müraciəti",
+    "about": "Haqqımızda",
+    "contact": "Əlaqə"
+  },
+  "footer": {
+    "navigation": "Naviqasiya",
+    "contact": "Əlaqə",
+    "email": "Email",
+    "phone": "Telefon",
+    "schedule": "B.e. - C.e.",
+    "hours": "09:00 - 18:00",
+    "rights": "Bütün hüquqlar qorunur",
+    "description": "Maliyyə layihələriniz üçün etibarlı tərəfdaşınız. Sizin ehtiyaclarınıza uyğun kredit həlləri."
+  },
+  "buttons": {
+    "simulateLoan": "Kreditimi simulyasiya et",
+    "makeRequest": "Müraciət et",
+    "simulateThisLoan": "Bu krediti simulyasiya et",
+    "startSimulation": "Simulyasiyaya başla",
+    "contactUs": "Bizimlə əlaqə"
+  },
+  "language": {
+    "select": "Dil / Language",
+    "french": "Fransızca",
+    "english": "İngilis",
+    "spanish": "İspan",
+    "german": "Alman",
+    "italian": "İtalyan",
+    "portuguese": "Portuqal",
+    "greek": "Yunan",
+    "finnish": "Fin",
+    "dutch": "Hollandiya",
+    "azerbaijani": "Azərbaycan",
+    "polish": "Polyak",
+    "maltese": "Malta",
+    "czech": "Çex"
+  }
+}

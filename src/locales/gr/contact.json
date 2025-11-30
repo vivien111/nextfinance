@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Επικοινωνήστε μαζί μας",
+    "subtitle": "Η ομάδα μας είναι στη διάθεσή σας για να απαντήσει σε όλες τις ερωτήσεις σας",
+    "phone": "Τηλέφωνο",
+    "phone_sub": "Δευτέρα έως Παρασκευή, 9πμ - 6μμ",
+    "email": "Email",
+    "email_sub": "Απάντηση εντός 24 ωρών",
+    "address": "Διεύθυνση",
+    "hours": "Ώρες λειτουργίας",
+    "hours_week": "Δευ - Παρ: 9πμ - 6μμ",
+    "hours_weekend": "Σαβ - Κυρ: Κλειστά",
+    "send_message": "Στείλτε μας μήνυμα",
+    "success_title": "Μήνυμα αποστάλθηκε!",
+    "success_msg": "Έχουμε λάβει το μήνυμά σας και θα απαντήσουμε το συντομότερο δυνατό.",
+    "error_title": "Σφάλμα",
+    "error_msg": "Παρουσιάστηκε σφάλμα. Παρακαλώ δοκιμάστε ξανά.",
+    "form": {
+      "name": "Πλήρες όνομα",
+      "name_placeholder": "Jean Dupont",
+      "email": "Email",
+      "email_placeholder": "jean.dupont@example.com",
+      "subject": "Θέμα",
+      "select_subject": "Επιλέξτε θέμα",
+      "subject_loan": "Πληροφορίες για δάνειο",
+      "subject_status": "Κατάσταση αίτησής μου",
+      "subject_technical": "Τεχνικό πρόβλημα",
+      "subject_partnership": "Συνεργασία",
+      "subject_other": "Άλλο",
+      "message": "Μήνυμα",
+      "message_placeholder": "Περιγράψτε το αίτημά σας..."
+    },
+    "sending": "Αποστολή σε εξέλιξη...",
+    "send": "Αποστολή μηνύματος"
+  }
+}

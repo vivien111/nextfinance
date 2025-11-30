@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Il nostro team è a tua disposizione per rispondere a tutte le tue domande",
+    "phone": "Telefono",
+    "phone_sub": "Dal lunedì al venerdì, 9:00-18:00",
+    "email": "Email",
+    "email_sub": "Risposta entro 24 ore",
+    "address": "Indirizzo",
+    "hours": "Orari",
+    "hours_week": "Lun - Ven: 9:00 - 18:00",
+    "hours_weekend": "Sab - Dom: Chiuso",
+    "send_message": "Invia un messaggio",
+    "success_title": "Messaggio inviato!",
+    "success_msg": "Abbiamo ricevuto il tuo messaggio e ti risponderemo al più presto.",
+    "error_title": "Errore",
+    "error_msg": "Si è verificato un errore. Riprova per favore.",
+    "form": {
+      "name": "Nome completo",
+      "name_placeholder": "Jean Dupont",
+      "email": "Email",
+      "email_placeholder": "jean.dupont@example.com",
+      "subject": "Oggetto",
+      "select_subject": "Seleziona un oggetto",
+      "subject_loan": "Informazioni su un prestito",
+      "subject_status": "Stato della mia richiesta",
+      "subject_technical": "Problema tecnico",
+      "subject_partnership": "Partnership",
+      "subject_other": "Altro",
+      "message": "Messaggio",
+      "message_placeholder": "Descrivi la tua richiesta..."
+    },
+    "sending": "Invio in corso...",
+    "send": "Invia messaggio"
+  }
+}

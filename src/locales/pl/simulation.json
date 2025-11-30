@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Wniosek o Pożyczkę",
+    "description": "Wypełnij wniosek w kilka minut i otrzymaj wstępną odpowiedź w ciągu 24 godzin",
+    
+    "sections": {
+      "personal_info": "Dane Osobowe",
+      "loan_details": "Szczegóły Pożyczki",
+      "employment_situation": "Sytuacja Zawodowa"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Imię",
+        "last_name": "Nazwisko",
+        "email": "Adres Email",
+        "phone": "Telefon",
+        "loan_amount": "Kwota Pożyczki",
+        "loan_duration": "Okres Pożyczki",
+        "monthly_income": "Miesięczny Dochód",
+        "employment_status": "Status Zawodowy",
+        "loan_purpose": "Cel Pożyczki"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Wybierz cel pożyczki",
+        "employment_status": "Wybierz swoją sytuację"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 miesięcy",
+          "24": "24 miesiące",
+          "36": "36 miesięcy",
+          "48": "48 miesięcy",
+          "60": "60 miesięcy",
+          "72": "72 miesiące",
+          "84": "84 miesiące"
+        },
+        "loan_purpose": {
+          "car": "Zakup pojazdu",
+          "works": "Remonty",
+          "equipment": "Sprzęt",
+          "personal": "Projekt osobisty",
+          "debt": "Konsolidacja długów",
+          "other": "Inny"
+        },
+        "employment_status": {
+          "employed": "Pracownik na stałe",
+          "employed_trial": "Pracownik na okres próbny",
+          "employed_fixed": "Pracownik na czas określony",
+          "civil_servant": "Urzędnik państwowy",
+          "self_employed": "Osoba prowadząca działalność",
+          "freelancer": "Freelancer",
+          "retired": "Emeryt",
+          "student": "Student",
+          "unemployed": "Bezrobotny"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Wyślij wniosek",
+        "submitting": "Wysyłanie...",
+        "back_to_simulation": "Powrót do symulacji"
+      },
+      
+      "privacy_notice": "Twoje dane są chronione i poufne. Zgodnie z ustawą o ochronie danych osobowych masz prawo dostępu, poprawiania i sprzeciwu wobec danych dotyczących Ciebie.",
+      
+      "validation": {
+        "invalid_email": "Nieprawidłowy adres email",
+        "invalid_phone": "Nieprawidłowy numer telefonu",
+        "min_amount": "Minimalna kwota to 1 000 €",
+        "max_amount": "Maksymalna kwota to 100 000 €",
+        "min_income": "Miesięczny dochód musi wynosić co najmniej 500 €",
+        "min_length": "To pole musi zawierać co najmniej 2 znaki",
+        "debt_too_high": "Kwota pożyczki jest zbyt wysoka w stosunku do Twojego dochodu"
+      }
+    },
+    
+    "success": {
+      "title": "Wniosek wysłany!",
+      "message": "Twój wniosek o pożyczkę został pomyślnie przesłany. Nasz zespół skontaktuje się z Tobą w ciągu 24 godzin."
+    },
+    
+    "error": {
+      "title": "Błąd wysyłki",
+      "message": "Wystąpił błąd podczas wysyłania wniosku. Spróbuj ponownie lub skontaktuj się bezpośrednio z nami."
+    },
+    
+    "next_steps": {
+      "title": "Kolejne Kroki",
+      "steps": [
+        "Analiza Twojego wniosku w ciągu 24h",
+        "Kontakt z naszym doradcą",
+        "Otrzymanie spersonalizowanej oferty",
+        "Wypłata środków w ciągu 48h po akceptacji"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Symulacja w Czasie Rzeczywistym",
+      "eligibility": "Kwalifikowalność",
+      "monthly_payment": "Rata Miesięczna",
+      "total_interest": "Całkowite Odsetki",
+      "total_amount": "Całkowita Kwota",
+      "debt_to_income": "Wskaźnik zadłużenia do dochodu",
+      
+      "eligibility_high": "Wysoka",
+      "eligibility_medium": "Średnia",
+      "eligibility_low": "Niska",
+      
+      "eligibility_low_warning": "Twój profil wymaga dodatkowej analizy",
+      
+      "advice": {
+        "title": "Porada Personalizowana",
+        "high_ratio": "Rozważ zmniejszenie kwoty lub wydłużenie okresu spłaty, aby poprawić wskaźnik zadłużenia.",
+        "good_ratio": "Twój wskaźnik zadłużenia do dochodu jest w rozsądnych granicach."
+      }
+    },
+    
+    "benefits": {
+      "title": "Nasze Korzyści",
+      "fast_processing": "Obsługa w 24h",
+      "competitive_rates": "Konkurencyjne oprocentowanie",
+      "no_hidden_fees": "Brak ukrytych opłat",
+      "flexible_terms": "Elastyczne warunki"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Sugestia: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Symulator Pożyczki",
+    "subtitle": "Oblicz swoje raty w czasie rzeczywistym i znajdź rozwiązanie dopasowane do Twojego budżetu",
+    
+    "loanParameters": "Parametry Pożyczki",
+    "loanAmount": "Kwota Pożyczki",
+    "loanDuration": "Okres Pożyczki",
+    "interestRate": "Roczna Stopą Procentowa",
+    "interestNote": "Stopa orientacyjna, podlega akceptacji Twojego wniosku",
+    
+    "monthlyPayments": "Twoje Raty",
+    "perMonth": "miesięcznie",
+    
+    "financingDetails": "Szczegóły Finansowania",
+    "borrowedAmount": "Kwota Pożyczki",
+    "totalInterest": "Łączne Odsetki",
+    "totalCost": "Całkowity Koszt Kredytu",
+    
+    "applyButton": "Złóż Wniosek o Pożyczkę",
+    "simulationNote": "Ta symulacja jest wyłącznie orientacyjna i nie stanowi oferty pożyczki. Ostateczne warunki zostaną ustalone po analizie Twojego wniosku.",
+    
+    "howItWorks": "Jak to działa?",
+    "step1Title": "Symuluj",
+    "step1Text": "Dostosuj parametry, aby znaleźć ratę odpowiednią dla Twojego budżetu",
+    "step2Title": "Złóż wniosek",
+    "step2Text": "Wypełnij formularz wniosku w kilka minut",
+    "step3Title": "Otrzymaj",
+    "step3Text": "Uzyskaj wstępną odpowiedź w 24h i szybkie wypłacenie środków"
+  }
+}

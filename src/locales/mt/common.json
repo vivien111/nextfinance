@@ -1,0 +1,42 @@
+{
+  "navigation": {
+    "home": "Dar",
+    "simulation": "Simulazzjoni",
+    "application": "Talba għall-lenġ",
+    "about": "Dwarna",
+    "contact": "Kuntatt"
+  },
+  "footer": {
+    "navigation": "Navigazzjoni",
+    "contact": "Kuntatt",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "schedule": "Mit-Tnejn sal-Ġimgħa",
+    "hours": "9:00 - 18:00",
+    "rights": "Drittijiet kollha riżervati",
+    "description": "Il-partner affidabbli tiegħek għal kull proġett ta' finanzjament. Soluzzjonijiet ta' lenġ adattati għall-bżonnijiet tiegħek."
+  },
+  "buttons": {
+    "simulateLoan": "Simula l-lenġ tiegħi",
+    "makeRequest": "Agħmel talba",
+    "simulateThisLoan": "Simula dan il-lenġ",
+    "startSimulation": "Ibda s-simulazzjoni",
+    "contactUs": "Ikkuntattjana"
+  },
+  "language": {
+    "select": "Lingwa / Language",
+    "french": "Franċiż",
+    "english": "Ingliż",
+    "spanish": "Spanjol",
+    "german": "Ġermaniż",
+    "italian": "Taljan",
+    "portuguese": "Portugiż",
+    "greek": "Grieg",
+    "finnish": "Finlandiż",
+    "dutch": "Olandiż",
+    "azerbaijani": "Ażerbijaniż",
+    "polish": "Pollakk",
+    "maltese": "Malti",
+    "czech": "Ċek"
+  }
+}

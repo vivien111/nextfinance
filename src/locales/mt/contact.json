@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Ikkuntatjana",
+    "subtitle": "It-tim tagħna huwa disponibbli biex iwieġeb kull mistoqsija tiegħek",
+    "phone": "Telefown",
+    "phone_sub": "Mit-Tnejn sal-Ġimgħa, 9:00-18:00",
+    "email": "Email",
+    "email_sub": "Tweġiba fi żmien 24 siegħa",
+    "address": "Indirizz",
+    "hours": "Ħinijiet tal-Ħidma",
+    "hours_week": "Tne - Ġim: 9:00 - 18:00",
+    "hours_weekend": "Sib - Ħad: Magħluq",
+    "send_message": "Ibgħatilna messaġġ",
+    "success_title": "Messaġġ mibgħut!",
+    "success_msg": "Irċevejna l-messaġġ tiegħek u se nwieġbuk mill-eqrap possibbli.",
+    "error_title": "Żball",
+    "error_msg": "Sar żball. Jekk jogħġbok erġa' pprova.",
+    "form": {
+      "name": "Isem sħiħ",
+      "name_placeholder": "Jean Dupont",
+      "email": "Email",
+      "email_placeholder": "jean.dupont@eżempju.com",
+      "subject": "Suġġett",
+      "select_subject": "Agħżel suġġett",
+      "subject_loan": "Informazzjoni dwar self",
+      "subject_status": "Status tat-talba tiegħi",
+      "subject_technical": "Problema teknikka",
+      "subject_partnership": "Sħubija",
+      "subject_other": "Oħrajn",
+      "message": "Messaġġ",
+      "message_placeholder": "Iddeskrivi t-talba tiegħek..."
+    },
+    "sending": "Qed jintbagħat...",
+    "send": "Ibgħat il-messaġġ"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Kreditantrag",
+    "description": "Füllen Sie Ihren Antrag in wenigen Minuten aus und erhalten Sie innerhalb von 24 Stunden eine vorläufige Antwort",
+    
+    "sections": {
+      "personal_info": "Persönliche Informationen",
+      "loan_details": "Kreditdetails",
+      "employment_situation": "Beschäftigungssituation"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Vorname",
+        "last_name": "Nachname",
+        "email": "E-Mail-Adresse",
+        "phone": "Telefon",
+        "loan_amount": "Kreditsumme",
+        "loan_duration": "Laufzeit des Kredits",
+        "monthly_income": "Monatliches Einkommen",
+        "employment_status": "Beschäftigungsstatus",
+        "loan_purpose": "Kreditzweck"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Wählen Sie den Kreditzweck",
+        "employment_status": "Wählen Sie Ihre Beschäftigungssituation"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 Monate",
+          "24": "24 Monate",
+          "36": "36 Monate",
+          "48": "48 Monate",
+          "60": "60 Monate",
+          "72": "72 Monate",
+          "84": "84 Monate"
+        },
+        "loan_purpose": {
+          "car": "Fahrzeugkauf",
+          "works": "Renovierungsarbeiten",
+          "equipment": "Ausstattung",
+          "personal": "Privates Projekt",
+          "debt": "Umschuldung",
+          "other": "Andere"
+        },
+        "employment_status": {
+          "employed": "Festangestellter",
+          "employed_trial": "Angestellter in Probezeit",
+          "employed_fixed": "Befristeter Angestellter",
+          "civil_servant": "Beamter",
+          "self_employed": "Selbstständig",
+          "freelancer": "Freelancer",
+          "retired": "Rentner",
+          "student": "Student",
+          "unemployed": "Arbeitslos"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Antrag absenden",
+        "submitting": "Wird gesendet...",
+        "back_to_simulation": "Zurück zur Simulation"
+      },
+      
+      "privacy_notice": "Ihre Daten sind geschützt und vertraulich. Gemäß den Datenschutzgesetzen haben Sie das Recht auf Auskunft, Berichtigung und Widerspruch gegen die Verwendung Ihrer personenbezogenen Daten.",
+      
+      "validation": {
+        "invalid_email": "Ungültige E-Mail-Adresse",
+        "invalid_phone": "Ungültige Telefonnummer",
+        "min_amount": "Der Mindestbetrag beträgt 1.000 €",
+        "max_amount": "Der Höchstbetrag beträgt 100.000 €",
+        "min_income": "Das monatliche Einkommen muss mindestens 500 € betragen",
+        "min_length": "Dieses Feld muss mindestens 2 Zeichen enthalten",
+        "debt_too_high": "Der Kreditbetrag ist im Verhältnis zu Ihrem Einkommen zu hoch"
+      }
+    },
+    
+    "success": {
+      "title": "Antrag gesendet!",
+      "message": "Ihr Kreditantrag wurde erfolgreich übermittelt. Unser Team wird Sie innerhalb von 24 Stunden kontaktieren."
+    },
+    
+    "error": {
+      "title": "Fehler beim Senden",
+      "message": "Beim Senden Ihres Antrags ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt."
+    },
+    
+    "next_steps": {
+      "title": "Nächste Schritte",
+      "steps": [
+        "Analyse Ihres Antrags innerhalb von 24 Stunden",
+        "Beratungsgespräch mit unserem Berater",
+        "Erhalt Ihres personalisierten Angebots",
+        "Freigabe der Mittel innerhalb von 48 Stunden nach Annahme"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Echtzeit-Simulation",
+      "eligibility": "Berechtigung",
+      "monthly_payment": "Monatliche Rate",
+      "total_interest": "Gesamtzinsen",
+      "total_amount": "Gesamtbetrag",
+      "debt_to_income": "Schulden-Einkommens-Verhältnis",
+      
+      "eligibility_high": "Hoch",
+      "eligibility_medium": "Mittel",
+      "eligibility_low": "Begrenzt",
+      
+      "eligibility_low_warning": "Ihr Profil erfordert eine zusätzliche Überprüfung",
+      
+      "advice": {
+        "title": "Personalisierter Rat",
+        "high_ratio": "Erwägen Sie, den Betrag zu reduzieren oder die Laufzeit zu verlängern, um Ihr Verhältnis zu verbessern.",
+        "good_ratio": "Ihr Schulden-Einkommens-Verhältnis liegt im angemessenen Bereich."
+      }
+    },
+    
+    "benefits": {
+      "title": "Unsere Vorteile",
+      "fast_processing": "Bearbeitung in 24 Stunden",
+      "competitive_rates": "Wettbewerbsfähige Zinssätze",
+      "no_hidden_fees": "Keine versteckten Gebühren",
+      "flexible_terms": "Flexible Laufzeiten"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Vorschlag: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Kredit-Simulator",
+    "subtitle": "Berechnen Sie Ihre monatlichen Raten in Echtzeit und finden Sie die passende Lösung für Ihr Budget",
+    
+    "loanParameters": "Kreditparameter",
+    "loanAmount": "Kreditsumme",
+    "loanDuration": "Laufzeit des Kredits",
+    "interestRate": "Jahreszins",
+    "interestNote": "Indikativer Zinssatz, vorbehaltlich der Genehmigung Ihres Antrags",
+    
+    "monthlyPayments": "Ihre monatlichen Raten",
+    "perMonth": "pro Monat",
+    
+    "financingDetails": "Finanzierungsdetails",
+    "borrowedAmount": "Geliehener Betrag",
+    "totalInterest": "Gesamtzinsen",
+    "totalCost": "Gesamtkreditkosten",
+    
+    "applyButton": "Kredit beantragen",
+    "simulationNote": "Diese Simulation dient nur zu Informationszwecken und stellt kein Kreditangebot dar. Die endgültigen Bedingungen werden nach Prüfung Ihres Antrags festgelegt.",
+    
+    "howItWorks": "So funktioniert es",
+    "step1Title": "Simulieren",
+    "step1Text": "Passen Sie die Parameter an, um die monatliche Rate zu finden, die zu Ihrem Budget passt",
+    "step2Title": "Beantragen",
+    "step2Text": "Füllen Sie das Antragsformular in wenigen Minuten aus",
+    "step3Title": "Erhalten",
+    "step3Text": "Erhalten Sie innerhalb von 24 Stunden eine vorläufige Antwort und schnell die Mittel"
+  }
+}

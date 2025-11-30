@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Nasz zespół jest do Twojej dyspozycji, aby odpowiedzieć na wszystkie pytania",
+    "phone": "Telefon",
+    "phone_sub": "Od poniedziałku do piątku, 9:00-18:00",
+    "email": "E-mail",
+    "email_sub": "Odpowiedź w ciągu 24 godzin",
+    "address": "Adres",
+    "hours": "Godziny otwarcia",
+    "hours_week": "Pon - Pt: 9:00 - 18:00",
+    "hours_weekend": "Sob - Niedz: Zamknięte",
+    "send_message": "Wyślij do nas wiadomość",
+    "success_title": "Wiadomość wysłana!",
+    "success_msg": "Otrzymaliśmy Twoją wiadomość i odpowiemy najszybciej jak to możliwe.",
+    "error_title": "Błąd",
+    "error_msg": "Wystąpił błąd. Prosimy spróbować ponownie.",
+    "form": {
+      "name": "Imię i nazwisko",
+      "name_placeholder": "Jan Kowalski",
+      "email": "E-mail",
+      "email_placeholder": "jan.kowalski@przyklad.pl",
+      "subject": "Temat",
+      "select_subject": "Wybierz temat",
+      "subject_loan": "Informacja o pożyczce",
+      "subject_status": "Status mojego wniosku",
+      "subject_technical": "Problem techniczny",
+      "subject_partnership": "Współpraca",
+      "subject_other": "Inne",
+      "message": "Wiadomość",
+      "message_placeholder": "Opisz swoją sprawę..."
+    },
+    "sending": "Wysyłanie...",
+    "send": "Wyślij wiadomość"
+  }
+}

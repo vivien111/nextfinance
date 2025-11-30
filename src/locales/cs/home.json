@@ -1,0 +1,252 @@
+{
+  "simulation": {
+    "title": "Simulátor půjčky",
+    "subtitle": "Vypočítejte si své měsíční splátky v reálném čase a najděte řešení odpovídající vašemu rozpočtu",
+
+    "loanParameters": "Parametry půjčky",
+    "loanAmount": "Výše půjčky",
+    "loanDuration": "Doba splácení",
+    "interestRate": "Roční úroková sazba",
+    "interestNote": "Orientační sazba podléhá schválení vaší žádosti",
+
+    "monthlyPayments": "Vaše měsíční splátky",
+    "perMonth": "měsíčně",
+
+    "financingDetails": "Podrobnosti o financování",
+    "borrowedAmount": "Půjčená částka",
+    "totalInterest": "Celkové úroky",
+    "totalCost": "Celkové náklady na úvěr",
+
+    "applyButton": "Požádat o půjčku",
+    "simulationNote": "Tato simulace je pouze orientační a nepředstavuje nabídku půjčky. Konečné podmínky budou stanoveny po posouzení vaší žádosti.",
+
+    "howItWorks": "Jak to funguje?",
+    "step1Title": "Simulujte",
+    "step1Text": "Upravte parametry a najděte měsíční splátku odpovídající vašemu rozpočtu",
+    "step2Title": "Požádejte",
+    "step2Text": "Vyplňte žádost během několika minut",
+    "step3Title": "Obdržíte",
+    "step3Text": "Získejte předběžnou odpověď do 24 hodin a peníze rychle"
+  },
+  "application": {
+    "title": "Žádost o půjčku",
+    "description": "Vyplňte tento formulář a zahajte svou žádost. Odpověď do 24 hodin.",
+    "success": {
+      "title": "Žádost úspěšně odeslána!",
+      "message": "Vaše žádost o půjčku byla přijata. Náš tým ji posoudí a do 24 hodin vás kontaktuje s předběžnou odpovědí."
+    },
+    "error": {
+      "title": "Chyba při odesílání",
+      "message": "Při odesílání vaší žádosti došlo k chybě. Zkuste to prosím znovu."
+    },
+    "sections": {
+      "personal_info": "Osobní údaje",
+      "loan_details": "Podrobnosti o půjčce",
+      "employment_situation": "Profesní situace"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Jméno *",
+        "last_name": "Příjmení *",
+        "email": "Email *",
+        "phone": "Telefon *",
+        "loan_amount": "Požadovaná částka () *",
+        "loan_duration": "Doba (měsíce) *",
+        "loan_purpose": "Účel půjčky *",
+        "employment_status": "Profesní status *",
+        "monthly_income": "Čistý měsíční příjem () *"
+      },
+      "placeholders": {
+        "loan_purpose": "Vyberte...",
+        "employment_status": "Vyberte..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Osobní půjčka",
+          "auto": "Nákup vozidla",
+          "home": "Stavební práce",
+          "consolidation": "Konsolidace půjček",
+          "other": "Jiné"
+        },
+        "employment_status": {
+          "employed": "Zaměstnanec/ce",
+          "self_employed": "OSVČ",
+          "unemployed": "Nezaměstnaný/á",
+          "retired": "Důchodce/yně",
+          "student": "Student/ka"
+        },
+        "loan_duration": {
+          "12": "12 měsíců",
+          "24": "24 měsíců",
+          "36": "36 měsíců",
+          "48": "48 měsíců",
+          "60": "60 měsíců",
+          "72": "72 měsíců",
+          "84": "84 měsíců",
+          "96": "96 měsíců",
+          "120": "120 měsíců"
+        }
+      },
+      "privacy_notice": "Odesláním tohoto formuláře souhlasíte s použitím vašich údajů pro posouzení vaší žádosti o půjčku. Vaše informace jsou bezpečné a důvěrné.",
+      "buttons": {
+        "submit": "Odeslat moji žádost",
+        "submitting": "Odesílání...",
+        "back_to_simulation": "Zpět k simulaci"
+      }
+    },
+    "next_steps": {
+      "title": "Další kroky",
+      "steps": [
+        "Náš tým posoudí vaši žádost do 24 hodin",
+        "Obdržíte předběžnou odpověď e-mailem a telefonicky",
+        "Pokud je vaše žádost schválena, dokončíme podrobnosti společně",
+        "Prostředky budou rychle převedeny na váš účet"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Realizujte své projekty s",
+    "subtitle": "Popular Financia",
+    "description": "Finanční řešení přizpůsobená všem vašim potřebám. Simulace zdarma a bez závazků.",
+    "simuler": "Simulovat moji půjčku",
+    "Faire": "Požádat o půjčku"
+  },
+  "features": {
+    "title": "Naše výhody",
+    "freeSimulation": {
+      "title": "Bezplatná simulace",
+      "description": "Vypočítejte si své měsíční splátky během několika kliknutí bez závazků"
+    },
+    "quickResponse": {
+      "title": "Rychlá odpověď",
+      "description": "Získejte předběžnou odpověď do 24 hodin"
+    },
+    "secure": {
+      "title": "Bezpečné a důvěrné",
+      "description": "Vaše údaje jsou chráněny a zůstávají důvěrné"
+    }
+  },
+  "loans": {
+    "title": "Naše půjčky",
+    "description": "Vyberte řešení odpovídající vašemu projektu",
+    "personalLoan": "Osobní půjčka",
+    "autoLoan": "Auto půjčka",
+    "worksLoan": "Půjčka na práce",
+    "from": "Od",
+    "duration": "Doba"
+  },
+  "testimonials": {
+    "title": "Důvěřují nám",
+    "description": "Přečtěte si zpětnou vazbu od spokojených klientů"
+  },
+  "partners": {
+    "title": "Naši finanční partneři"
+  },
+  "faq": {
+    "title": "Často kladené dotazy",
+    "description": "Rychle najděte odpovědi na své otázky",
+    "items": [
+      {
+        "question": "Jaké dokumenty jsou potřeba k žádosti o půjčku?",
+        "answer": "K žádosti o půjčku budete potřebovat: občanský průkaz, doklad o bydlišti, poslední výplatní pásky (3 měsíce) a aktuální bankovní výpisy. Přesný seznam se může lišit podle typu půjčky."
+      },
+      {
+        "question": "Jak dlouho trvá vyřízení žádosti?",
+        "answer": "Většinu žádostí vyřizujeme do 24 až 48 hodin. Po schválení jsou prostředky obvykle převedeny do 3 až 5 pracovních dnů."
+      },
+      {
+        "question": "Jsou účtovány poplatky za zpracování?",
+        "answer": "Ne, PrêtFacile neúčtuje žádné poplatky za zpracování. Naše odměna je zahrnuta v úrokové sazbě, což zajišťuje úplnou transparentnost."
+      },
+      {
+        "question": "Mohu splatit půjčku předčasně?",
+        "answer": "Ano, můžete půjčku splatit předčasně bez poplatků nebo sankcí. Kontaktujte náš zákaznický servis pro domluvu splátky."
+      },
+      {
+        "question": "Jaký je rozdíl mezi osobní půjčkou a účelovou půjčkou?",
+        "answer": "Osobní půjčka je volně použitelná, zatímco účelová půjčka je vázaná na konkrétní nákup (auto, práce...). Osobní půjčka nabízí větší flexibilitu."
+      },
+      {
+        "question": "Je moje sazba pevná po celou dobu půjčky?",
+        "answer": "Ano, všechny naše půjčky mají pevně stanovené sazby po celou dobu smlouvy. Vaše měsíční splátky zůstávají stejné od první do poslední splátky."
+      }
+    ],
+    "cta": {
+      "title": "Nenašli jste odpověď na svou otázku?",
+      "description": "Náš tým poradců je k dispozici a odpoví na všechny vaše dotazy."
+    }
+  },
+  "cta": {
+    "title": "Připraven začít svůj projekt?",
+    "description": "Přidejte se k tisícům spokojených klientů a získejte odpověď do 24 hodin"
+  },
+  "stats": {
+    "clients": "Spokojení klienti",
+    "reviews": "Hodnocení klientů",
+    "acceptance": "Míra schválení"
+  },
+  "convincing_description": {
+    "title": "Proč zvolit PrêtFacile pro váš projekt?",
+    "expertise_title": "Odbornost a jednoduchost",
+    "expertise_description": "Díky 10 letům zkušeností jsme zjednodušili proces žádosti o půjčku, abyste ušetřili čas a vyhnuli se administrativním starostem.",
+    "rates_title": "Nejlepší garantované sazby",
+    "rates_description": "Díky partnerství s největšími francouzskými bankami vyjednáváme pro vás konkurenceschopné úrokové sazby, často nižší než v pobočkách.",
+    "support_title": "Osobní podpora",
+    "support_description": "Dedikovaný poradce vás provází od začátku do konce projektu. Přizpůsobujeme řešení vaší jedinečné situaci pro maximální šanci na schválení.",
+    "time_title": "Významná úspora času",
+    "time_description": "Žádné cesty do poboček! Naše 100% online platforma vám umožní dokončit žádost za 15 minut, 7 dní v týdnu.",
+    "badge_text": "spokojenost",
+    "start_simulation": "Spustit mou bezplatnou simulaci",
+    "talk_to_advisor": "Mluvit s poradcem"
+  },
+  "concise_advantages": {
+    "title": "Nejjednodušší finanční řešení na trhu",
+    "subtitle": "Revolucionizovali jsme získávání půjčky odstraněním složitostí a poskytli vám transparentní a rychlý zážitek.",
+    "quick_title": "Rychle",
+    "quick_description": "Odpověď do 24 hodin a převod prostředků do 72 hodin",
+    "economic_title": "Ekonomické",
+    "economic_description": "0 poplatků a vyjednané sazby pro vás",
+    "secure_title": "Bezpečné",
+    "secure_description": "Šifrovaná data a 100% zabezpečený proces",
+    "tailored_title": "Na míru",
+    "tailored_description": "Řešení přizpůsobená vaší jedinečné situaci",
+    "small_cta_title": "Neponechávejte své projekty čekat",
+    "small_cta_description": "Každý den se počítá, pokud chcete realizovat své cíle. Tisíce klientů nám každý měsíc důvěřují. A vy?",
+    "start_now": "Začnu teď - je to zdarma"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Osobní půjčka",
+      "features": ["Bez dokladů", "Rychlé rozhodnutí", "Konkurenceschopná sazba"]
+    },
+    "autoLoan": {
+      "title": "Auto půjčka",
+      "features": ["Nové nebo ojeté vozidlo", "Financování 100%", "Pojištění zahrnuto"]
+    },
+    "worksLoan": {
+      "title": "Půjčka na práce",
+      "features": ["Renovace", "Rozšíření", "Energetické zlepšení"]
+    },
+    "simulate_this_loan": "Simulovat tuto půjčku"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Velmi jednoduchý proces a tým byl vstřícný. Moje půjčka byla schválena do 24 hodin!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Paříž",
+      "text": "Nejlepší sazba na trhu, doporučuji PrêtFacile pro vaše projekty.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marseille",
+      "text": "Jasná a transparentní simulace bez nepříjemných překvapení.",
+      "rating": 4
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Applikazzjoni tal-Kreditu",
+    "description": "Imla l-applikazzjoni tiegħek fi ftit minuti u riċievi risposta preliminari fi 24 siegħa",
+    
+    "sections": {
+      "personal_info": "Informazzjoni Personali",
+      "loan_details": "Dettalji tal-Kreditu",
+      "employment_situation": "Sitwazzjoni Impjegat"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Isem",
+        "last_name": "Kunjom",
+        "email": "Indirizz tal-Email",
+        "phone": "Telefon",
+        "loan_amount": "Ammont tal-Kreditu",
+        "loan_duration": "Tul tal-Kreditu",
+        "monthly_income": "Dħul Fix-Xahar",
+        "employment_status": "Sitwazzjoni Impjegat",
+        "loan_purpose": "Skop tal-Kreditu"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Agħżel l-iskop tal-kreditu",
+        "employment_status": "Agħżel is-sitwazzjoni tiegħek"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12-il xahar",
+          "24": "24 xahar",
+          "36": "36 xahar",
+          "48": "48 xahar",
+          "60": "60 xahar",
+          "72": "72 xahar",
+          "84": "84 xahar"
+        },
+        "loan_purpose": {
+          "car": "Xiri ta’ Karozza",
+          "works": "Xogħol",
+          "equipment": "Tagħmir",
+          "personal": "Proġett Personali",
+          "debt": "Rifinanzjar ta’ Debitu",
+          "other": "Oħra"
+        },
+        "employment_status": {
+          "employed": "Impjegat b'kuntratt permanenti",
+          "employed_trial": "Impjegat f’perjodu ta’ prova",
+          "employed_fixed": "Impjegat b'kuntratt temporanju",
+          "civil_servant": "Uffikkjal tal-Gvern",
+          "self_employed": "Negoċjant Indipendenti",
+          "freelancer": "Freelancer",
+          "retired": "Ritirat",
+          "student": "Student",
+          "unemployed": "Mhux Impjegat"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Ibgħat l-Applikazzjoni",
+        "submitting": "Qiegħed jintbagħat...",
+        "back_to_simulation": "Lura għas-Simulazzjoni"
+      },
+      
+      "privacy_notice": "Id-dejta tiegħek hija protetta u kunfidenzjali. Skont il-liġi dwar id-dejta personali, għandek id-dritt ta’ aċċess, korrezzjoni u opponiment kontra d-dejta tiegħek.",
+      
+      "validation": {
+        "invalid_email": "Indirizz email invalida",
+        "invalid_phone": "Numru tat-telefon invalida",
+        "min_amount": "L-ammont minimu huwa €1,000",
+        "max_amount": "L-ammont massimu huwa €100,000",
+        "min_income": "Id-dħul fix-xahar għandu jkun mill-inqas €500",
+        "min_length": "Dan il-kamp għandu jkun ta’ mill-inqas 2 karattri",
+        "debt_too_high": "L-ammont tal-kreditu huwa għoli wisq fil-qabbel mad-dħul tiegħek"
+      }
+    },
+    
+    "success": {
+      "title": "Applikazzjoni Ibgħat!",
+      "message": "L-applikazzjoni tiegħek tal-kreditu ġiet mibgħuta b’suċċess. It-tim tagħna se jkollok kuntatt fi 24 siegħa."
+    },
+    
+    "error": {
+      "title": "Żball fil-Ħruġ",
+      "message": "Seħħ żball waqt li kien qed jibgħat l-applikazzjoni tiegħek. Jekk jogħġbok erġa’ pprova jew ikkuntattjana direttament."
+    },
+    
+    "next_steps": {
+      "title": "Passi Li Jmiss",
+      "steps": [
+        "Analiżi tad-dokument tiegħek fi 24 siegħa",
+        "Kuntatt ma’ konsulent tagħna",
+        "Irċevuta ta’ offerta personalizzata",
+        "Ħruġ tal-fondi fi 48 siegħa wara aċċettazzjoni"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Simulazzjoni F’Ħin Reali",
+      "eligibility": "Eligibbiltà",
+      "monthly_payment": "Ħlas Xaharju",
+      "total_interest": "Interessi Totali",
+      "total_amount": "Ammont Totali",
+      "debt_to_income": "Proporzjon Dħul/Debitu",
+      
+      "eligibility_high": "Għoli",
+      "eligibility_medium": "Medju",
+      "eligibility_low": "Baxxi",
+      
+      "eligibility_low_warning": "Il-profil tiegħek jeħtieġ analiżi addizzjonali",
+      
+      "advice": {
+        "title": "Parir Personalizzat",
+        "high_ratio": "Ikkunsidra li tnaqqas l-ammont jew tħalli tul it-tul biex ittejjeb il-proporzjon tiegħek.",
+        "good_ratio": "Il-proporzjon tiegħek ta’ dħul/debiti huwa f’firxa raġonevoli."
+      }
+    },
+    
+    "benefits": {
+      "title": "Il-Vantaġġi Tagħna",
+      "fast_processing": "Ħruġ fi 24 siegħa",
+      "competitive_rates": "Rati kompetittivi",
+      "no_hidden_fees": "L-ebda ħlasijiet moħbija",
+      "flexible_terms": "Tulijiet flessibbli"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Suġġeriment: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Simulatur tal-Kreditu",
+    "subtitle": "Ikkalkula l-ħlasijiet xaharju tiegħek f’ħin reali u sib is-soluzzjoni li taqbel mal-baġit tiegħek",
+    
+    "loanParameters": "Parametri tal-Kreditu",
+    "loanAmount": "Ammont tal-Kreditu",
+    "loanDuration": "Tul tal-Kreditu",
+    "interestRate": "Rata Annwali ta’ Interessi",
+    "interestNote": "Rata indikattiva, skont l-approvazzjoni tal-applikazzjoni tiegħek",
+    
+    "monthlyPayments": "Ħlasijiet Xaharju Tiegħek",
+    "perMonth": "kull xahar",
+    
+    "financingDetails": "Dettalji tal-Finanzjament",
+    "borrowedAmount": "Ammont Imqargħ",
+    "totalInterest": "Interessi Totali",
+    "totalCost": "Spiża Totali tal-Kreditu",
+    
+    "applyButton": "Applika għall-Kreditu",
+    "simulationNote": "Din is-simulazzjoni hija biss indikattiva u mhix offerta formali ta’ kreditu. Kondizzjonijiet finali jiġu stabbiliti wara l-analiżi tal-applikazzjoni tiegħek.",
+    
+    "howItWorks": "Kif Jaħdem?",
+    "step1Title": "Simula",
+    "step1Text": "Aġġusta l-parametri biex issib il-ħlas xaharju li jaqbel mal-baġit tiegħek",
+    "step2Title": "Applika",
+    "step2Text": "Imla l-formola tal-applikazzjoni fi ftit minuti",
+    "step3Title": "Irċievi",
+    "step3Text": "Irċievi risposta preliminari fi 24 siegħa u fondi malajr"
+  }
+}

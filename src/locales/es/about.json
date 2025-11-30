@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "Acerca de PrêtFacile",
+    "subtitle": "Desde 2008, ayudamos a miles de personas a realizar sus proyectos con soluciones de financiamiento accesibles y adaptadas a sus necesidades."
+  },
+
+  "stats": {
+    "clients": "Clientes satisfechos",
+    "experience": "Años de experiencia",
+    "responseTime": "Tiempo de respuesta",
+    "satisfaction": "Índice de satisfacción"
+  },
+
+  "mission": {
+    "title": "Nuestra misión",
+    "text": "Hacer que el crédito sea accesible y transparente para todos, acompañando a cada cliente en la realización de sus proyectos personales y profesionales."
+  },
+
+  "values": {
+    "listen": {
+      "title": "A su disposición",
+      "desc": "Nos tomamos el tiempo de entender sus necesidades y proyectos para ofrecerle la mejor solución."
+    },
+    "expertise": {
+      "title": "Experiencia reconocida",
+      "desc": "Más de 15 años de experiencia en el sector crediticio para acompañarlo con total confianza."
+    },
+    "personalSupport": {
+      "title": "Asesoramiento personalizado",
+      "desc": "Un asesor dedicado le guía en cada etapa de su solicitud de préstamo."
+    },
+    "transparency": {
+      "title": "Transparencia total",
+      "desc": "Condiciones claras, sin cargos ocultos. Usted sabe exactamente lo que paga."
+    }
+  },
+
+  "team": {
+    "title": "Un equipo de expertos a su servicio",
+    "text1": "Nuestro equipo de asesores especializados está capacitado para ofrecerle la mejor asistencia posible. Analizamos cada solicitud con atención y proponemos soluciones personalizadas adaptadas a su situación.",
+    "text2": "Ya sea que desee financiar una compra importante, realizar reformas o concretar un proyecto personal, estamos aquí para guiarlo y asesorarlo en cada paso.",
+
+    "points": {
+      "advice": "Asesoramiento gratuito: Nuestros expertos responden todas sus preguntas",
+      "fastStudy": "Estudio rápido: Respuesta de principio en 24h",
+      "followUp": "Seguimiento personalizado: Un asesor dedicado hasta la liberación de los fondos"
+    }
+  },
+
+  "why": {
+    "title": "¿Por qué elegirnos?",
+    "competitiveRates": "Tasas competitivas",
+    "competitiveRates_desc": "Negociamos las mejores tasas para su perfil",
+
+    "simplifiedProcess": "Proceso simplificado",
+    "simplifiedProcess_desc": "Trámites en línea y firma electrónica",
+
+    "flexibility": "Flexibilidad",
+    "flexibility_desc": "Posibilidad de reembolso anticipado sin cargos",
+
+    "security": "Seguridad máxima",
+    "security_desc": "Datos encriptados y cumplimiento del RGPD"
+  },
+
+  "reviews": {
+    "title": "Lo que dicen nuestros clientes",
+    "subtitle": "Miles de clientes confían en nosotros",
+
+    "review1": {
+      "text": "¡Servicio impecable! Obtuve mi préstamo en solo unos días. El equipo fue muy atento y profesional.",
+      "author": "Marie L.",
+      "location": "París"
+    },
+
+    "review2": {
+      "text": "Tasa muy competitiva y trámites simplificados. Recomiendo encarecidamente PrêtFacile para financiar sus proyectos.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Excelente acompañamiento de principio a fin. Mi asesor estuvo disponible y respondió a todas mis preguntas.",
+      "author": "Sophie M.",
+      "location": "Marsella"
+    }
+  }
+}

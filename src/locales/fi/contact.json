@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Ota yhteyttä",
+    "subtitle": "Tiimimme on käytettävissäsi vastaamaan kaikkiin kysymyksiisi",
+    "phone": "Puhelin",
+    "phone_sub": "Ma - Pe, 9-18",
+    "email": "Sähköposti",
+    "email_sub": "Vastaus 24 tunnin kuluessa",
+    "address": "Osoite",
+    "hours": "Aukioloajat",
+    "hours_week": "Ma - Pe: 9-18",
+    "hours_weekend": "La - Su: Suljettu",
+    "send_message": "Lähetä meille viesti",
+    "success_title": "Viesti lähetetty!",
+    "success_msg": "Olemme vastaanottaneet viestisi ja vastaamme mahdollisimman pian.",
+    "error_title": "Virhe",
+    "error_msg": "Tapahtui virhe. Yritä uudelleen.",
+    "form": {
+      "name": "Koko nimi",
+      "name_placeholder": "Jean Dupont",
+      "email": "Sähköposti",
+      "email_placeholder": "jean.dupont@example.com",
+      "subject": "Aihe",
+      "select_subject": "Valitse aihe",
+      "subject_loan": "Tietoa lainasta",
+      "subject_status": "Hakemukseni tila",
+      "subject_technical": "Tekninen ongelma",
+      "subject_partnership": "Yhteistyö",
+      "subject_other": "Muu",
+      "message": "Viesti",
+      "message_placeholder": "Kuvaile pyyntösi..."
+    },
+    "sending": "Lähetetään...",
+    "send": "Lähetä viesti"
+  }
+}

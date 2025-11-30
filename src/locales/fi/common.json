@@ -1,0 +1,42 @@
+{
+  "navigation": {
+    "home": "Koti",
+    "simulation": "Simulointi",
+    "application": "Lainahakemus",
+    "about": "Tietoa meistä",
+    "contact": "Yhteystiedot"
+  },
+  "footer": {
+    "navigation": "Navigointi",
+    "contact": "Yhteystiedot",
+    "email": "Sähköposti",
+    "phone": "Puhelin",
+    "schedule": "Ma - Pe",
+    "hours": "9 - 18",
+    "rights": "Kaikki oikeudet pidätetään",
+    "description": "Luotettava kumppanisi kaikissa rahoitusprojekteissasi. Lainaratkaisut, jotka sopivat tarpeisiisi."
+  },
+  "buttons": {
+    "simulateLoan": "Simuloi lainani",
+    "makeRequest": "Tee hakemus",
+    "simulateThisLoan": "Simuloi tämä laina",
+    "startSimulation": "Aloita simulointi",
+    "contactUs": "Ota yhteyttä"
+  },
+  "language": {
+    "select": "Kieli / Language",
+    "french": "Ranska",
+    "english": "Englanti",
+    "spanish": "Espanja",
+    "german": "Saksa",
+    "italian": "Italia",
+    "portuguese": "Portugali",
+    "greek": "Kreikka",
+    "finnish": "Suomi",
+    "dutch": "Hollanti",
+    "azerbaijani": "Azeri",
+    "polish": "Puola",
+    "maltese": "Malta",
+    "czech": "Tšekki"
+  }
+}

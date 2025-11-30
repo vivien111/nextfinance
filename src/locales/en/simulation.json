@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Loan Application",
+    "description": "Complete your application in a few minutes and get a preliminary response within 24 hours",
+    
+    "sections": {
+      "personal_info": "Personal Information",
+      "loan_details": "Loan Details",
+      "employment_situation": "Employment Situation"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "email": "Email Address",
+        "phone": "Phone",
+        "loan_amount": "Loan Amount",
+        "loan_duration": "Loan Duration",
+        "monthly_income": "Monthly Income",
+        "employment_status": "Employment Status",
+        "loan_purpose": "Loan Purpose"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Select loan purpose",
+        "employment_status": "Select your employment situation"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 months",
+          "24": "24 months",
+          "36": "36 months",
+          "48": "48 months",
+          "60": "60 months",
+          "72": "72 months",
+          "84": "84 months"
+        },
+        "loan_purpose": {
+          "car": "Car purchase",
+          "works": "Home improvements",
+          "equipment": "Equipment",
+          "personal": "Personal project",
+          "debt": "Debt consolidation",
+          "other": "Other"
+        },
+        "employment_status": {
+          "employed": "Permanent employee",
+          "employed_trial": "Employee on trial period",
+          "employed_fixed": "Fixed-term employee",
+          "civil_servant": "Civil servant",
+          "self_employed": "Self-employed",
+          "freelancer": "Freelancer",
+          "retired": "Retired",
+          "student": "Student",
+          "unemployed": "Unemployed"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Submit Application",
+        "submitting": "Submitting...",
+        "back_to_simulation": "Back to Simulation"
+      },
+      
+      "privacy_notice": "Your data is protected and confidential. According to data protection laws, you have the right to access, rectify, and object to the use of your personal data.",
+      
+      "validation": {
+        "invalid_email": "Invalid email address",
+        "invalid_phone": "Invalid phone number",
+        "min_amount": "The minimum amount is €1,000",
+        "max_amount": "The maximum amount is €100,000",
+        "min_income": "Monthly income must be at least €500",
+        "min_length": "This field must contain at least 2 characters",
+        "debt_too_high": "The loan amount is too high compared to your income"
+      }
+    },
+    
+    "success": {
+      "title": "Application Sent!",
+      "message": "Your loan application has been successfully submitted. Our team will contact you within 24 hours."
+    },
+    
+    "error": {
+      "title": "Submission Error",
+      "message": "An error occurred while submitting your application. Please try again or contact us directly."
+    },
+    
+    "next_steps": {
+      "title": "Next Steps",
+      "steps": [
+        "Analysis of your application within 24 hours",
+        "Consultation with our advisor",
+        "Receive your personalized offer",
+        "Funds released within 48 hours after acceptance"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Real-Time Simulation",
+      "eligibility": "Eligibility",
+      "monthly_payment": "Monthly Payment",
+      "total_interest": "Total Interest",
+      "total_amount": "Total Amount",
+      "debt_to_income": "Debt-to-Income Ratio",
+      
+      "eligibility_high": "High",
+      "eligibility_medium": "Medium",
+      "eligibility_low": "Low",
+      
+      "eligibility_low_warning": "Your profile requires additional review",
+      
+      "advice": {
+        "title": "Personalized Advice",
+        "high_ratio": "Consider reducing the amount or extending the duration to improve your ratio.",
+        "good_ratio": "Your debt-to-income ratio is within a reasonable range."
+      }
+    },
+    
+    "benefits": {
+      "title": "Our Benefits",
+      "fast_processing": "24-hour processing",
+      "competitive_rates": "Competitive rates",
+      "no_hidden_fees": "No hidden fees",
+      "flexible_terms": "Flexible terms"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Suggestion: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Loan Simulator",
+    "subtitle": "Calculate your monthly payments in real time and find the solution that fits your budget",
+    
+    "loanParameters": "Loan Parameters",
+    "loanAmount": "Loan Amount",
+    "loanDuration": "Loan Duration",
+    "interestRate": "Annual Interest Rate",
+    "interestNote": "Indicative rate subject to approval of your application",
+    
+    "monthlyPayments": "Your Monthly Payments",
+    "perMonth": "per month",
+    
+    "financingDetails": "Financing Details",
+    "borrowedAmount": "Amount Borrowed",
+    "totalInterest": "Total Interest",
+    "totalCost": "Total Credit Cost",
+    
+    "applyButton": "Apply for Loan",
+    "simulationNote": "This simulation is for indicative purposes only and does not constitute a loan offer. Final conditions will be determined after reviewing your application.",
+    
+    "howItWorks": "How it Works",
+    "step1Title": "Simulate",
+    "step1Text": "Adjust parameters to find the monthly payment that fits your budget",
+    "step2Title": "Apply",
+    "step2Text": "Complete the application form in a few minutes",
+    "step3Title": "Receive",
+    "step3Text": "Get a preliminary response within 24 hours and funds quickly"
+  }
+}

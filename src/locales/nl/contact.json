@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Neem contact met ons op",
+    "subtitle": "Ons team staat klaar om al uw vragen te beantwoorden",
+    "phone": "Telefoon",
+    "phone_sub": "Maandag tot vrijdag, 9:00 - 18:00",
+    "email": "E-mail",
+    "email_sub": "Antwoord binnen 24 uur",
+    "address": "Adres",
+    "hours": "Openingstijden",
+    "hours_week": "Ma - Vr: 9:00 - 18:00",
+    "hours_weekend": "Za - Zo: Gesloten",
+    "send_message": "Stuur ons een bericht",
+    "success_title": "Bericht verzonden!",
+    "success_msg": "We hebben uw bericht ontvangen en nemen zo snel mogelijk contact met u op.",
+    "error_title": "Fout",
+    "error_msg": "Er is een fout opgetreden. Probeer het opnieuw.",
+    "form": {
+      "name": "Volledige naam",
+      "name_placeholder": "Jean Dupont",
+      "email": "E-mail",
+      "email_placeholder": "jean.dupont@example.com",
+      "subject": "Onderwerp",
+      "select_subject": "Selecteer een onderwerp",
+      "subject_loan": "Informatie over een lening",
+      "subject_status": "Status van mijn aanvraag",
+      "subject_technical": "Technisch probleem",
+      "subject_partnership": "Partnerschap",
+      "subject_other": "Anders",
+      "message": "Bericht",
+      "message_placeholder": "Beschrijf uw verzoek..."
+    },
+    "sending": "Bezig met verzenden...",
+    "send": "Verzend bericht"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Richiesta di Prestito",
+    "description": "Compila la tua richiesta in pochi minuti e ricevi una risposta preliminare entro 24 ore",
+    
+    "sections": {
+      "personal_info": "Informazioni Personali",
+      "loan_details": "Dettagli del Prestito",
+      "employment_situation": "Situazione Lavorativa"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Nome",
+        "last_name": "Cognome",
+        "email": "Indirizzo Email",
+        "phone": "Telefono",
+        "loan_amount": "Importo del Prestito",
+        "loan_duration": "Durata del Prestito",
+        "monthly_income": "Reddito Mensile",
+        "employment_status": "Situazione Lavorativa",
+        "loan_purpose": "Finalità del Prestito"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Seleziona la finalità del prestito",
+        "employment_status": "Seleziona la tua situazione"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 mesi",
+          "24": "24 mesi",
+          "36": "36 mesi",
+          "48": "48 mesi",
+          "60": "60 mesi",
+          "72": "72 mesi",
+          "84": "84 mesi"
+        },
+        "loan_purpose": {
+          "car": "Acquisto Veicolo",
+          "works": "Lavori",
+          "equipment": "Attrezzatura",
+          "personal": "Progetto Personale",
+          "debt": "Ristrutturazione Debiti",
+          "other": "Altro"
+        },
+        "employment_status": {
+          "employed": "Dipendente a tempo indeterminato",
+          "employed_trial": "Dipendente in prova",
+          "employed_fixed": "Dipendente a tempo determinato",
+          "civil_servant": "Funzionario Pubblico",
+          "self_employed": "Lavoratore Autonomo",
+          "freelancer": "Freelance",
+          "retired": "Pensionato",
+          "student": "Studente",
+          "unemployed": "Disoccupato"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Invia Richiesta",
+        "submitting": "Invio in corso...",
+        "back_to_simulation": "Torna alla Simulazione"
+      },
+      
+      "privacy_notice": "I tuoi dati sono protetti e riservati. In conformità con la normativa sulla privacy, hai il diritto di accesso, rettifica e opposizione ai tuoi dati personali.",
+      
+      "validation": {
+        "invalid_email": "Indirizzo email non valido",
+        "invalid_phone": "Numero di telefono non valido",
+        "min_amount": "L'importo minimo è di 1.000 €",
+        "max_amount": "L'importo massimo è di 100.000 €",
+        "min_income": "Il reddito mensile deve essere di almeno 500 €",
+        "min_length": "Questo campo deve contenere almeno 2 caratteri",
+        "debt_too_high": "L'importo del prestito è troppo elevato rispetto al tuo reddito"
+      }
+    },
+    
+    "success": {
+      "title": "Richiesta Inviata!",
+      "message": "La tua richiesta di prestito è stata inviata con successo. Il nostro team ti contatterà entro 24 ore."
+    },
+    
+    "error": {
+      "title": "Errore di Invio",
+      "message": "Si è verificato un errore durante l'invio della tua richiesta. Ti preghiamo di riprovare o di contattarci direttamente."
+    },
+    
+    "next_steps": {
+      "title": "Prossimi Passi",
+      "steps": [
+        "Analisi della tua pratica entro 24 ore",
+        "Contatto con il nostro consulente",
+        "Ricezione della tua offerta personalizzata",
+        "Sblocco dei fondi entro 48 ore dall'accettazione"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Simulazione in Tempo Reale",
+      "eligibility": "Idoneità",
+      "monthly_payment": "Rata Mensile",
+      "total_interest": "Interessi Totali",
+      "total_amount": "Importo Totale",
+      "debt_to_income": "Rapporto Debito/Reddito",
+      
+      "eligibility_high": "Alta",
+      "eligibility_medium": "Media",
+      "eligibility_low": "Bassa",
+      
+      "eligibility_low_warning": "Il tuo profilo richiede un'analisi aggiuntiva",
+      
+      "advice": {
+        "title": "Consiglio Personalizzato",
+        "high_ratio": "Valuta di ridurre l'importo o aumentare la durata per migliorare il rapporto debito/reddito.",
+        "good_ratio": "Il tuo rapporto debito/reddito è in una fascia ragionevole."
+      }
+    },
+    
+    "benefits": {
+      "title": "I Nostri Vantaggi",
+      "fast_processing": "Elaborazione in 24 ore",
+      "competitive_rates": "Tassi competitivi",
+      "no_hidden_fees": "Nessuna spesa nascosta",
+      "flexible_terms": "Durate flessibili"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Suggerimento: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Simulatore di Prestito",
+    "subtitle": "Calcola le tue rate mensili in tempo reale e trova la soluzione adatta al tuo budget",
+    
+    "loanParameters": "Parametri del Prestito",
+    "loanAmount": "Importo del Prestito",
+    "loanDuration": "Durata del Prestito",
+    "interestRate": "Tasso d'Interesse Annuale",
+    "interestNote": "Tasso indicativo soggetto all'approvazione della tua richiesta",
+    
+    "monthlyPayments": "Le Tue Rate Mensili",
+    "perMonth": "al mese",
+    
+    "financingDetails": "Dettagli del Finanziamento",
+    "borrowedAmount": "Importo Finanziato",
+    "totalInterest": "Interessi Totali",
+    "totalCost": "Costo Totale del Credito",
+    
+    "applyButton": "Richiedi il Prestito",
+    "simulationNote": "Questa simulazione è puramente indicativa e non costituisce un'offerta formale di prestito. Le condizioni finali saranno definite dopo l'analisi della tua richiesta.",
+    
+    "howItWorks": "Come Funziona?",
+    "step1Title": "Simula",
+    "step1Text": "Regola i parametri per trovare la rata che si adatta al tuo budget",
+    "step2Title": "Richiedi",
+    "step2Text": "Compila il modulo di richiesta in pochi minuti",
+    "step3Title": "Ricevi",
+    "step3Text": "Ricevi una risposta preliminare entro 24 ore e i fondi rapidamente"
+  }
+}

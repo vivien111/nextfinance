@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Kredit Müraciəti",
+    "description": "Müraciətinizi bir neçə dəqiqə ərzində doldurun və 24 saat ərzində ilkin cavab alın",
+    
+    "sections": {
+      "personal_info": "Şəxsi Məlumatlar",
+      "loan_details": "Kredit Təfərrüatları",
+      "employment_situation": "İş Vəziyyəti"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Ad",
+        "last_name": "Soyad",
+        "email": "E-poçt Ünvanı",
+        "phone": "Telefon",
+        "loan_amount": "Kredit Məbləği",
+        "loan_duration": "Kredit Müddəti",
+        "monthly_income": "Aylıq Gəlir",
+        "employment_status": "İş Vəziyyəti",
+        "loan_purpose": "Kredit Məqsədi"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Kredit məqsədini seçin",
+        "employment_status": "İş vəziyyətinizi seçin"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 ay",
+          "24": "24 ay",
+          "36": "36 ay",
+          "48": "48 ay",
+          "60": "60 ay",
+          "72": "72 ay",
+          "84": "84 ay"
+        },
+        "loan_purpose": {
+          "car": "Avtomobil alışı",
+          "works": "Təmir və işlər",
+          "equipment": "Avadanlıq",
+          "personal": "Şəxsi layihə",
+          "debt": "Kreditlərin birləşdirilməsi",
+          "other": "Digər"
+        },
+        "employment_status": {
+          "employed": "Daimi işçi",
+          "employed_trial": "Sınaq müddətində işçi",
+          "employed_fixed": "Müddətli işçi",
+          "civil_servant": "Dövlət qulluqçusu",
+          "self_employed": "Fərdi sahibkar",
+          "freelancer": "Freelancer",
+          "retired": "Təqaüdçü",
+          "student": "Tələbə",
+          "unemployed": "İşsiz"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Müraciəti Göndər",
+        "submitting": "Göndərilir...",
+        "back_to_simulation": "Simulyasiyaya Qayıt"
+      },
+      
+      "privacy_notice": "Məlumatlarınız qorunur və gizlidir. Şəxsi məlumatlarınız üzərində giriş, düzəliş və etiraz hüququnuz var.",
+      
+      "validation": {
+        "invalid_email": "Yanlış e-poçt ünvanı",
+        "invalid_phone": "Yanlış telefon nömrəsi",
+        "min_amount": "Minimum məbləğ 1 000 €",
+        "max_amount": "Maksimum məbləğ 100 000 €",
+        "min_income": "Aylıq gəlir ən azı 500 € olmalıdır",
+        "min_length": "Bu sahə ən azı 2 simvol olmalıdır",
+        "debt_too_high": "Kredit məbləği gəlirinizə nisbətən çox yüksəkdir"
+      }
+    },
+    
+    "success": {
+      "title": "Müraciət Göndərildi!",
+      "message": "Kredit müraciətiniz uğurla göndərildi. Komandamız 24 saat ərzində sizinlə əlaqə saxlayacaq."
+    },
+    
+    "error": {
+      "title": "Göndərmə Xətası",
+      "message": "Müraciətinizi göndərərkən xəta baş verdi. Zəhmət olmasa yenidən cəhd edin və ya birbaşa bizimlə əlaqə saxlayın."
+    },
+    
+    "next_steps": {
+      "title": "Növbəti Addımlar",
+      "steps": [
+        "24 saat ərzində müraciətinizin təhlili",
+        "Məsləhətçimizlə görüş",
+        "Fərdi təklifin alınması",
+        "Qəbul edildikdən sonra 48 saat ərzində vəsaitin açılması"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Real Vaxt Simulyasiyası",
+      "eligibility": "Uyğunluq",
+      "monthly_payment": "Aylıq Ödəniş",
+      "total_interest": "Ümumi Faiz",
+      "total_amount": "Ümumi Məbləğ",
+      "debt_to_income": "Borclanma / Gəlir nisbəti",
+      
+      "eligibility_high": "Yüksək",
+      "eligibility_medium": "Orta",
+      "eligibility_low": "Aşağı",
+      
+      "eligibility_low_warning": "Profiliniz əlavə təhlil tələb edir",
+      
+      "advice": {
+        "title": "Fərdi Məsləhət",
+        "high_ratio": "Borclanma nisbətini yaxşılaşdırmaq üçün məbləği azaltmağı və ya müddəti artırmağı düşünün.",
+        "good_ratio": "Borclanma / gəlir nisbətiniz normal aralıqdadır."
+      }
+    },
+    
+    "benefits": {
+      "title": "Faydalarımız",
+      "fast_processing": "24 saat ərzində işləmə",
+      "competitive_rates": "Rəqabətli faiz dərəcələri",
+      "no_hidden_fees": "Gizli ödəniş yoxdur",
+      "flexible_terms": "Fleksibil müddətlər"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Tövsiyə: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Kredit Simulyatoru",
+    "subtitle": "Məbləğlərinizi real vaxtda hesablayın və büdcənizə uyğun həll tapın",
+    
+    "loanParameters": "Kredit Parametrləri",
+    "loanAmount": "Kredit Məbləği",
+    "loanDuration": "Kredit Müddəti",
+    "interestRate": "İllik Faiz Dərəcəsi",
+    "interestNote": "Orta faiz dərəcəsi, müraciətinizin təsdiqinə tabedir",
+    
+    "monthlyPayments": "Aylıq Ödənişləriniz",
+    "perMonth": "aylıq",
+    
+    "financingDetails": "Maliyyələşdirmə Detalları",
+    "borrowedAmount": "Borclanmış Məbləğ",
+    "totalInterest": "Ümumi Faiz",
+    "totalCost": "Ümumi Kredit Xərci",
+    
+    "applyButton": "Kredit üçün Müraciət et",
+    "simulationNote": "Bu simulyasiya yalnız təxmini məlumatdır və kredit təklifi sayılmır. Son şərtlər müraciətinizin qiymətləndirilməsindən sonra müəyyənləşdiriləcək.",
+    
+    "howItWorks": "Necə işləyir?",
+    "step1Title": "Simulyasiya et",
+    "step1Text": "Aylıq ödənişinizi büdcənizə uyğun tapmaq üçün parametrləri tənzimləyin",
+    "step2Title": "Müraciət et",
+    "step2Text": "Müraciət formasını bir neçə dəqiqədə doldurun",
+    "step3Title": "Al",
+    "step3Text": "24 saat ərzində ilkin cavab alın və vəsait tez bir zamanda əldə edin"
+  }
+}

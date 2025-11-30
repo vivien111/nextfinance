@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "Tietoa PrêtFacilesta",
+    "subtitle": "Vuodesta 2008 lähtien olemme auttaneet tuhansia ihmisiä toteuttamaan projektejaan tarjoamalla sopivia ja saavutettavia rahoitusratkaisuja."
+  },
+
+  "stats": {
+    "clients": "Tyytyväiset asiakkaat",
+    "experience": "Kokemusta",
+    "responseTime": "Vastausaika",
+    "satisfaction": "Tyytyväisyysaste"
+  },
+
+  "mission": {
+    "title": "Tehtävämme",
+    "text": "Tehdä luotosta kaikille saavutettavaa ja läpinäkyvää, auttaen jokaista asiakasta toteuttamaan henkilökohtaisia ja ammatillisia projektejaan."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Kuuntelemme sinua",
+      "desc": "Käymme läpi tarpeesi ja projektisi ymmärtääksemme ne ja tarjotaksemme parhaan ratkaisun."
+    },
+    "expertise": {
+      "title": "Tunnustettu asiantuntemus",
+      "desc": "Yli 15 vuoden kokemus luotosektorilla, jotta voimme auttaa sinua luottavaisin mielin."
+    },
+    "personalSupport": {
+      "title": "Henkilökohtainen tuki",
+      "desc": "Omistautunut neuvonantaja ohjaa sinua jokaisessa lainahakemuksen vaiheessa."
+    },
+    "transparency": {
+      "title": "Täydellinen läpinäkyvyys",
+      "desc": "Selkeät ehdot ilman piilokuluja. Tiedät tarkalleen, mitä maksat."
+    }
+  },
+
+  "team": {
+    "title": "Asiantuntijatiimi palveluksessasi",
+    "text1": "Erikoistuneiden neuvonantajiemme tiimi on koulutettu tarjoamaan paras mahdollinen tuki. Tutkimme jokaisen hakemuksen huolellisesti ja tarjoamme räätälöityjä ratkaisuja tilanteeseesi sopiviksi.",
+    "text2": "Olipa tavoitteesi rahoittaa merkittävä ostos, tehdä remonttia tai toteuttaa henkilökohtainen projekti, olemme täällä ohjaamassa ja neuvomassa sinua jokaisessa vaiheessa.",
+
+    "points": {
+      "advice": "Ilmainen neuvonta: Asiantuntijamme vastaavat kaikkiin kysymyksiisi",
+      "fastStudy": "Nopea käsittely: Vastaus 24 tunnin kuluessa",
+      "followUp": "Henkilökohtainen seuranta: Omistautunut neuvonantaja aina varojen vapautukseen asti"
+    }
+  },
+
+  "why": {
+    "title": "Miksi valita meidät?",
+    "competitiveRates": "Kilpailukykyiset korot",
+    "competitiveRates_desc": "Neuvottelemme parhaita korkoja profiilillesi",
+
+    "simplifiedProcess": "Yksinkertaistettu prosessi",
+    "simplifiedProcess_desc": "Verkkoasiointi ja sähköinen allekirjoitus",
+
+    "flexibility": "Joustavuus",
+    "flexibility_desc": "Mahdollisuus ennenaikaiseen takaisinmaksuun ilman kuluja",
+
+    "security": "Maksimaalinen turvallisuus",
+    "security_desc": "Salatut tiedot ja GDPR:n noudattaminen"
+  },
+
+  "reviews": {
+    "title": "Mitä asiakkaamme sanovat",
+    "subtitle": "Tuhannet asiakkaat luottavat meihin",
+
+    "review1": {
+      "text": "Erinomainen palvelu! Sain lainani vain muutamassa päivässä. Tiimi kuunteli tarkasti ja oli ammattitaitoinen.",
+      "author": "Marie L.",
+      "location": "Pariisi"
+    },
+
+    "review2": {
+      "text": "Erittäin kilpailukykyiset korot ja yksinkertaistetut prosessit. Suosittelen lämpimästi PrêtFacilea projektiesi rahoittamiseen.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Erinomainen tuki alusta loppuun. Neuvonantajani oli käytettävissä ja vastasi kaikkiin kysymyksiini.",
+      "author": "Sophie M.",
+      "location": "Marseille"
+    }
+  }
+}

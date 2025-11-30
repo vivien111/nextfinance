@@ -1,31 +1,223 @@
 {
+  "application": {
+    "title": "Solicitud de Préstamo",
+    "description": "Complete este formulario para iniciar su solicitud. Respuesta en 24 horas.",
+    "success": {
+      "title": "¡Solicitud enviada con éxito!",
+      "message": "Hemos recibido su solicitud de préstamo. Nuestro equipo la revisará y se pondrá en contacto con usted en 24 horas para darle una respuesta preliminar."
+    },
+    "error": {
+      "title": "Error en el envío",
+      "message": "Ocurrió un error al enviar su solicitud. Por favor, inténtelo de nuevo."
+    },
+    "sections": {
+      "personal_info": "Información Personal",
+      "loan_details": "Detalles del Préstamo",
+      "employment_situation": "Situación Laboral"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Nombre *",
+        "last_name": "Apellido *",
+        "email": "Email *",
+        "phone": "Teléfono *",
+        "loan_amount": "Cantidad Deseada (€) *",
+        "loan_duration": "Duración (meses) *",
+        "loan_purpose": "Finalidad del Préstamo *",
+        "employment_status": "Situación Laboral *",
+        "monthly_income": "Ingresos Mensuales Netos (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Seleccione...",
+        "employment_status": "Seleccione..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Préstamo Personal",
+          "auto": "Compra de Vehículo",
+          "home": "Mejoras del Hogar",
+          "consolidation": "Reunificación de Deudas",
+          "other": "Otro"
+        },
+        "employment_status": {
+          "employed": "Empleado",
+          "self_employed": "Autónomo",
+          "unemployed": "Desempleado",
+          "retired": "Jubilado",
+          "student": "Estudiante"
+        },
+        "loan_duration": {
+          "12": "12 meses",
+          "24": "24 meses",
+          "36": "36 meses",
+          "48": "48 meses",
+          "60": "60 meses",
+          "72": "72 meses",
+          "84": "84 meses",
+          "96": "96 meses",
+          "120": "120 meses"
+        }
+      },
+      "privacy_notice": "Al enviar este formulario, acepta que sus datos serán utilizados para procesar su solicitud de préstamo. Su información es segura y confidencial.",
+      "buttons": {
+        "submit": "Enviar Mi Solicitud",
+        "submitting": "Enviando...",
+        "back_to_simulation": "Volver a la Simulación"
+      }
+    },
+    "next_steps": {
+      "title": "Próximos Pasos",
+      "steps": [
+        "Nuestro equipo revisa su solicitud en 24 horas",
+        "Recibe una respuesta preliminar por email y teléfono",
+        "Si su solicitud es aprobada, finalizamos los detalles juntos",
+        "Los fondos se transfieren rápidamente a su cuenta"
+      ]
+    }
+  },
   "hero": {
-    "title": "Realiza tus proyectos con",
-    "subtitle": "PrêtFacile",
-    "description": "Soluciones de financiación adaptadas a todas tus necesidades. Simulación gratuita y sin compromiso."
+    "title": "Haga realidad sus proyectos con",
+    "subtitle": "Popular Financia",
+    "description": "Soluciones de financiación adaptadas a todas sus necesidades. Simulación gratuita y sin compromiso.",
+    "simuler": "Simular Mi Préstamo",
+    "Faire": "Hacer una Solicitud"
   },
   "features": {
-    "title": "Nuestras ventajas",
+    "title": "Nuestras Ventajas",
     "freeSimulation": {
-      "title": "Simulación gratuita",
-      "description": "Calcula tus cuotas mensuales en pocos clics sin compromiso"
+      "title": "Simulación Gratuita",
+      "description": "Calcule sus cuotas mensuales en pocos clics sin compromiso"
     },
     "quickResponse": {
-      "title": "Respuesta rápida",
-      "description": "Obtén una respuesta de principio en 24 horas máximo"
+      "title": "Respuesta Rápida",
+      "description": "Obtenga una respuesta preliminar en 24 horas máximo"
     },
     "secure": {
-      "title": "Seguro y confidencial",
-      "description": "Tus datos están protegidos y permanecen confidenciales"
+      "title": "Seguro y Confidencial",
+      "description": "Sus datos están protegidos y permanecen confidenciales"
     }
   },
   "loans": {
-    "title": "Nuestras soluciones de préstamo",
-    "description": "Elige la solución adaptada a tu proyecto",
+    "title": "Nuestras Soluciones de Préstamo",
+    "description": "Elija la solución que se adapte a su proyecto",
     "personalLoan": "Préstamo Personal",
-    "autoLoan": "Préstamo Auto",
-    "worksLoan": "Préstamo Trabajos",
-    "from": "De",
+    "autoLoan": "Préstamo de Auto",
+    "worksLoan": "Préstamo para Reformas",
+    "from": "Desde",
     "duration": "Duración"
-  }
+  },
+  "testimonials": {
+    "title": "Ellos Confían en Nosotros",
+    "description": "Descubra las opiniones de nuestros clientes satisfechos"
+  },
+  "partners": {
+    "title": "Nuestros Socios Financieros"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentre rápidamente respuestas a sus preguntas",
+    "items": [
+      {
+        "question": "¿Qué documentos son necesarios para una solicitud de préstamo?",
+        "answer": "Para una solicitud de préstamo, necesitará: documento de identidad, justificante de domicilio, últimas nóminas (3 meses) y extractos bancarios recientes. La lista exacta puede variar según el tipo de préstamo."
+      },
+      {
+        "question": "¿Cuál es el tiempo de procesamiento de una solicitud?",
+        "answer": "Procesamos la mayoría de las solicitudes en 24 a 48 horas. Una vez aprobada, la transferencia de fondos se realiza generalmente en 3 a 5 días laborables."
+      },
+      {
+        "question": "¿Hay gastos de gestión?",
+        "answer": "No, Popular Financia no cobra gastos de gestión. Nuestra remuneración está incluida en el tipo de interés, lo que garantiza una total transparencia."
+      },
+      {
+        "question": "¿Puedo reembolsar mi préstamo anticipadamente?",
+        "answer": "Sí, puede reembolsar su préstamo anticipadamente sin comisiones ni penalizaciones. Simplemente contacte con nuestro servicio al cliente para organizar el reembolso."
+      },
+      {
+        "question": "¿Cuál es la diferencia entre un préstamo personal y un crédito al consumo?",
+        "answer": "El préstamo personal es de libre uso, mientras que el crédito al consumo está vinculado a una compra específica (coche, reformas...). El préstamo personal ofrece más flexibilidad."
+      },
+      {
+        "question": "¿Mi tipo de interés es fijo durante toda la duración del préstamo?",
+        "answer": "Sí, todos nuestros préstamos ofrecen tipos fijos garantizados durante toda la duración del contrato. Sus cuotas mensuales permanecen idénticas desde el primer hasta el último reembolso."
+      }
+    ],
+    "cta": {
+      "title": "¿No encuentra la respuesta a su pregunta?",
+      "description": "Nuestro equipo de asesores está a su disposición para responder a todas sus preguntas."
+    }
+  },
+  "cta": {
+    "title": "¿Listo para comenzar su proyecto?",
+    "description": "Únase a miles de clientes satisfechos y obtenga su respuesta en 24 horas"
+  },
+  "stats": {
+    "clients": "Clientes Satisfechos",
+    "reviews": "Opiniones de Clientes",
+    "acceptance": "Tasa de Aceptación"
+  },
+  "convincing_description": {
+    "title": "¿Por qué elegir Popular Financia para su proyecto?",
+    "expertise_title": "Experiencia y Simplicidad",
+    "expertise_description": "Con 10 años de experiencia, hemos simplificado el proceso de solicitud de préstamo para ahorrarle tiempo y evitar trámites administrativos.",
+    "rates_title": "Las Mejores Tasas Garantizadas",
+    "rates_description": "Gracias a nuestras alianzas con los principales bancos, negociamos para usted tipos de interés competitivos, a menudo inferiores a los ofrecidos en sucursales.",
+    "support_title": "Acompañamiento Personalizado",
+    "support_description": "Un asesor dedicado le sigue de principio a fin de su proyecto. Adaptamos nuestras soluciones a su situación única para maximizar sus posibilidades de aceptación.",
+    "time_title": "Ahorro de Tiempo Significativo",
+    "time_description": "¡Se acabaron los viajes a la sucursal! Nuestra plataforma 100% online le permite finalizar su solicitud en solo 15 minutos, 7 días a la semana.",
+    "badge_text": "de satisfacción",
+    "start_simulation": "Comenzar Mi Simulación Gratuita",
+    "talk_to_advisor": "Hablar con un Asesor"
+  },
+  "concise_advantages": {
+    "title": "La solución de financiación más simple del mercado",
+    "subtitle": "Hemos revolucionado la obtención de préstamos eliminando las complejidades y ofreciéndole una experiencia transparente y rápida.",
+    "quick_title": "Rápido",
+    "quick_description": "Respuesta en 24h y desbloqueo de fondos en 72h",
+    "economic_title": "Económico",
+    "economic_description": "0 gastos de gestión y tasas negociadas para usted",
+    "secure_title": "Seguro",
+    "secure_description": "Datos cifrados y proceso 100% seguro",
+    "tailored_title": "A Medida",
+    "tailored_description": "Soluciones adaptadas a su situación única",
+    "small_cta_title": "No deje más sus proyectos en espera",
+    "small_cta_description": "Cada día cuenta cuando se trata de concretar sus ambiciones. Miles de clientes confían en nosotros cada mes. ¿Y usted?",
+    "start_now": "Empiezo Ahora - Es Gratuito"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Préstamo Personal",
+      "features": ["Sin justificantes", "Decisión rápida", "Tasa competitiva"]
+    },
+    "autoLoan": {
+      "title": "Préstamo Auto",
+      "features": ["Vehículo nuevo o usado", "Financiación al 100%", "Seguro incluido"]
+    },
+    "worksLoan": {
+      "title": "Préstamo Reformas",
+      "features": ["Renovación", "Ampliación", "Mejora energética"]
+    },
+    "simulate_this_loan": "Simular Este Préstamo"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Proceso muy simple y equipo atento. ¡Mi préstamo fue aprobado en 24 horas!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "París",
+      "text": "Mejor tasa del mercado, recomiendo encarecidamente Popular Financia para sus proyectos.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marsella",
+      "text": "Simulación clara y transparente, sin sorpresas desagradables.",
+      "rating": 4
+    }
+  ]
 }

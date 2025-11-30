@@ -1,0 +1,223 @@
+{
+  "application": {
+    "title": "Kreditantrag",
+    "description": "Füllen Sie dieses Formular aus, um Ihren Antrag zu starten. Antwort innerhalb von 24 Stunden.",
+    "success": {
+      "title": "Antrag erfolgreich gesendet!",
+      "message": "Wir haben Ihren Kreditantrag erhalten. Unser Team wird ihn prüfen und sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen, um Ihnen eine Grundsatzentscheidung mitzuteilen."
+    },
+    "error": {
+      "title": "Fehler beim Senden",
+      "message": "Beim Senden Ihres Antrags ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    "sections": {
+      "personal_info": "Persönliche Informationen",
+      "loan_details": "Kreditdetails",
+      "employment_situation": "Berufliche Situation"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Vorname *",
+        "last_name": "Nachname *",
+        "email": "E-Mail *",
+        "phone": "Telefon *",
+        "loan_amount": "Gewünschter Betrag (€) *",
+        "loan_duration": "Laufzeit (Monate) *",
+        "loan_purpose": "Kreditzweck *",
+        "employment_status": "Beschäftigungsstatus *",
+        "monthly_income": "Netto-Monatseinkommen (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Auswählen...",
+        "employment_status": "Auswählen..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Privatkredit",
+          "auto": "Fahrzeugkauf",
+          "home": "Bauarbeiten",
+          "consolidation": "Kreditumschuldung",
+          "other": "Anderes"
+        },
+        "employment_status": {
+          "employed": "Angestellter",
+          "self_employed": "Selbstständig",
+          "unemployed": "Arbeitslos",
+          "retired": "Rentner",
+          "student": "Student"
+        },
+        "loan_duration": {
+          "12": "12 Monate",
+          "24": "24 Monate",
+          "36": "36 Monate",
+          "48": "48 Monate",
+          "60": "60 Monate",
+          "72": "72 Monate",
+          "84": "84 Monate",
+          "96": "96 Monate",
+          "120": "120 Monate"
+        }
+      },
+      "privacy_notice": "Durch das Absenden dieses Formulars erklären Sie sich damit einverstanden, dass Ihre Daten für die Bearbeitung Ihres Kreditantrags verwendet werden. Ihre Informationen sind geschützt und vertraulich.",
+      "buttons": {
+        "submit": "Antrag senden",
+        "submitting": "Wird gesendet...",
+        "back_to_simulation": "Zurück zur Simulation"
+      }
+    },
+    "next_steps": {
+      "title": "Nächste Schritte",
+      "steps": [
+        "Unser Team prüft Ihren Antrag innerhalb von 24 Stunden",
+        "Sie erhalten eine Grundsatzentscheidung per E-Mail und Telefon",
+        "Wenn Ihr Antrag angenommen wird, finalisieren wir gemeinsam die Details",
+        "Die Mittel werden schnell auf Ihr Konto überwiesen"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Verwirklichen Sie Ihre Projekte mit",
+    "subtitle": "Popular Financia",
+    "description": "Finanzierungslösungen, die auf alle Ihre Bedürfnisse zugeschnitten sind. Kostenlose Simulation und unverbindlich.",
+    "simuler": "Meinen Kredit simulieren",
+    "Faire": "Antrag stellen"
+  },
+  "features": {
+    "title": "Unsere Vorteile",
+    "freeSimulation": {
+      "title": "Kostenlose Simulation",
+      "description": "Berechnen Sie Ihre monatlichen Raten mit wenigen Klicks ohne Verpflichtung"
+    },
+    "quickResponse": {
+      "title": "Schnelle Antwort",
+      "description": "Erhalten Sie eine Grundsatzentscheidung innerhalb von 24 Stunden"
+    },
+    "secure": {
+      "title": "Sicher und vertraulich",
+      "description": "Ihre Daten sind geschützt und bleiben vertraulich"
+    }
+  },
+  "loans": {
+    "title": "Unsere Kreditlösungen",
+    "description": "Wählen Sie die Lösung, die zu Ihrem Projekt passt",
+    "personalLoan": "Privatkredit",
+    "autoLoan": "Autokredit",
+    "worksLoan": "Baukredit",
+    "from": "Ab",
+    "duration": "Laufzeit"
+  },
+  "testimonials": {
+    "title": "Sie vertrauen uns",
+    "description": "Entdecken Sie das Feedback unserer zufriedenen Kunden"
+  },
+  "partners": {
+    "title": "Unsere Finanzpartner"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie schnell Antworten auf Ihre Fragen",
+    "items": [
+      {
+        "question": "Welche Dokumente werden für einen Kreditantrag benötigt?",
+        "answer": "Für einen Kreditantrag benötigen Sie: Ausweisdokument, Wohnsitznachweis, letzte Gehaltsabrechnungen (3 Monate) und aktuelle Kontoauszüge. Die genaue Liste kann je nach Kreditart variieren."
+      },
+      {
+        "question": "Wie lange dauert die Bearbeitung eines Antrags?",
+        "answer": "Wir bearbeiten die meisten Anträge innerhalb von 24 bis 48 Stunden. Nach der Annahme erfolgt die Überweisung in der Regel innerhalb von 3 bis 5 Werktagen."
+      },
+      {
+        "question": "Gibt es Bearbeitungsgebühren?",
+        "answer": "Nein, PrêtFacile berechnet keine Bearbeitungsgebühren. Unsere Vergütung ist im Zinssatz enthalten, was volle Transparenz garantiert."
+      },
+      {
+        "question": "Kann ich meinen Kredit vorzeitig zurückzahlen?",
+        "answer": "Ja, Sie können Ihren Kredit vorzeitig ohne Gebühren oder Strafen zurückzahlen. Kontaktieren Sie einfach unseren Kundenservice, um die Rückzahlung zu organisieren."
+      },
+      {
+        "question": "Was ist der Unterschied zwischen einem Privatkredit und einem Zweckkredit?",
+        "answer": "Der Privatkredit ist frei verwendbar, während der Zweckkredit an einen bestimmten Kauf gebunden ist. Der Privatkredit bietet mehr Flexibilität."
+      },
+      {
+        "question": "Ist mein Zinssatz für die gesamte Kreditlaufzeit fest?",
+        "answer": "Ja, alle unsere Kredite bieten garantierte Festzinsen für die gesamte Vertragslaufzeit. Ihre monatlichen Raten bleiben von der ersten bis zur letzten Zahlung gleich."
+      }
+    ],
+    "cta": {
+      "title": "Finden Sie keine Antwort auf Ihre Frage?",
+      "description": "Unser Beraterteam steht Ihnen zur Verfügung, um alle Ihre Fragen zu beantworten."
+    }
+  },
+  "cta": {
+    "title": "Bereit, Ihr Projekt zu starten?",
+    "description": "Schließen Sie sich Tausenden zufriedenen Kunden an und erhalten Sie Ihre Antwort in 24 Stunden"
+  },
+  "stats": {
+    "clients": "Zufriedene Kunden",
+    "reviews": "Kundenbewertungen",
+    "acceptance": "Annahmequote"
+  },
+  "convincing_description": {
+    "title": "Warum PrêtFacile für Ihr Projekt wählen?",
+    "expertise_title": "Expertise und Einfachheit",
+    "expertise_description": "Mit 10 Jahren Erfahrung haben wir den Kreditantragsprozess vereinfacht, um Ihnen Zeit zu sparen und administrative Probleme zu vermeiden.",
+    "rates_title": "Die besten garantierten Zinssätze",
+    "rates_description": "Dank unserer Partnerschaften mit großen Banken verhandeln wir wettbewerbsfähige Zinssätze für Sie, oft niedriger als in Filialen angeboten.",
+    "support_title": "Persönliche Betreuung",
+    "support_description": "Ein persönlicher Berater begleitet Sie von Anfang bis Ende Ihres Projekts. Wir passen unsere Lösungen an Ihre einzigartige Situation an, um Ihre Annahmechancen zu maximieren.",
+    "time_title": "Erhebliche Zeitersparnis",
+    "time_description": "Schluss mit Filialbesuchen! Unsere 100% Online-Plattform ermöglicht es Ihnen, Ihren Antrag in nur 15 Minuten abzuschließen, 7 Tage die Woche.",
+    "badge_text": "Zufriedenheit",
+    "start_simulation": "Meine kostenlose Simulation starten",
+    "talk_to_advisor": "Mit einem Berater sprechen"
+  },
+  "concise_advantages": {
+    "title": "Die einfachste Finanzierungslösung auf dem Markt",
+    "subtitle": "Wir haben die Kreditvergabe revolutioniert, indem wir Komplexitäten beseitigt und Ihnen eine transparente, schnelle Erfahrung bieten.",
+    "quick_title": "Schnell",
+    "quick_description": "Antwort in 24h und Mittelbereitstellung in 72h",
+    "economic_title": "Wirtschaftlich",
+    "economic_description": "0 Bearbeitungsgebühren und für Sie verhandelte Zinssätze",
+    "secure_title": "Sicher",
+    "secure_description": "Verschlüsselte Daten und 100% sicherer Prozess",
+    "tailored_title": "Maßgeschneidert",
+    "tailored_description": "Lösungen, die an Ihre einzigartige Situation angepasst sind",
+    "small_cta_title": "Lassen Sie Ihre Projekte nicht länger warten",
+    "small_cta_description": "Jeder Tag zählt, wenn es darum geht, Ihre Ambitionen zu verwirklichen. Tausende Kunden vertrauen uns jeden Monat. Und Sie?",
+    "start_now": "Ich starte jetzt - Es ist kostenlos"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Privatkredit",
+      "features": ["Ohne Nachweise", "Schnelle Entscheidung", "Wettbewerbsfähiger Zinssatz"]
+    },
+    "autoLoan": {
+      "title": "Autokredit",
+      "features": ["Neues oder gebrauchtes Fahrzeug", "100% Finanzierung", "Versicherung inklusive"]
+    },
+    "worksLoan": {
+      "title": "Baukredit",
+      "features": ["Renovierung", "Erweiterung", "Energieverbesserung"]
+    },
+    "simulate_this_loan": "Diesen Kredit simulieren"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Sehr einfacher Prozess und aufmerksames Team. Mein Kredit wurde in 24 Stunden angenommen!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Paris",
+      "text": "Bester Zinssatz auf dem Markt, ich empfehle PrêtFacile wärmstens für Ihre Projekte.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marseille",
+      "text": "Klare und transparente Simulation, ohne böse Überraschungen.",
+      "rating": 4
+    }
+  ]
+}

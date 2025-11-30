@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Lainahakemus",
+    "description": "Täytä hakemuksesi muutamassa minuutissa ja saat alustavan vastauksen 24 tunnin sisällä",
+    
+    "sections": {
+      "personal_info": "Henkilötiedot",
+      "loan_details": "Lainan tiedot",
+      "employment_situation": "Työtilanne"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Etunimi",
+        "last_name": "Sukunimi",
+        "email": "Sähköpostiosoite",
+        "phone": "Puhelin",
+        "loan_amount": "Lainasumma",
+        "loan_duration": "Lainan kesto",
+        "monthly_income": "Kuukausitulot",
+        "employment_status": "Työtilanne",
+        "loan_purpose": "Lainan käyttötarkoitus"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Valitse lainan käyttötarkoitus",
+        "employment_status": "Valitse työtilanteesi"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 kuukautta",
+          "24": "24 kuukautta",
+          "36": "36 kuukautta",
+          "48": "48 kuukautta",
+          "60": "60 kuukautta",
+          "72": "72 kuukautta",
+          "84": "84 kuukautta"
+        },
+        "loan_purpose": {
+          "car": "Auton osto",
+          "works": "Remontti",
+          "equipment": "Laitteet",
+          "personal": "Henkilökohtainen projekti",
+          "debt": "Velkojen yhdistäminen",
+          "other": "Muu"
+        },
+        "employment_status": {
+          "employed": "Vakituinen työntekijä",
+          "employed_trial": "Kokeilujakson työntekijä",
+          "employed_fixed": "Määräaikainen työntekijä",
+          "civil_servant": "Valtion virkamies",
+          "self_employed": "Yrittäjä",
+          "freelancer": "Freelancer",
+          "retired": "Eläkeläinen",
+          "student": "Opiskelija",
+          "unemployed": "Työtön"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Lähetä hakemus",
+        "submitting": "Lähetetään...",
+        "back_to_simulation": "Takaisin simulointiin"
+      },
+      
+      "privacy_notice": "Tietosi ovat suojattuja ja luottamuksellisia. Tietosuojalainsäädännön mukaisesti sinulla on oikeus tarkastaa, korjata ja vastustaa henkilökohtaisia tietojasi koskevia tietoja.",
+      
+      "validation": {
+        "invalid_email": "Virheellinen sähköpostiosoite",
+        "invalid_phone": "Virheellinen puhelinnumero",
+        "min_amount": "Vähimmäissumma on 1 000 €",
+        "max_amount": "Maksimissumma on 100 000 €",
+        "min_income": "Kuukausitulojen tulee olla vähintään 500 €",
+        "min_length": "Kentän on sisällettävä vähintään 2 merkkiä",
+        "debt_too_high": "Lainasumma on liian korkea tuloihisi nähden"
+      }
+    },
+    
+    "success": {
+      "title": "Hakemus lähetetty!",
+      "message": "Lainahakemuksesi on lähetetty onnistuneesti. Tiimimme ottaa sinuun yhteyttä 24 tunnin sisällä."
+    },
+    
+    "error": {
+      "title": "Lähetyksen virhe",
+      "message": "Hakemuksen lähetyksessä tapahtui virhe. Yritä uudelleen tai ota suoraan yhteyttä."
+    },
+    
+    "next_steps": {
+      "title": "Seuraavat vaiheet",
+      "steps": [
+        "Hakemuksesi käsittely 24 tunnin sisällä",
+        "Yhteydenotto neuvonantajaltamme",
+        "Henkilökohtaisen tarjouksen vastaanottaminen",
+        "Varojen vapautus 48 tunnin kuluessa hyväksynnästä"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Reaaliaikainen simulointi",
+      "eligibility": "Kelpoisuus",
+      "monthly_payment": "Kuukausierä",
+      "total_interest": "Kokonaiskorot",
+      "total_amount": "Kokonaismäärä",
+      "debt_to_income": "Velka/tulot-suhde",
+      
+      "eligibility_high": "Korkea",
+      "eligibility_medium": "Keskitaso",
+      "eligibility_low": "Rajoitettu",
+      
+      "eligibility_low_warning": "Profiilisi vaatii lisäanalyysin",
+      
+      "advice": {
+        "title": "Henkilökohtainen neuvo",
+        "high_ratio": "Harkitse summan pienentämistä tai keston pidentämistä parantaaksesi suhdetta.",
+        "good_ratio": "Velka/tulot-suhteesi on kohtuullisella tasolla."
+      }
+    },
+    
+    "benefits": {
+      "title": "Edut",
+      "fast_processing": "Käsittely 24 tunnissa",
+      "competitive_rates": "Kilpailukykyiset korot",
+      "no_hidden_fees": "Ei piilokuluja",
+      "flexible_terms": "Joustavat laina-ajat"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Ehdotus: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Lainasimulaattori",
+    "subtitle": "Laske kuukausieräsi reaaliajassa ja löydä budjettiisi sopiva ratkaisu",
+    
+    "loanParameters": "Lainan asetukset",
+    "loanAmount": "Lainasumma",
+    "loanDuration": "Lainan kesto",
+    "interestRate": "Vuosikorko",
+    "interestNote": "Ohjeellinen korko, hyväksyntä edellyttää hakemuksen tarkastusta",
+    
+    "monthlyPayments": "Kuukausieräsi",
+    "perMonth": "kuukaudessa",
+    
+    "financingDetails": "Rahoituksen tiedot",
+    "borrowedAmount": "Lainattu määrä",
+    "totalInterest": "Kokonaiskorot",
+    "totalCost": "Lainan kokonaiskustannus",
+    
+    "applyButton": "Hae lainaa",
+    "simulationNote": "Tämä simulointi on vain ohjeellinen eikä muodosta virallista lainatarjousta. Lopulliset ehdot määritellään hakemuksesi käsittelyn jälkeen.",
+    
+    "howItWorks": "Miten se toimii?",
+    "step1Title": "Simuloi",
+    "step1Text": "Säädä asetuksia löytääksesi budjettiisi sopiva kuukausierä",
+    "step2Title": "Hae",
+    "step2Text": "Täytä hakemus muutamassa minuutissa",
+    "step3Title": "Vastaanota",
+    "step3Text": "Saat alustavan vastauksen 24 tunnin sisällä ja varat nopeasti"
+  }
+}

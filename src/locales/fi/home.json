@@ -1,0 +1,247 @@
+{
+  "simulation": {
+    "title": "Lainasimulaattori",
+    "subtitle": "Laske kuukausieräsi reaaliaikaisesti ja löydä budjettiisi sopiva ratkaisu",
+    "loanParameters": "Lainan parametrit",
+    "loanAmount": "Lainan määrä",
+    "loanDuration": "Lainan kesto",
+    "interestRate": "Vuosikorko",
+    "interestNote": "Osoituskorko hakemuksesi hyväksymisen alainen",
+    "monthlyPayments": "Kuukausieräsi",
+    "perMonth": "kuukaudessa",
+    "financingDetails": "Rahoituksen yksityiskohdat",
+    "borrowedAmount": "Lainattu määrä",
+    "totalInterest": "Kokonaiskorko",
+    "totalCost": "Lainan kokonaiskustannus",
+    "applyButton": "Tee lainahakemus",
+    "simulationNote": "Tämä simulointi on suuntaa antava eikä muodosta lainatarjousta. Lopulliset ehdot määritetään hakemuksesi käsittelyn jälkeen.",
+    "howItWorks": "Miten se toimii?",
+    "step1Title": "Simuloi",
+    "step1Text": "Säädä parametreja löytääksesi budjettiisi sopiva kuukausierä",
+    "step2Title": "Hae",
+    "step2Text": "Täytä hakemuslomake muutamassa minuutissa",
+    "step3Title": "Vastaanota",
+    "step3Text": "Saa periaatepäätös 24 tunnissa ja varat nopeasti"
+  },
+  "application": {
+    "title": "Lainahakemus",
+    "description": "Täytä tämä lomake aloittaaksesi hakemuksesi. Vastaus 24 tunnissa.",
+    "success": {
+      "title": "Hakemus lähetetty onnistuneesti!",
+      "message": "Olemme vastaanottaneet lainahakemuksesi. Tiimimme käsittelee sen ja ottaa sinuun yhteyttä 24 tunnin kuluessa antaakseen periaatepäätöksen."
+    },
+    "error": {
+      "title": "Virhe lähetyksessä",
+      "message": "Hakemuksesi lähetyksessä tapahtui virhe. Yritä uudelleen."
+    },
+    "sections": {
+      "personal_info": "Henkilökohtaiset tiedot",
+      "loan_details": "Lainan yksityiskohdat",
+      "employment_situation": "Työtilanne"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Etunimi *",
+        "last_name": "Sukunimi *",
+        "email": "Sähköposti *",
+        "phone": "Puhelin *",
+        "loan_amount": "Toivottu määrä (€) *",
+        "loan_duration": "Kesto (kuukautta) *",
+        "loan_purpose": "Lainan tarkoitus *",
+        "employment_status": "Työtilanne *",
+        "monthly_income": "Nettokuukausitulot (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Valitse...",
+        "employment_status": "Valitse..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Yksityislaina",
+          "auto": "Ajoneuvon osto",
+          "home": "Rakennustyöt",
+          "consolidation": "Lainojen yhdistäminen",
+          "other": "Muu"
+        },
+        "employment_status": {
+          "employed": "Palkkatyöläinen",
+          "self_employed": "Yrittäjä",
+          "unemployed": "Työtön",
+          "retired": "Eläkeläinen",
+          "student": "Opiskelija"
+        },
+        "loan_duration": {
+          "12": "12 kuukautta",
+          "24": "24 kuukautta",
+          "36": "36 kuukautta",
+          "48": "48 kuukautta",
+          "60": "60 kuukautta",
+          "72": "72 kuukautta",
+          "84": "84 kuukautta",
+          "96": "96 kuukautta",
+          "120": "120 kuukautta"
+        }
+      },
+      "privacy_notice": "Lähettämällä tämän lomakkeen hyväksyt, että tietojasi käytetään lainahakemuksesi käsittelyyn. Tietosi ovat suojattuja ja luottamuksellisia.",
+      "buttons": {
+        "submit": "Lähetä hakemus",
+        "submitting": "Lähetetään...",
+        "back_to_simulation": "Palaa simulointiin"
+      }
+    },
+    "next_steps": {
+      "title": "Seuraavat vaiheet",
+      "steps": [
+        "Tiimimme käsittelee hakemuksesi 24 tunnin kuluessa",
+        "Saat periaatepäätöksen sähköpostitse ja puhelimitse",
+        "Jos hakemuksesi hyväksytään, viimeistelemme yksityiskohdat yhdessä",
+        "Varat siirretään nopeasti tilillesi"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Toteuta projektisi",
+    "subtitle": "Popular Financia",
+    "description": "Rahoitusratkaisut kaikkiin tarpeisiisi. Ilmainen simulointi ja sitoutumatta.",
+    "simuler": "Simuloi lainaani",
+    "Faire": "Tee hakemus"
+  },
+  "features": {
+    "title": "Etumme",
+    "freeSimulation": {
+      "title": "Ilmainen simulointi",
+      "description": "Laske kuukausieräsi muutamalla napsautuksella sitoutumatta"
+    },
+    "quickResponse": {
+      "title": "Nopea vastaus",
+      "description": "Saa periaatepäätös 24 tunnissa"
+    },
+    "secure": {
+      "title": "Turvallinen ja luottamuksellinen",
+      "description": "Tietosi on suojattu ja pysyy luottamuksellisina"
+    }
+  },
+  "loans": {
+    "title": "Lainaratkaisumme",
+    "description": "Valitse projektiisi sopiva ratkaisu",
+    "personalLoan": "Yksityislaina",
+    "autoLoan": "Autolaina",
+    "worksLoan": "Rakennuslaina",
+    "from": "Alkaen",
+    "duration": "Kesto"
+  },
+  "testimonials": {
+    "title": "He luottavat meihin",
+    "description": "Tutustu tyytyväisten asiakkaidemme palautteeseen"
+  },
+  "partners": {
+    "title": "Rahoituskumppanimme"
+  },
+  "faq": {
+    "title": "Usein kysytyt kysymykset",
+    "description": "Löydä nopeasti vastaukset kysymyksiisi",
+    "items": [
+      {
+        "question": "Mitä asiakirjoja tarvitaan lainahakemusta varten?",
+        "answer": "Lainahakemusta varten tarvitset: henkilötodistuksen, osoitetodistuksen, viimeisimmät palkkalaskelmat (3 kuukautta) ja äskettäiset tiliotteen. Tarkka luettelo voi vaihdella lainatyypin mukaan."
+      },
+      {
+        "question": "Mikä on hakemuksen käsittelyaika?",
+        "answer": "Käsittelemme suurimman osan hakemuksista 24-48 tunnissa. Hyväksymisen jälkeen varojen siirto tapahtuu yleensä 3-5 arkipäivässä."
+      },
+      {
+        "question": "Onko hakemusmaksuja?",
+        "answer": "Ei, PrêtFacile veloita hakemusmaksuja. Palkkiomme sisältyy korkoon, mikä takaa täydellisen läpinäkyvyyden."
+      },
+      {
+        "question": "Voinko maksaa lainani etuajassa?",
+        "answer": "Kyllä, voit maksaa lainasi etuajassa ilman maksuja tai sakkoja. Ota yhteyttä asiakaspalveluun maksun järjestämiseksi."
+      },
+      {
+        "question": "Mitä eroa on yksityislainalla ja kohdennetulla luotolla?",
+        "answer": "Yksityislaina on vapaasti käytettävissä, kun taas kohdennettu luotto liittyy tiettyyn ostoon. Yksityislaina tarjoaa enemmän joustavuutta."
+      },
+      {
+        "question": "Pysyykö korkoni kiinteänä koko laina-ajan?",
+        "answer": "Kyllä, kaikki lainamme tarjoavat kiinteät korot, jotka on taattu koko sopimuskauden ajan. Kuukausieräsi pysyy samana ensimmäisestä viimeiseen maksuun."
+      }
+    ],
+    "cta": {
+      "title": "Etkö löydä vastausta kysymykseesi?",
+      "description": "Neuvonantajatiimimme on käytettävissäsi vastaamaan kaikkiin kysymyksiisi."
+    }
+  },
+  "cta": {
+    "title": "Valmiina aloittamaan projektisi?",
+    "description": "Liity tuhansiin tyytyväisiin asiakkaiimme ja saa vastauksesi 24 tunnissa"
+  },
+  "stats": {
+    "clients": "Tyytyväisiä asiakkaita",
+    "reviews": "Asiakasarvostelut",
+    "acceptance": "Hyväksymisprosentti"
+  },
+  "convincing_description": {
+    "title": "Miksi valita PrêtFacile projektillesi?",
+    "expertise_title": "Asiantuntemus ja Yksinkertaisuus",
+    "expertise_description": "10 vuoden kokemuksella olemme yksinkertaistaneet lainahakemusprosessia säästääksemme aikaasi ja välttääksemme hallinnollisia vaivoja.",
+    "rates_title": "Parhaat taatut korot",
+    "rates_description": "Ranskalaisten pankkien kumppanuuksien ansiosta neuvottelemme kilpailukykyiset korot, usein alhaisemmat kuin konttoreissa tarjotaan.",
+    "support_title": "Henkilökohtainen tuki",
+    "support_description": "Oma neuvonantaja seuraa sinua projektisi alusta loppuun. Mukautamme ratkaisut ainutlaatuiseen tilanteeseesi maksimoidaksemme hyväksymismahdollisuutesi.",
+    "time_title": "Merkittävä aikasäästö",
+    "time_description": "Ei enää konttorikäyntejä! 100% verkkoplattformimme mahdollistaa hakemuksesi viimeistelyn vain 15 minuutissa, 7 päivänä viikossa.",
+    "badge_text": "tyytyväisyyttä",
+    "start_simulation": "Aloita ilmainen simulaationi",
+    "talk_to_advisor": "Puhu neuvonantajalle"
+  },
+  "concise_advantages": {
+    "title": "Yksinkertaisin rahoitusratkaisu markkinoilla",
+    "subtitle": "Olemme mullistaneet lainan saamisen poistamalla monimutkaisuudet ja tarjoamalla läpinäkyvän, nopean kokemuksen.",
+    "quick_title": "Nopea",
+    "quick_description": "Vastaus 24 tunnissa ja varat 72 tunnissa",
+    "economic_title": "Taloudellinen",
+    "economic_description": "0 hakemusmaksua ja sinulle neuvotellut korot",
+    "secure_title": "Turvallinen",
+    "secure_description": "Salatut tiedot ja 100% turvallinen prosessi",
+    "tailored_title": "Räätälöity",
+    "tailored_description": "Ainutlaatuiseen tilanteeseesi mukautetut ratkaisut",
+    "small_cta_title": "Älä jätä projektejasi odottamaan",
+    "small_cta_description": "Jokainen päivä merkitsee, kun toteutat unelmiasi. Tuhannet asiakkaat luottavat meihin kuukausittain. Entä sinä?",
+    "start_now": "Aloitan nyt - Se on ilmaista"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Yksityislaina",
+      "features": ["Ilman todisteita", "Nopea päätös", "Kilpailukykyinen korko"]
+    },
+    "autoLoan": {
+      "title": "Autolaina",
+      "features": ["Uusi tai käytetty ajoneuvo", "100% rahoitus", "Vakuutus sisältyy"]
+    },
+    "worksLoan": {
+      "title": "Rakennuslaina",
+      "features": ["Kunnostus", "Laajennus", "Energiatehokkuusparannus"]
+    },
+    "simulate_this_loan": "Simuloi tätä lainaa"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Erittäin yksinkertainen prosessi ja kuunteleva tiimi. Lainani hyväksyttiin 24 tunnissa!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Pariisi",
+      "text": "Paras korko markkinoilla, suosittelen lämpimästi PrêtFacileä projekteihisi.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marseille",
+      "text": "Selkeä ja läpinäkyvä simulointi, ilman ikäviä yllätyksiä.",
+      "rating": 4
+    }
+  ]
+}

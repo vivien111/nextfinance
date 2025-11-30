@@ -25,11 +25,18 @@
   },
   "language": {
     "select": "Idioma / Language",
-    "french": "Français",
+   "french": "Français",
     "english": "English",
     "spanish": "Español",
     "german": "Deutsch",
     "italian": "Italiano",
-    "portuguese": "Português"
+    "portuguese": "Português",
+    "greek": "Grec",
+    "finnish": "Finlandais",
+    "dutch": "Néerlandais",
+    "azerbaijani": "Azéri",
+    "polish": "Polonais",
+    "maltese": "Maltais",
+    "czech": "Tchèque"
   }
 }

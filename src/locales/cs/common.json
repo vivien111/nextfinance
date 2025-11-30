@@ -1,0 +1,42 @@
+{
+  "navigation": {
+    "home": "Domů",
+    "simulation": "Simulace",
+    "application": "Žádost o půjčku",
+    "about": "O nás",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "navigation": "Navigace",
+    "contact": "Kontakt",
+    "email": "Email",
+    "phone": "Tel",
+    "schedule": "Po - Pá",
+    "hours": "9:00 - 18:00",
+    "rights": "Všechna práva vyhrazena",
+    "description": "Váš důvěryhodný partner pro všechny vaše projekty financování. Půjčky přizpůsobené vašim potřebám."
+  },
+  "buttons": {
+    "simulateLoan": "Simulovat půjčku",
+    "makeRequest": "Odeslat žádost",
+    "simulateThisLoan": "Simulovat tuto půjčku",
+    "startSimulation": "Spustit simulaci",
+    "contactUs": "Kontaktujte nás"
+  },
+  "language": {
+    "select": "Jazyk / Language",
+    "french": "Francouzština",
+    "english": "Angličtina",
+    "spanish": "Španělština",
+    "german": "Němčina",
+    "italian": "Italština",
+    "portuguese": "Portugalština",
+    "greek": "Řečtina",
+    "finnish": "Finština",
+    "dutch": "Nizozemština",
+    "azerbaijani": "Ázerbájdžánština",
+    "polish": "Polština",
+    "maltese": "Maltština",
+    "czech": "Čeština"
+  }
+}

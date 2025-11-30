@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "À propos de PrêtFacile",
+    "subtitle": "Depuis 2008, nous aidons des milliers de personnes à réaliser leurs projets grâce à des solutions de financement adaptées et accessibles."
+  },
+
+  "stats": {
+    "clients": "Clients satisfaits",
+    "experience": "D'expérience",
+    "responseTime": "Délai de réponse",
+    "satisfaction": "Taux de satisfaction"
+  },
+
+  "mission": {
+    "title": "Notre mission",
+    "text": "Rendre le crédit accessible et transparent pour tous, en accompagnant chaque client dans la réalisation de ses projets personnels et professionnels."
+  },
+
+  "values": {
+    "listen": {
+      "title": "À votre écoute",
+      "desc": "Nous prenons le temps de comprendre vos besoins et vos projets pour vous proposer la meilleure solution."
+    },
+    "expertise": {
+      "title": "Expertise reconnue",
+      "desc": "Plus de 15 ans d'expérience dans le secteur du crédit pour vous accompagner en toute confiance."
+    },
+    "personalSupport": {
+      "title": "Accompagnement personnalisé",
+      "desc": "Un conseiller dédié vous guide à chaque étape de votre demande de prêt."
+    },
+    "transparency": {
+      "title": "Transparence totale",
+      "desc": "Des conditions claires, sans frais cachés. Vous savez exactement ce que vous payez."
+    }
+  },
+
+  "team": {
+    "title": "Une équipe d'experts à votre service",
+    "text1": "Notre équipe de conseillers spécialisés est formée pour vous offrir le meilleur accompagnement possible. Nous étudions chaque dossier avec attention et proposons des solutions personnalisées adaptées à votre situation.",
+    "text2": "Que vous souhaitiez financer un achat important, réaliser des travaux ou concrétiser un projet personnel, nous sommes là pour vous guider et vous conseiller à chaque étape.",
+
+    "points": {
+      "advice": "Conseil gratuit : Nos experts répondent à toutes vos questions",
+      "fastStudy": "Étude rapide : Réponse de principe sous 24h",
+      "followUp": "Suivi personnalisé : Un conseiller dédié jusqu'au déblocage des fonds"
+    }
+  },
+
+  "why": {
+    "title": "Pourquoi nous choisir ?",
+    "competitiveRates": "Taux compétitifs",
+    "competitiveRates_desc": "Nous négocions les meilleurs taux pour votre profil",
+
+    "simplifiedProcess": "Process simplifié",
+    "simplifiedProcess_desc": "Démarches en ligne et signature électronique",
+
+    "flexibility": "Flexibilité",
+    "flexibility_desc": "Possibilité de remboursement anticipé sans frais",
+
+    "security": "Sécurité maximale",
+    "security_desc": "Données cryptées et respect du RGPD"
+  },
+
+  "reviews": {
+    "title": "Ce que disent nos clients",
+    "subtitle": "Des milliers de clients nous font confiance",
+
+    "review1": {
+      "text": "Service impeccable ! J'ai obtenu mon prêt en quelques jours seulement. L'équipe a été très à l'écoute et professionnelle.",
+      "author": "Marie L.",
+      "location": "Paris"
+    },
+
+    "review2": {
+      "text": "Taux très compétitif et démarches simplifiées. Je recommande vivement PrêtFacile pour financer vos projets.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Excellent accompagnement du début à la fin. Mon conseiller a été disponible et a répondu à toutes mes questions.",
+      "author": "Sophie M.",
+      "location": "Marseille"
+    }
+  }
+}

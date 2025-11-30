@@ -12,24 +12,31 @@
     "email": "Email",
     "phone": "Tel",
     "schedule": "Lun - Ven",
-    "hours": "9h - 18h",
+    "hours": "9:00 - 18:00",
     "rights": "Tutti i diritti riservati",
-    "description": "Il tuo partner affidabile per tutti i tuoi progetti di finanziamento. Soluzioni di prestito adattate alle tue esigenze."
+    "description": "Il tuo partner affidabile per tutti i tuoi progetti di finanziamento. Soluzioni di prestito su misura per le tue esigenze."
   },
   "buttons": {
     "simulateLoan": "Simula il mio prestito",
-    "makeRequest": "Fare una richiesta",
+    "makeRequest": "Invia richiesta",
     "simulateThisLoan": "Simula questo prestito",
     "startSimulation": "Inizia simulazione",
     "contactUs": "Contattaci"
   },
   "language": {
     "select": "Lingua / Language",
-    "french": "Français",
-    "english": "English",
-    "spanish": "Español",
-    "german": "Deutsch",
+    "french": "Francese",
+    "english": "Inglese",
+    "spanish": "Spagnolo",
+    "german": "Tedesco",
     "italian": "Italiano",
-    "portuguese": "Português"
+    "portuguese": "Portoghese",
+    "greek": "Greco",
+    "finnish": "Finlandese",
+    "dutch": "Olandese",
+    "azerbaijani": "Azero",
+    "polish": "Polacco",
+    "maltese": "Maltese",
+    "czech": "Ceco"
   }
 }

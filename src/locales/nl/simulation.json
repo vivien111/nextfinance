@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Leningsaanvraag",
+    "description": "Vul je aanvraag in enkele minuten in en ontvang binnen 24 uur een voorlopige reactie",
+    
+    "sections": {
+      "personal_info": "Persoonlijke Gegevens",
+      "loan_details": "Leningdetails",
+      "employment_situation": "Werkstatus"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Voornaam",
+        "last_name": "Achternaam",
+        "email": "E-mailadres",
+        "phone": "Telefoon",
+        "loan_amount": "Leningbedrag",
+        "loan_duration": "Looptijd",
+        "monthly_income": "Maandinkomen",
+        "employment_status": "Werkstatus",
+        "loan_purpose": "Doel van de lening"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Selecteer het doel van de lening",
+        "employment_status": "Selecteer je werkstatus"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 maanden",
+          "24": "24 maanden",
+          "36": "36 maanden",
+          "48": "48 maanden",
+          "60": "60 maanden",
+          "72": "72 maanden",
+          "84": "84 maanden"
+        },
+        "loan_purpose": {
+          "car": "Aankoop voertuig",
+          "works": "Renovatie",
+          "equipment": "Apparatuur",
+          "personal": "Persoonlijk project",
+          "debt": "Schulden herfinanciering",
+          "other": "Anders"
+        },
+        "employment_status": {
+          "employed": "Vast dienstverband",
+          "employed_trial": "Dienstverband proeftijd",
+          "employed_fixed": "Tijdelijk dienstverband",
+          "civil_servant": "Ambtenaar",
+          "self_employed": "Zelfstandig ondernemer",
+          "freelancer": "Freelancer",
+          "retired": "Pensioen",
+          "student": "Student",
+          "unemployed": "Werkloos"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Verstuur aanvraag",
+        "submitting": "Bezig met verzenden...",
+        "back_to_simulation": "Terug naar simulatie"
+      },
+      
+      "privacy_notice": "Je gegevens worden beschermd en vertrouwelijk behandeld. Conform de wetgeving inzake gegevensbescherming heb je recht op toegang, correctie en bezwaar tegen jouw gegevens.",
+      
+      "validation": {
+        "invalid_email": "Ongeldig e-mailadres",
+        "invalid_phone": "Ongeldig telefoonnummer",
+        "min_amount": "Het minimale bedrag is € 1.000",
+        "max_amount": "Het maximale bedrag is € 100.000",
+        "min_income": "Het maandinkomen moet minimaal € 500 zijn",
+        "min_length": "Dit veld moet minstens 2 tekens bevatten",
+        "debt_too_high": "Het leningbedrag is te hoog in verhouding tot je inkomen"
+      }
+    },
+    
+    "success": {
+      "title": "Aanvraag verzonden!",
+      "message": "Je leningaanvraag is succesvol verzonden. Ons team neemt binnen 24 uur contact met je op."
+    },
+    
+    "error": {
+      "title": "Verzendfout",
+      "message": "Er is een fout opgetreden bij het verzenden van je aanvraag. Probeer het opnieuw of neem direct contact met ons op."
+    },
+    
+    "next_steps": {
+      "title": "Volgende Stappen",
+      "steps": [
+        "Analyse van je dossier binnen 24 uur",
+        "Contact met onze adviseur",
+        "Ontvangst van je gepersonaliseerde aanbod",
+        "Uitbetaling van fondsen binnen 48 uur na acceptatie"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Realtime Simulatie",
+      "eligibility": "Geschiktheid",
+      "monthly_payment": "Maandelijkse Betaling",
+      "total_interest": "Totale Rente",
+      "total_amount": "Totaalbedrag",
+      "debt_to_income": "Schuldratio ten opzichte van inkomen",
+      
+      "eligibility_high": "Hoog",
+      "eligibility_medium": "Gemiddeld",
+      "eligibility_low": "Laag",
+      
+      "eligibility_low_warning": "Je profiel vereist aanvullende analyse",
+      
+      "advice": {
+        "title": "Persoonlijk Advies",
+        "high_ratio": "Overweeg het bedrag te verlagen of de looptijd te verlengen om je schuldratio te verbeteren.",
+        "good_ratio": "Je schuldratio ten opzichte van inkomen ligt binnen een redelijke marge."
+      }
+    },
+    
+    "benefits": {
+      "title": "Onze Voordelen",
+      "fast_processing": "Verwerking binnen 24 uur",
+      "competitive_rates": "Concurrerende tarieven",
+      "no_hidden_fees": "Geen verborgen kosten",
+      "flexible_terms": "Flexibele looptijden"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Suggestie: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Lening Simulator",
+    "subtitle": "Bereken je maandelijkse betalingen realtime en vind de oplossing die bij je budget past",
+    
+    "loanParameters": "Leningparameters",
+    "loanAmount": "Leningbedrag",
+    "loanDuration": "Looptijd",
+    "interestRate": "Jaarlijkse Rente",
+    "interestNote": "Indicatieve rente, onder voorbehoud van goedkeuring van je aanvraag",
+    
+    "monthlyPayments": "Je Maandelijkse Betalingen",
+    "perMonth": "per maand",
+    
+    "financingDetails": "Financieringsdetails",
+    "borrowedAmount": "Geleend Bedrag",
+    "totalInterest": "Totale Rente",
+    "totalCost": "Totale Kredietkosten",
+    
+    "applyButton": "Vraag de Lening Aan",
+    "simulationNote": "Deze simulatie is alleen indicatief en vormt geen leningaanbod. Definitieve voorwaarden worden vastgesteld na analyse van je aanvraag.",
+    
+    "howItWorks": "Hoe Werkt Het?",
+    "step1Title": "Simuleer",
+    "step1Text": "Pas de parameters aan om de maandelijkse betaling te vinden die bij je budget past",
+    "step2Title": "Vraag Aan",
+    "step2Text": "Vul het aanvraagformulier in enkele minuten in",
+    "step3Title": "Ontvang",
+    "step3Text": "Ontvang een voorlopige reactie binnen 24 uur en de fondsen snel"
+  }
+}

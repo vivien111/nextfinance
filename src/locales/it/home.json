@@ -1,0 +1,223 @@
+{
+  "application": {
+    "title": "Richiesta prestito",
+    "description": "Compila questo modulo per avviare la tua richiesta. Risposta entro 24 ore.",
+    "success": {
+      "title": "Richiesta inviata con successo!",
+      "message": "Abbiamo ricevuto la tua richiesta di prestito. Il nostro team la esaminerà e ti contatterà entro 24 ore per fornirti una risposta di principio."
+    },
+    "error": {
+      "title": "Errore durante l'invio",
+      "message": "Si è verificato un errore durante l'invio della tua richiesta. Riprova per favore."
+    },
+    "sections": {
+      "personal_info": "Informazioni personali",
+      "loan_details": "Dettagli del prestito",
+      "employment_situation": "Situazione lavorativa"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Nome *",
+        "last_name": "Cognome *",
+        "email": "Email *",
+        "phone": "Telefono *",
+        "loan_amount": "Importo richiesto (€) *",
+        "loan_duration": "Durata (mesi) *",
+        "loan_purpose": "Finalità del prestito *",
+        "employment_status": "Status lavorativo *",
+        "monthly_income": "Reddito mensile netto (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Seleziona...",
+        "employment_status": "Seleziona..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Prestito personale",
+          "auto": "Acquisto veicolo",
+          "home": "Lavori casa",
+          "consolidation": "Ristrutturazione debiti",
+          "other": "Altro"
+        },
+        "employment_status": {
+          "employed": "Lavoratore dipendente",
+          "self_employed": "Autonomo",
+          "unemployed": "Disoccupato",
+          "retired": "Pensionato",
+          "student": "Studente"
+        },
+        "loan_duration": {
+          "12": "12 mesi",
+          "24": "24 mesi",
+          "36": "36 mesi",
+          "48": "48 mesi",
+          "60": "60 mesi",
+          "72": "72 mesi",
+          "84": "84 mesi",
+          "96": "96 mesi",
+          "120": "120 mesi"
+        }
+      },
+      "privacy_notice": "Inviando questo modulo, accetti che i tuoi dati vengano utilizzati per valutare la tua richiesta di prestito. Le tue informazioni sono sicure e riservate.",
+      "buttons": {
+        "submit": "Invia la mia richiesta",
+        "submitting": "Invio in corso...",
+        "back_to_simulation": "Torna alla simulazione"
+      }
+    },
+    "next_steps": {
+      "title": "Prossimi passi",
+      "steps": [
+        "Il nostro team esaminerà la tua richiesta entro 24 ore",
+        "Riceverai una risposta di principio via email e telefono",
+        "Se la tua richiesta viene accettata, finalizzeremo i dettagli insieme",
+        "I fondi saranno trasferiti rapidamente sul tuo conto"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Realizza i tuoi progetti con",
+    "subtitle": "Popular Financia",
+    "description": "Soluzioni di finanziamento adatte a tutte le tue esigenze. Simulazione gratuita e senza impegno.",
+    "simuler": "Simula il mio prestito",
+    "Faire": "Invia richiesta"
+  },
+  "features": {
+    "title": "I nostri vantaggi",
+    "freeSimulation": {
+      "title": "Simulazione gratuita",
+      "description": "Calcola le tue rate in pochi clic senza impegno"
+    },
+    "quickResponse": {
+      "title": "Risposta rapida",
+      "description": "Ricevi una risposta di principio entro 24 ore"
+    },
+    "secure": {
+      "title": "Sicuro e riservato",
+      "description": "I tuoi dati sono protetti e rimangono riservati"
+    }
+  },
+  "loans": {
+    "title": "Le nostre soluzioni di prestito",
+    "description": "Scegli la soluzione adatta al tuo progetto",
+    "personalLoan": "Prestito personale",
+    "autoLoan": "Prestito auto",
+    "worksLoan": "Prestito lavori",
+    "from": "Da",
+    "duration": "Durata"
+  },
+  "testimonials": {
+    "title": "Ci scelgono i nostri clienti",
+    "description": "Scopri i feedback dei nostri clienti soddisfatti"
+  },
+  "partners": {
+    "title": "I nostri partner finanziari"
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "description": "Trova rapidamente le risposte alle tue domande",
+    "items": [
+      {
+        "question": "Quali documenti sono necessari per una richiesta di prestito?",
+        "answer": "Per una richiesta di prestito, avrai bisogno di: documento d'identità, prova di residenza, ultime buste paga (3 mesi) e estratti conto recenti. La lista può variare in base al tipo di prestito."
+      },
+      {
+        "question": "Qual è il tempo di elaborazione di una richiesta?",
+        "answer": "La maggior parte delle richieste viene elaborata entro 24-48 ore. Una volta accettata, il trasferimento dei fondi avviene generalmente entro 3-5 giorni lavorativi."
+      },
+      {
+        "question": "Ci sono costi di pratica?",
+        "answer": "No, PrêtFacile non applica alcun costo di pratica. La nostra remunerazione è inclusa nel tasso d'interesse, garantendo totale trasparenza."
+      },
+      {
+        "question": "Posso rimborsare il prestito anticipatamente?",
+        "answer": "Sì, puoi rimborsare il prestito in anticipo senza costi o penalità. Contatta il nostro servizio clienti per organizzare il rimborso."
+      },
+      {
+        "question": "Qual è la differenza tra prestito personale e credito vincolato?",
+        "answer": "Il prestito personale è libero nell'uso, mentre il credito vincolato è legato a un acquisto specifico (auto, lavori…). Il prestito personale offre maggiore flessibilità."
+      },
+      {
+        "question": "Il tasso rimane fisso per tutta la durata del prestito?",
+        "answer": "Sì, tutti i nostri prestiti hanno tassi fissi garantiti per tutta la durata del contratto. Le tue rate rimangono identiche dall'inizio alla fine."
+      }
+    ],
+    "cta": {
+      "title": "Non trovi la risposta alla tua domanda?",
+      "description": "Il nostro team di consulenti è a tua disposizione per rispondere a tutte le tue domande."
+    }
+  },
+  "cta": {
+    "title": "Pronto ad avviare il tuo progetto?",
+    "description": "Unisciti ai migliaia di clienti soddisfatti e ottieni la tua risposta entro 24 ore"
+  },
+  "stats": {
+    "clients": "Clienti soddisfatti",
+    "reviews": "Recensioni clienti",
+    "acceptance": "Tasso di accettazione"
+  },
+  "convincing_description": {
+    "title": "Perché scegliere PrêtFacile per il tuo progetto?",
+    "expertise_title": "Esperienza e semplicità",
+    "expertise_description": "Con oltre 10 anni di esperienza, abbiamo semplificato il processo di richiesta prestito per farti risparmiare tempo ed evitare complicazioni burocratiche.",
+    "rates_title": "I migliori tassi garantiti",
+    "rates_description": "Grazie alle partnership con le principali banche francesi, negoziamo per te tassi di interesse competitivi, spesso inferiori a quelli proposti in filiale.",
+    "support_title": "Supporto personalizzato",
+    "support_description": "Un consulente dedicato ti segue dall'inizio alla fine del progetto. Adattiamo le soluzioni alla tua situazione unica per massimizzare le possibilità di accettazione.",
+    "time_title": "Risparmio di tempo significativo",
+    "time_description": "Niente più spostamenti in filiale! La nostra piattaforma 100% online ti permette di completare la richiesta in soli 15 minuti, 7 giorni su 7.",
+    "badge_text": "di soddisfazione",
+    "start_simulation": "Avvia la mia simulazione gratuita",
+    "talk_to_advisor": "Parla con un consulente"
+  },
+  "concise_advantages": {
+    "title": "La soluzione di finanziamento più semplice sul mercato",
+    "subtitle": "Abbiamo rivoluzionato l'ottenimento del prestito eliminando le complessità e offrendo un’esperienza trasparente e veloce.",
+    "quick_title": "Veloce",
+    "quick_description": "Risposta entro 24 ore e sblocco fondi in 72 ore",
+    "economic_title": "Economico",
+    "economic_description": "0 costi di pratica e tassi negoziati per te",
+    "secure_title": "Sicuro",
+    "secure_description": "Dati criptati e processo 100% sicuro",
+    "tailored_title": "Su misura",
+    "tailored_description": "Soluzioni adattate alla tua situazione unica",
+    "small_cta_title": "Non lasciare i tuoi progetti in attesa",
+    "small_cta_description": "Ogni giorno conta per realizzare le tue ambizioni. Migliaia di clienti ci scelgono ogni mese. E tu?",
+    "start_now": "Inizio ora – È gratuito"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Prestito personale",
+      "features": ["Nessun documento richiesto", "Decisione rapida", "Tasso competitivo"]
+    },
+    "autoLoan": {
+      "title": "Prestito auto",
+      "features": ["Veicolo nuovo o usato", "Finanziamento al 100%", "Assicurazione inclusa"]
+    },
+    "worksLoan": {
+      "title": "Prestito lavori",
+      "features": ["Ristrutturazione", "Ampliamento", "Efficienza energetica"]
+    },
+    "simulate_this_loan": "Simula questo prestito"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lione",
+      "text": "Processo molto semplice e team attento. Il mio prestito è stato approvato in 24 ore!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Parigi",
+      "text": "Miglior tasso sul mercato, consiglio vivamente PrêtFacile per i tuoi progetti.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marsiglia",
+      "text": "Simulazione chiara e trasparente, senza sorprese.",
+      "rating": 4
+    }
+  ]
+}

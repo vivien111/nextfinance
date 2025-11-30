@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "O společnosti PrêtFacile",
+    "subtitle": "Od roku 2008 pomáháme tisícům lidí realizovat jejich projekty díky přizpůsobeným a dostupným finančním řešením."
+  },
+
+  "stats": {
+    "clients": "Spokojení klienti",
+    "experience": "Zkušeností",
+    "responseTime": "Doba odezvy",
+    "satisfaction": "Míra spokojenosti"
+  },
+
+  "mission": {
+    "title": "Naše mise",
+    "text": "Zpřístupnit úvěr a učinit jej transparentním pro všechny, a to doprovázením každého klienta při realizaci jeho osobních a profesních projektů."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Nasloucháme vám",
+      "desc": "Dáváme si čas na pochopení vašich potřeb a projektů, abychom vám mohli nabídnout to nejlepší řešení."
+    },
+    "expertise": {
+      "title": "Uznávaná odbornost",
+      "desc": "Více než 15 let zkušeností v úvěrovém sektoru, abychom vás mohli doprovázet s naprostou důvěrou."
+    },
+    "personalSupport": {
+      "title": "Osobní podpora",
+      "desc": "Vyhrazený poradce vás provede každým krokem vaší žádosti o půjčku."
+    },
+    "transparency": {
+      "title": "Úplná transparentnost",
+      "desc": "Jasné podmínky, bez skrytých poplatků. Víte přesně, za co platíte."
+    }
+  },
+
+  "team": {
+    "title": "Tým expertů k vašim službám",
+    "text1": "Náš tým specializovaných poradců je vyškolen tak, aby vám poskytl tu nejlepší možnou podporu. Každou žádost pečlivě studujeme a navrhujeme personalizovaná řešení přizpůsobená vaší situaci.",
+    "text2": "Ať už chcete financovat důležitý nákup, realizovat stavební práce nebo uskutečnit osobní projekt, jsme tu, abychom vás na každém kroku vedli a radili vám.",
+
+    "points": {
+      "advice": "Bezplatné poradenství: Naši experti odpoví na všechny vaše dotazy",
+      "fastStudy": "Rychlé posouzení: Zásadní odpověď do 24 hodin",
+      "followUp": "Osobní sledování: Vyhrazený poradce až do uvolnění prostředků"
+    }
+  },
+
+  "why": {
+    "title": "Proč si vybrat nás?",
+    "competitiveRates": "Konkurenceschopné sazby",
+    "competitiveRates_desc": "Vyjednáme pro vás nejlepší sazby podle vašeho profilu",
+
+    "simplifiedProcess": "Zjednodušený proces",
+    "simplifiedProcess_desc": "Online postupy a elektronický podpis",
+
+    "flexibility": "Flexibilita",
+    "flexibility_desc": "Možnost předčasného splacení bez poplatků",
+
+    "security": "Maximální zabezpečení",
+    "security_desc": "Šifrovaná data a dodržování GDPR"
+  },
+
+  "reviews": {
+    "title": "Co říkají naši klienti",
+    "subtitle": "Tisíce klientů nám důvěřují",
+
+    "review1": {
+      "text": "Bezchybný servis! Svoji půjčku jsem získala během pár dní. Tým byl velmi pozorný a profesionální.",
+      "author": "Marie L.",
+      "location": "Paříž"
+    },
+
+    "review2": {
+      "text": "Velmi konkurenceschopná sazba a zjednodušené postupy. PrêtFacile vřele doporučuji pro financování vašich projektů.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Vynikající podpora od začátku do konce. Můj poradce byl k dispozici a odpověděl na všechny mé dotazy.",
+      "author": "Sophie M.",
+      "location": "Marseille"
+    }
+  }
+}

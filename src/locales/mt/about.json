@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "Dwar PrêtFacile",
+    "subtitle": "Mill-2008, għenuna eluf ta' nies biex iwettqu l-proġetti tagħhom permezz ta' soluzzjonijiet ta' finanzjament adattati u aċċessibbli."
+  },
+
+  "stats": {
+    "clients": "Klijenti sodisfatti",
+    "experience": "Esperjenza",
+    "responseTime": "Ħin ta' rispons",
+    "satisfaction": "Rata ta' sodisfazzjon"
+  },
+
+  "mission": {
+    "title": "Il-missjoni tagħna",
+    "text": "Nagħmlu l-kreditu aċċessibbli u trasparenti għal kulħadd, billi nsegwu kull klijent fl-implimentazzjoni tal-proġetti personali u professjonali tiegħu."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Nistgħu nisimgħu",
+      "desc": "Nieħdu l-ħin biex nifhmu l-bżonnijiet u l-proġetti tiegħek biex noffrulek l-aħjar soluzzjoni."
+    },
+    "expertise": {
+      "title": "Esperjenza rikonoxxuta",
+      "desc": "Aktar minn 15-il sena esperjenza fis-settur tal-kreditu biex inkunu qed ngħinuk b’fiduċja sħiħa."
+    },
+    "personalSupport": {
+      "title": "Appoġġ personalizzat",
+      "desc": "Konsulent dedikat jiggwidak f'kull pass tal-applikazzjoni tal-lenġ tiegħek."
+    },
+    "transparency": {
+      "title": "Trasparenza totali",
+      "desc": "Kundizzjonijiet ċari, bla ħlasijiet moħbija. Taf eżattament x'għandek tħallas."
+    }
+  },
+
+  "team": {
+    "title": "Tim ta' esperti fil-servizz tiegħek",
+    "text1": "It-tim tagħna ta' konsulenti speċjalizzati huwa mħarreġ biex joffrilek l-aħjar appoġġ possibbli. Nivvalutaw kull każ b'attenzjoni u noffru soluzzjonijiet personalizzati adattati għas-sitwazzjoni tiegħek.",
+    "text2": "Kemm jekk tixtieq tiffinanzja xirja kbira, twettaq xogħol jew timplimenta proġett personali, aħna hawn biex ngħinuk u ngħallmuk f'kull pass.",
+
+    "points": {
+      "advice": "Parir b'xejn: L-esperti tagħna iwieġbu għall-mistoqsijiet kollha tiegħek",
+      "fastStudy": "Studju rapidu: Risposta prinċipali fi 24 siegħa",
+      "followUp": "Segwitu personalizzat: Konsulent dedikat sakemm jiġu rilaxxati l-fondi"
+    }
+  },
+
+  "why": {
+    "title": "Għaliex tagħżelna?",
+    "competitiveRates": "Rati kompetittivi",
+    "competitiveRates_desc": "Ninnegozjaw l-aħjar rati għall-profil tiegħek",
+
+    "simplifiedProcess": "Proċess sempliċi",
+    "simplifiedProcess_desc": "Proċeduri online u firma elettronika",
+
+    "flexibility": "Flessibbiltà",
+    "flexibility_desc": "Possibbiltà ta' rifużjoni kmieni mingħajr ħlasijiet",
+
+    "security": "Sigurtà massima",
+    "security_desc": "Data enkritata u konformità mal-GDPR"
+  },
+
+  "reviews": {
+    "title": "X'jgħidu l-klijenti tagħna",
+    "subtitle": "Eluf ta' klijenti jagħtuna fiduċja",
+
+    "review1": {
+      "text": "Servizz eċċellenti! Għedt l-lenġ tiegħi fi ftit jiem biss. It-tim kien attent u professjonali.",
+      "author": "Marie L.",
+      "location": "Pariġi"
+    },
+
+    "review2": {
+      "text": "Rata kompetittiva ħafna u proċessi sempliċi. Nirrakkomanda b'mod sħiħ lil PrêtFacile biex tiffinanzja l-proġetti tiegħek.",
+      "author": "Thomas D.",
+      "location": "Ljun"
+    },
+
+    "review3": {
+      "text": "Appoġġ eċċellenti mill-bidu sal-aħħar. Il-konsulent tiegħi kien disponibbli u wieġeb għall-mistoqsijiet kollha tiegħi.",
+      "author": "Sophie M.",
+      "location": "Marsilja"
+    }
+  }
+}

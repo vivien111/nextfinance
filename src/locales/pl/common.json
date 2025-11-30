@@ -1,0 +1,42 @@
+{
+  "navigation": {
+    "home": "Strona główna",
+    "simulation": "Symulacja",
+    "application": "Wniosek o pożyczkę",
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "navigation": "Nawigacja",
+    "contact": "Kontakt",
+    "email": "E-mail",
+    "phone": "Tel.",
+    "schedule": "Od pon. do pt.",
+    "hours": "9:00 - 18:00",
+    "rights": "Wszelkie prawa zastrzeżone",
+    "description": "Twój godny zaufania partner we wszystkich projektach finansowych. Rozwiązania kredytowe dostosowane do Twoich potrzeb."
+  },
+  "buttons": {
+    "simulateLoan": "Symuluj moją pożyczkę",
+    "makeRequest": "Złóż wniosek",
+    "simulateThisLoan": "Symuluj tę pożyczkę",
+    "startSimulation": "Rozpocznij symulację",
+    "contactUs": "Skontaktuj się z nami"
+  },
+  "language": {
+    "select": "Język / Language",
+    "french": "Français",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "italian": "Italiano",
+    "portuguese": "Português",
+    "greek": "Grecki",
+    "finnish": "Fiński",
+    "dutch": "Niderlandzki",
+    "azerbaijani": "Azerski",
+    "polish": "Polski",
+    "maltese": "Maltański",
+    "czech": "Czeski"
+  }
+}

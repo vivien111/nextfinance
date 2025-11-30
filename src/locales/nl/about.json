@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "Over PrêtFacile",
+    "subtitle": "Sinds 2008 helpen we duizenden mensen hun projecten te realiseren dankzij aangepaste en toegankelijke financieringsoplossingen."
+  },
+
+  "stats": {
+    "clients": "Tevreden klanten",
+    "experience": "Jaar ervaring",
+    "responseTime": "Reactietijd",
+    "satisfaction": "Tevredenheidspercentage"
+  },
+
+  "mission": {
+    "title": "Onze missie",
+    "text": "Krediet toegankelijk en transparant maken voor iedereen, door elke klant te begeleiden bij de realisatie van zijn persoonlijke en professionele projecten."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Voor u klaar",
+      "desc": "We nemen de tijd om uw behoeften en projecten te begrijpen om u de beste oplossing te kunnen bieden."
+    },
+    "expertise": {
+      "title": "Erkende expertise",
+      "desc": "Meer dan 15 jaar ervaring in de kredietsector om u met vertrouwen te begeleiden."
+    },
+    "personalSupport": {
+      "title": "Persoonlijke begeleiding",
+      "desc": "Een vaste adviseur begeleidt u bij elke stap van uw kredietaanvraag."
+    },
+    "transparency": {
+      "title": "Volledige transparantie",
+      "desc": "Duidelijke voorwaarden, zonder verborgen kosten. U weet precies wat u betaalt."
+    }
+  },
+
+  "team": {
+    "title": "Een expertteam tot uw dienst",
+    "text1": "Ons team van gespecialiseerde adviseurs is opgeleid om u de best mogelijke begeleiding te bieden. We bestuderen elk dossier met aandacht en stellen gepersonaliseerde oplossingen voor die zijn afgestemd op uw situatie.",
+    "text2": "Of u nu een belangrijke aankoop wilt financieren, verbouwingen wilt uitvoeren of een persoonlijk project wilt realiseren, wij staan voor u klaar om u bij elke stap te begeleiden en adviseren.",
+
+    "points": {
+      "advice": "Gratis advies: Onze experts beantwoorden al uw vragen",
+      "fastStudy": "Snelle studie: Principeakkoord binnen 24u",
+      "followUp": "Persoonlijke opvolging: Een vaste adviseur tot de vrijgave van de fondsen"
+    }
+  },
+
+  "why": {
+    "title": "Waarom voor ons kiezen?",
+    "competitiveRates": "Concurrerende tarieven",
+    "competitiveRates_desc": "We onderhandelen de beste tarieven voor uw profiel",
+
+    "simplifiedProcess": "Vereenvoudigd proces",
+    "simplifiedProcess_desc": "Online procedures en elektronische handtekening",
+
+    "flexibility": "Flexibiliteit",
+    "flexibility_desc": "Mogelijkheid tot vervroegde aflossing zonder kosten",
+
+    "security": "Maximale veiligheid",
+    "security_desc": "Versleutelde gegevens en naleving van de AVG"
+  },
+
+  "reviews": {
+    "title": "Wat onze klanten zeggen",
+    "subtitle": "Duizenden klanten vertrouwen op ons",
+
+    "review1": {
+      "text": "Uitstekende service! Ik kreeg mijn lening binnen enkele dagen. Het team was zeer attent en professioneel.",
+      "author": "Marie L.",
+      "location": "Parijs"
+    },
+
+    "review2": {
+      "text": "Zeer concurrerend tarief en vereenvoudigde procedures. Ik beveel PrêtFacile ten zeerste aan voor het financieren van uw projecten.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Uitstekende begeleiding van begin tot eind. Mijn adviseur was beschikbaar en beantwoordde al mijn vragen.",
+      "author": "Sophie M.",
+      "location": "Marseille"
+    }
+  }
+}

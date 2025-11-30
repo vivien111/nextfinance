@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Kontaktujte nás",
+    "subtitle": "Náš tým je vám k dispozici, abychom odpověděli na všechny vaše dotazy",
+    "phone": "Telefon",
+    "phone_sub": "Pondělí až pátek, 9:00-18:00",
+    "email": "E-mail",
+    "email_sub": "Odpověď do 24 hodin",
+    "address": "Adresa",
+    "hours": "Otevírací doba",
+    "hours_week": "Po - Pá: 9:00 - 18:00",
+    "hours_weekend": "So - Ne: Zavřeno",
+    "send_message": "Pošlete nám zprávu",
+    "success_title": "Zpráva odeslána!",
+    "success_msg": "Vaši zprávu jsme obdrželi a odpovíme vám co nejdříve.",
+    "error_title": "Chyba",
+    "error_msg": "Došlo k chybě. Zkuste to prosím znovu.",
+    "form": {
+      "name": "Celé jméno",
+      "name_placeholder": "Jan Novák",
+      "email": "E-mail",
+      "email_placeholder": "jan.novak@priklad.cz",
+      "subject": "Předmět",
+      "select_subject": "Vyberte předmět",
+      "subject_loan": "Informace o půjčce",
+      "subject_status": "Stav mé žádosti",
+      "subject_technical": "Technický problém",
+      "subject_partnership": "Partnerství",
+      "subject_other": "Jiné",
+      "message": "Zpráva",
+      "message_placeholder": "Popište svůj požadavek..."
+    },
+    "sending": "Odesílání...",
+    "send": "Odeslat zprávu"
+  }
+}

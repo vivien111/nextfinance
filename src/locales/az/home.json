@@ -1,0 +1,188 @@
+{
+  "simulation": {
+    "title": "Kredit Simulyatoru",
+    "subtitle": "Aylıq ödənişlərinizi real vaxtda hesablayın və büdcənizə uyğun həlli tapın",
+
+    "loanParameters": "Kredit Parametrləri",
+    "loanAmount": "Kredit Məbləği",
+    "loanDuration": "Kredit Müddəti",
+    "interestRate": "İllik Faiz Dərəcəsi",
+    "interestNote": "Göstərici faiz dərəcəsi, müraciətinizin təsdiqinə tabedir",
+
+    "monthlyPayments": "Aylıq Ödənişləriniz",
+    "perMonth": "aylıq",
+
+    "financingDetails": "Maliyyələşdirmə Detalları",
+    "borrowedAmount": "Alınan Məbləğ",
+    "totalInterest": "Ümumi Faiz",
+    "totalCost": "Kreditin Ümumi Dəyəri",
+
+    "applyButton": "Kredit Üçün Müraciət Et",
+    "simulationNote": "Bu simulyasiya göstəricidir və kredit təklifi sayılmır. Son şərtlər müraciətinizin yoxlanılmasından sonra müəyyən ediləcək.",
+
+    "howItWorks": "Necə İşləyir?",
+    "step1Title": "Simulyasiya edin",
+    "step1Text": "Büdcənizə uyğun aylıq ödənişi tapmaq üçün parametrləri tənzimləyin",
+    "step2Title": "Müraciət edin",
+    "step2Text": "Müraciət formasını bir neçə dəqiqəyə doldurun",
+    "step3Title": "Qəbul edin",
+    "step3Text": "24 saat ərzində ilkin cavab alın və vəsait tez bir zamanda köçürülür"
+  },
+  "application": {
+    "title": "Kredit Müraciəti",
+    "description": "Müraciətinizi başlatmaq üçün bu formanı doldurun. 24 saat ərzində cavab alacaqsınız.",
+    "success": {
+      "title": "Müraciət uğurla göndərildi!",
+      "message": "Kredit müraciətinizi aldıq. Komandamız onu nəzərdən keçirəcək və sizə 24 saat ərzində ilkin cavab verəcək."
+    },
+    "error": {
+      "title": "Göndərərkən xəta baş verdi",
+      "message": "Müraciətinizi göndərərkən xəta baş verdi. Zəhmət olmasa yenidən cəhd edin."
+    },
+    "sections": {
+      "personal_info": "Şəxsi məlumatlar",
+      "loan_details": "Kredit Detalları",
+      "employment_situation": "Peşə vəziyyəti"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Ad *",
+        "last_name": "Soyad *",
+        "email": "Email *",
+        "phone": "Telefon *",
+        "loan_amount": "İstənilən Məbləğ () *",
+        "loan_duration": "Müddət (ay) *",
+        "loan_purpose": "Kredit Məqsədi *",
+        "employment_status": "Peşə Vəziyyəti *",
+        "monthly_income": "Aylıq Net Gəlir () *"
+      },
+      "placeholders": {
+        "loan_purpose": "Seçin...",
+        "employment_status": "Seçin..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Şəxsi Kredit",
+          "auto": "Avtomobil Alışı",
+          "home": "Təmir İşləri",
+          "consolidation": "Kredit Konsolidasiyası",
+          "other": "Digər"
+        },
+        "employment_status": {
+          "employed": "Məşğul",
+          "self_employed": "Sərbəst",
+          "unemployed": "İşsiz",
+          "retired": "Təqaüdçü",
+          "student": "Tələbə"
+        },
+        "loan_duration": {
+          "12": "12 ay",
+          "24": "24 ay",
+          "36": "36 ay",
+          "48": "48 ay",
+          "60": "60 ay",
+          "72": "72 ay",
+          "84": "84 ay",
+          "96": "96 ay",
+          "120": "120 ay"
+        }
+      },
+      "privacy_notice": "Bu formanı təqdim etməklə, məlumatlarınızın kredit müraciətinizin araşdırılması üçün istifadə olunmasına razılıq verirsiniz. Məlumatlarınız qorunur və məxfi saxlanılır.",
+      "buttons": {
+        "submit": "Müraciətimi Göndər",
+        "submitting": "Göndərilir...",
+        "back_to_simulation": "Simulyasiyaya Qayıt"
+      }
+    },
+    "next_steps": {
+      "title": "Növbəti addımlar",
+      "steps": [
+        "Komandamız müraciətinizi 24 saat ərzində nəzərdən keçirir",
+        "Siz e-mail və telefon vasitəsilə ilkin cavab alırsınız",
+        "Əgər müraciətiniz təsdiqlənərsə, detalları birlikdə yekunlaşdırırıq",
+        "Vəsaitlər hesabınıza tez bir zamanda köçürülür"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Layihələrinizi həyata keçirin",
+    "subtitle": "Popular Financia",
+    "description": "Büdcənizə uyğun maliyyələşdirmə həlləri. Pulsuz və öhdəliksiz simulyasiya.",
+    "simuler": "Kreditimi Simulyasiya Et",
+    "Faire": "Müraciət Et"
+  },
+  "features": {
+    "title": "Üstünlüklərimiz",
+    "freeSimulation": {
+      "title": "Pulsuz Simulyasiya",
+      "description": "Büdcənizi bir neçə kliklə, öhdəliksiz hesablayın"
+    },
+    "quickResponse": {
+      "title": "Sürətli Cavab",
+      "description": "Ən çox 24 saat ərzində ilkin cavab alın"
+    },
+    "secure": {
+      "title": "Təhlükəsiz və Məxfi",
+      "description": "Məlumatlarınız qorunur və məxfi saxlanılır"
+    }
+  },
+  "loans": {
+    "title": "Kredit Həllərimiz",
+    "description": "Layihənizə uyğun həlli seçin",
+    "personalLoan": "Şəxsi Kredit",
+    "autoLoan": "Avtomobil Krediti",
+    "worksLoan": "Təmir Krediti",
+    "from": "Dan",
+    "duration": "Müddət"
+  },
+  "testimonials": {
+    "title": "Bizə etibar edirlər",
+    "description": "Məmnun müştərilərimizin rəylərini kəşf edin"
+  },
+  "partners": {
+    "title": "Maliyyə Partnyorlarımız"
+  },
+  "faq": {
+    "title": "Tez-tez verilən suallar",
+    "description": "Suallarınıza tez cavab tapın",
+    "items": [
+      {
+        "question": "Kredit müraciəti üçün hansı sənədlər tələb olunur?",
+        "answer": "Kredit müraciəti üçün sizə lazım olacaq: şəxsiyyət vəsiqəsi, ünvan təsdiqi, son 3 aylıq maaş bəyannamələri və son bank çıxarışları. Dəqiq siyahı kredit növünə görə dəyişə bilər."
+      },
+      {
+        "question": "Müraciətin emalı üçün müddət nə qədərdir?",
+        "answer": "Əksər müraciətlər 24-48 saat ərzində işlənir. Təsdiqləndikdən sonra vəsait adətən 3-5 iş günü ərzində köçürülür."
+      },
+      {
+        "question": "Ərizə haqqı varmı?",
+        "answer": "Xeyr, PrêtFacile heç bir ərizə haqqı tələb etmir. Ödənişimiz faiz dərəcəsinə daxildir, bu tam şəffaflığı təmin edir."
+      },
+      {
+        "question": "Krediti vaxtından əvvəl ödəyə bilərəm?",
+        "answer": "Bəli, krediti vaxtından əvvəl ödəyə bilərsiniz, əlavə ödəniş və cərimə yoxdur. Ödəməyi təşkil etmək üçün müştəri xidmətimizlə əlaqə saxlayın."
+      },
+      {
+        "question": "Şəxsi kredit və təyin edilmiş kredit arasındakı fərq nədir?",
+        "answer": "Şəxsi kredit istənilən məqsədlə istifadə oluna bilər, təyin edilmiş kredit isə konkret alışla bağlıdır (avtomobil, təmir və s.). Şəxsi kredit daha çox çeviklik təklif edir."
+      },
+      {
+        "question": "Faiz dərəcəm kredit müddətində sabit qalırmı?",
+        "answer": "Bəli, bütün kreditlərimiz müqavilə müddətində sabit faiz dərəcəsi təklif edir. Aylıq ödənişləriniz ilk ödənişdən sonuncuya qədər eyni qalır."
+      }
+    ],
+    "cta": {
+      "title": "Suallarınıza cavab tapa bilmirsiniz?",
+      "description": "Müştəri xidmətləri komandamız bütün suallarınıza cavab verməyə hazırdır."
+    }
+  },
+  "cta": {
+    "title": "Layihənizə başlamağa hazırsınız?",
+    "description": "Minlərlə məmnun müştəriyə qoşulun və 24 saat ərzində cavab alın"
+  },
+  "stats": {
+    "clients": "Məmnun Müştərilər",
+    "reviews": "Müştəri Rəyləri",
+    "acceptance": "Qəbul Nisbəti"
+  }
+}

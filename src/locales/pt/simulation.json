@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Solicitação de Empréstimo",
+    "description": "Preencha sua solicitação em poucos minutos e receba uma resposta preliminar em 24h",
+    
+    "sections": {
+      "personal_info": "Informações Pessoais",
+      "loan_details": "Detalhes do Empréstimo",
+      "employment_situation": "Situação Profissional"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Nome",
+        "last_name": "Sobrenome",
+        "email": "Endereço de Email",
+        "phone": "Telefone",
+        "loan_amount": "Valor do Empréstimo",
+        "loan_duration": "Duração do Empréstimo",
+        "monthly_income": "Renda Mensal",
+        "employment_status": "Situação Profissional",
+        "loan_purpose": "Objetivo do Empréstimo"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Selecione o objetivo do empréstimo",
+        "employment_status": "Selecione sua situação"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 meses",
+          "24": "24 meses",
+          "36": "36 meses",
+          "48": "48 meses",
+          "60": "60 meses",
+          "72": "72 meses",
+          "84": "84 meses"
+        },
+        "loan_purpose": {
+          "car": "Compra de veículo",
+          "works": "Reformas",
+          "equipment": "Equipamento",
+          "personal": "Projeto pessoal",
+          "debt": "Quitação de dívidas",
+          "other": "Outro"
+        },
+        "employment_status": {
+          "employed": "Empregado CLT",
+          "employed_trial": "Empregado em período de experiência",
+          "employed_fixed": "Empregado temporário",
+          "civil_servant": "Servidor público",
+          "self_employed": "Autônomo",
+          "freelancer": "Freelancer",
+          "retired": "Aposentado",
+          "student": "Estudante",
+          "unemployed": "Desempregado"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Enviar solicitação",
+        "submitting": "Enviando...",
+        "back_to_simulation": "Voltar à simulação"
+      },
+      
+      "privacy_notice": "Seus dados são protegidos e confidenciais. De acordo com a lei de proteção de dados, você possui direito de acesso, retificação e oposição aos dados que lhe dizem respeito.",
+      
+      "validation": {
+        "invalid_email": "Endereço de email inválido",
+        "invalid_phone": "Número de telefone inválido",
+        "min_amount": "O valor mínimo é 1.000 €",
+        "max_amount": "O valor máximo é 100.000 €",
+        "min_income": "A renda mensal deve ser de pelo menos 500 €",
+        "min_length": "Este campo deve conter pelo menos 2 caracteres",
+        "debt_too_high": "O valor do empréstimo é muito alto em relação à sua renda"
+      }
+    },
+    
+    "success": {
+      "title": "Solicitação enviada!",
+      "message": "Sua solicitação de empréstimo foi enviada com sucesso. Nossa equipe entrará em contato em 24 horas."
+    },
+    
+    "error": {
+      "title": "Erro ao enviar",
+      "message": "Ocorreu um erro ao enviar sua solicitação. Por favor, tente novamente ou entre em contato diretamente conosco."
+    },
+    
+    "next_steps": {
+      "title": "Próximos Passos",
+      "steps": [
+        "Análise do seu pedido em 24h",
+        "Contato com nosso consultor",
+        "Recebimento da sua oferta personalizada",
+        "Liberação dos fundos em até 48h após aceitação"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Simulação em Tempo Real",
+      "eligibility": "Elegibilidade",
+      "monthly_payment": "Parcela Mensal",
+      "total_interest": "Juros Totais",
+      "total_amount": "Valor Total",
+      "debt_to_income": "Relação dívida/renda",
+      
+      "eligibility_high": "Alta",
+      "eligibility_medium": "Média",
+      "eligibility_low": "Baixa",
+      
+      "eligibility_low_warning": "Seu perfil requer análise adicional",
+      
+      "advice": {
+        "title": "Conselho Personalizado",
+        "high_ratio": "Considere reduzir o valor ou aumentar o prazo para melhorar sua relação dívida/renda.",
+        "good_ratio": "Sua relação dívida/renda está em uma faixa razoável."
+      }
+    },
+    
+    "benefits": {
+      "title": "Nossos Benefícios",
+      "fast_processing": "Processamento em 24h",
+      "competitive_rates": "Taxas competitivas",
+      "no_hidden_fees": "Sem taxas ocultas",
+      "flexible_terms": "Prazos flexíveis"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Sugestão: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Simulador de Empréstimo",
+    "subtitle": "Calcule suas parcelas em tempo real e encontre a solução adequada ao seu orçamento",
+    
+    "loanParameters": "Parâmetros do Empréstimo",
+    "loanAmount": "Valor do Empréstimo",
+    "loanDuration": "Duração do Empréstimo",
+    "interestRate": "Taxa de Juros Anual",
+    "interestNote": "Taxa indicativa sujeita à aceitação da sua solicitação",
+    
+    "monthlyPayments": "Suas Parcelas",
+    "perMonth": "por mês",
+    
+    "financingDetails": "Detalhes do Financiamento",
+    "borrowedAmount": "Valor Emprestado",
+    "totalInterest": "Juros Totais",
+    "totalCost": "Custo Total do Crédito",
+    
+    "applyButton": "Solicitar Empréstimo",
+    "simulationNote": "Esta simulação é apenas indicativa e não constitui uma oferta de empréstimo. As condições definitivas serão estabelecidas após análise da sua solicitação.",
+    
+    "howItWorks": "Como funciona?",
+    "step1Title": "Simule",
+    "step1Text": "Ajuste os parâmetros para encontrar a parcela que cabe no seu orçamento",
+    "step2Title": "Solicite",
+    "step2Text": "Preencha o formulário de solicitação em poucos minutos",
+    "step3Title": "Receba",
+    "step3Text": "Obtenha uma resposta preliminar em 24h e liberação rápida dos fundos"
+  }
+}

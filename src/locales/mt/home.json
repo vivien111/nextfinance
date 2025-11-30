@@ -1,0 +1,247 @@
+{
+  "simulation": {
+    "title": "Simulatur ta' Self",
+    "subtitle": "Ikkalkula l-pagi taxahar tiegħek f'żmien reali u ssoluzzjoni li taqbel mal-baġit tiegħek",
+    "loanParameters": "Parametri tas-Self",
+    "loanAmount": "Ammont tas-Self",
+    "loanDuration": "Perjodu tas-Self",
+    "interestRate": "Rata ta' Interess Annwali",
+    "interestNote": "Rata indikattiva suġġetta għall-aċċettazzjoni tal-fajl tiegħek",
+    "monthlyPayments": "Il-Pagi tax-Xahar Tieqek",
+    "perMonth": "kull xahar",
+    "financingDetails": "Dettalji tal-Finanziament",
+    "borrowedAmount": "Ammont Misluf",
+    "totalInterest": "Interess Totali",
+    "totalCost": "Spiża Totali tal-Kreditu",
+    "applyButton": "Agħmel Talba għal Self",
+    "simulationNote": "Din is-simulazzjoni hija indikattiva u ma tikkostitwixxiex offerta ta' self. Il-kundizzjonijiet finali jiġu stabbiliti wara studju tal-fajl tiegħek.",
+    "howItWorks": "Kif Taħdem?",
+    "step1Title": "Simula",
+    "step1Text": "Aġġusta l-parametri biex issib il-paga tax-xahar li taqbel mal-baġit tiegħek",
+    "step2Title": "Itlob",
+    "step2Text": "Imla l-formola tat-talba fi ftit minuti",
+    "step3Title": "Irċievi",
+    "step3Text": "Ikseb tweġiba ta' prinċipju fi żmien 24 siegħa u l-fondi malajr"
+  },
+  "application": {
+    "title": "Talba għal Self",
+    "description": "Imla din il-formola biex tibda t-talba tiegħek. Tweġiba fi żmien 24 siegħa.",
+    "success": {
+      "title": "Talba Mibgħuta b'Suċċess!",
+      "message": "Irċevejna t-talba tiegħek għal self. It-tim tagħna se jistudjaha u jikkuntattjak fi żmien 24 siegħa biex jagħtik tweġiba ta' prinċipju."
+    },
+    "error": {
+      "title": "Żball waqt it-Tbagħtis",
+      "message": "Sar żball waqt it-tbagħtis tat-talba tiegħek. Jekk jogħġbok erġa' pprova."
+    },
+    "sections": {
+      "personal_info": "Informazzjoni Personali",
+      "loan_details": "Dettalji tas-Self",
+      "employment_situation": "Sitwazzjoni ta' Impjieg"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Isem *",
+        "last_name": "Kunjom *",
+        "email": "Email *",
+        "phone": "Telefown *",
+        "loan_amount": "Ammont Mixtieq (€) *",
+        "loan_duration": "Perjodu (Xhur) *",
+        "loan_purpose": "Għan tas-Self *",
+        "employment_status": "Status ta' Impjieg *",
+        "monthly_income": "Dħul Nett tax-Xahar (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Agħżel...",
+        "employment_status": "Agħżel..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Self Personali",
+          "auto": "Xiri ta' Vettura",
+          "home": "Xogħol",
+          "consolidation": "Xiri mill-ġdid tal-Kreditu",
+          "other": "Oħrajn"
+        },
+        "employment_status": {
+          "employed": "Impiegat",
+          "self_employed": "Xogħol Liberu",
+          "unemployed": "Mhux Impjegat",
+          "retired": "Pensjonant",
+          "student": "Student"
+        },
+        "loan_duration": {
+          "12": "12 xahar",
+          "24": "24 xahar",
+          "36": "36 xahar",
+          "48": "48 xahar",
+          "60": "60 xahar",
+          "72": "72 xahar",
+          "84": "84 xahar",
+          "96": "96 xahar",
+          "120": "120 xahar"
+        }
+      },
+      "privacy_notice": "Billi tissottometti din il-formola, taċċetta li d-data tiegħek tintuża għall-istudju tat-talba tiegħek għal self. L-informazzjoni tiegħek hija sigura u kunfidenzjali.",
+      "buttons": {
+        "submit": "Ibgħat it-Talba Tieghi",
+        "submitting": "Qed jintbagħat...",
+        "back_to_simulation": "Lura għas-Simulazzjoni"
+      }
+    },
+    "next_steps": {
+      "title": "Passi li Jmiss",
+      "steps": [
+        "It-tim tagħna jistudja t-talba tiegħek fi żmien 24 siegħa",
+        "Tirċievi tweġiba ta' prinċipju permezz ta' email u telefown",
+        "Jekk il-fajl tiegħek jiġi aċċettat, infinalizzaw id-dettalji flimkien",
+        "Il-fondi jintbagħtu malajr fuq il-kont tiegħek"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Irrealizza l-Proġetti Tiegħek ma'",
+    "subtitle": "Popular Financia",
+    "description": "Soluzzjonijiet ta' finanzjar li jaqblu mal-ħtiġijiet kollha tiegħek. Simulazzjoni b'xejn u bla impenn.",
+    "simuler": "Simula s-Self Tiegħi",
+    "Faire": "Agħmel Talba"
+  },
+  "features": {
+    "title": "Il-Vantaġġi Tagħna",
+    "freeSimulation": {
+      "title": "Simulazzjoni B'xejn",
+      "description": "Ikkalkula l-pagi tax-xahar tiegħek b'ftit klikkjar bla impenn"
+    },
+    "quickResponse": {
+      "title": "Tweġiba Malajr",
+      "description": "Ikseb tweġiba ta' prinċipju fi żmien 24 siegħa"
+    },
+    "secure": {
+      "title": "Sigur u Kunfidenzjali",
+      "description": "Id-data tiegħek hija protetta u tibqa' kunfidenzjali"
+    }
+  },
+  "loans": {
+    "title": "Is-Soluzzjonijiet tas-Self Tagħna",
+    "description": "Agħżel is-soluzzjoni li taqbel mal-proġett tiegħek",
+    "personalLoan": "Self Personali",
+    "autoLoan": "Self għal Vettura",
+    "worksLoan": "Self għal Xogħol",
+    "from": "Minn",
+    "duration": "Perjodu"
+  },
+  "testimonials": {
+    "title": "Jafduna",
+    "description": "Skopri l-kummenti tal-klijenti kuntenti tagħna"
+  },
+  "partners": {
+    "title": "Il-Partners Finanzjarji Tagħna"
+  },
+  "faq": {
+    "title": "Mistoqsijiet Frekwenti",
+    "description": "Isib malajr tweġibiet għall-mistoqsijiet tiegħek",
+    "items": [
+      {
+        "question": "Liema dokumenti huma meħtieġa għal talba ta' self?",
+        "answer": "Għal talba ta' self, għandek bżonn: karta tal-identità, dokument ta' indirizz, aħħar payslips (3 xhur), u statements bankarji riċenti. Il-lista eżatta tista' tvarja skont it-tip ta' self."
+      },
+      {
+        "question": "X'inhu l-ħin ta' pproċessar ta' talba?",
+        "answer": "Aħna npproċessaw il-maġġoranza tat-talbiet fi żmien 24 sa 48 siegħa. Ladarba jiġi aċċettat, it-trasferiment tal-fondi ġeneralment iseħħ fi żmien 3 sa 5 jiem tax-xogħol."
+      },
+      {
+        "question": "Hemm ħlasijiet tal-fajl?",
+        "answer": "Le, PrêtFacile ma ċċarġjax ħlasijiet tal-fajl. Il-kumpens tagħna huwa inkluż fir-rata ta' interess, li jiggarantixxi trasparenza totali."
+      },
+      {
+        "question": "Nista' nħallas lura s-self tiegħi qabel iż-żmien?",
+        "answer": "Iva, tista' thallas lura s-self tiegħek qabel iż-żmien bla ħlasijiet jew pieni. Sempliċement ikkuntattja s-servizz tal-klijenti biex torganizza l-ħlas lura."
+      },
+      {
+        "question": "X'inhi d-differenza bejn self personali u kreditu assoċjat?",
+        "answer": "Is-self personali huwa għall-użu ħieles, filwaqt li l-kreditu assoċjat huwa marbut ma' xiri speċifiku. Is-self personali joffri aktar flessibilità."
+      },
+      {
+        "question": "Ir-rata tiegħi hija fissa matul il-perjodu kollu tas-self?",
+        "answer": "Iva, is-self kollu tagħna joffri rati fissi garantiti matul il-perjodu kollu tal-kuntratt. Il-pagi tax-xahar tiegħek jibqgħu l-istess mill-ewwel sal-aħħar ħlas."
+      }
+    ],
+    "cta": {
+      "title": "Ma ssibx it-tweġiba għall-mistoqsija tiegħek?",
+      "description": "It-tim ta' kunsillieri tagħna huwa disponibbli biex iwieġeb kull mistoqsija tiegħek."
+    }
+  },
+  "cta": {
+    "title": "Lest biex tibda l-proġett tiegħek?",
+    "description": "Ingħaqad mal-eluf ta' klijenti kuntenti u ikseb it-tweġiba tiegħek fi 24 siegħa"
+  },
+  "stats": {
+    "clients": "Klijenti Kuntenti",
+    "reviews": "Reviżjonijiet tal-klijenti",
+    "acceptance": "Rata ta' Aċċettazzjoni"
+  },
+  "convincing_description": {
+    "title": "Għaliex tagħżel PrêtFacile għall-proġett tiegħek?",
+    "expertise_title": "Esperjenza u Sempliċità",
+    "expertise_description": "B'10 snin esperjenza, issimplifikajna l-proċess tat-talba ta' self bie inżommlek ħin u tevita t-tqanqil amministrattiv.",
+    "rates_title": "L-Aħjar Rati Garaniti",
+    "rates_description": "Grazzi għas-sħubijiety ma' l-akbar banek, innegozjaw għalik rati ta' interess kompetittivi, spiss inqas minn dawk offruti f'aġenzija.",
+    "support_title": "Appoġġ Personalizzat",
+    "support_description": "Kunsillier dedikat isegwek mill-bidu sal-aħħar tal-proġett tiegħek. Naddattaw is-soluzzjonijiet għas-sitwazzjoni unika tiegħek biex timmassimizza l-opportunitajiet ta' aċċettazzjoni.",
+    "time_title": "Ħin Signifikanti Miżmum",
+    "time_description": "Tmiem il-vjaġġi lura u l-quddiem fl-aġenzija! Il-pjattaforma online 100% tagħna tippermettilek tiffinalizza t-talba tiegħek fi 15 minuta biss, 7 jiem fil-ġimgħa.",
+    "badge_text": "ta' sodisfazzjon",
+    "start_simulation": "Ibda s-Simulazzjoni Tiegħi B'xejn",
+    "talk_to_advisor": "Ikellem Kunsillier"
+  },
+  "concise_advantages": {
+    "title": "Is-Soluzzjoni ta' Finanzjar l-Aktar Sempliċi fis-Suq",
+    "subtitle": "Irrivoluzzjonajna l-kisba ta' self billi neħħejna l-kumplessitajiet u noffrulek esperjenza trasparenti u malajr.",
+    "quick_title": "Malajr",
+    "quick_description": "Tweġiba fi 24 siegħa u fondi fi 72 siegħa",
+    "economic_title": "Ekonomiku",
+    "economic_description": "0 ħlasijiet tal-fajl u rati innegozjati għalik",
+    "secure_title": "Sigur",
+    "secure_description": "Data encrypted u proċess 100% sigur",
+    "tailored_title": "Apposta",
+    "tailored_description": "Soluzzjonijiet adattati għas-sitwazzjoni unika tiegħek",
+    "small_cta_title": "Tħallix lill-proġetti tiegħek jistennew",
+    "small_cta_description": "Kull jum jgħodd meta niġu għall-konkrezzjoni tal-ambizzjonijiet tiegħek. Eluf ta' klijenti jafduna kull xahar. U int?",
+    "start_now": "Nibda Issa - Huwa B'xejn"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Self Personali",
+      "features": ["Bla dokumentazzjoni", "Deċiżjoni malajr", "Rata kompetittiva"]
+    },
+    "autoLoan": {
+      "title": "Self għal Vettura",
+      "features": ["Vettura ġdida jew użata", "Finanzjar 100%", "Assigurazzjoni inkluża"]
+    },
+    "worksLoan": {
+      "title": "Self għal Xogħol",
+      "features": ["Rinnovazzjoni", "Estensjoni", "Itjib Enerġetiku"]
+    },
+    "simulate_this_loan": "Simula dan is-Self"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Proċess sempliċi ħafna u tim li jisma'. Is-self tiegħi ġie aċċettat fi 24 siegħa!",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Pariġi",
+      "text": "L-aħjar rata fis-suq, nirrakkomanda ħafna PrêtFacile għall-proġetti tiegħek.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marsilja",
+      "text": "Simulazzjoni ċara u trasparenti, bla sorpriži ħżiena.",
+      "rating": 4
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "Über PrêtFacile",
+    "subtitle": "Seit 2008 helfen wir Tausenden von Menschen, ihre Projekte mit maßgeschneiderten und zugänglichen Finanzierungslösungen zu realisieren."
+  },
+
+  "stats": {
+    "clients": "Zufriedene Kunden",
+    "experience": "Erfahrung",
+    "responseTime": "Antwortzeit",
+    "satisfaction": "Zufriedenheitsrate"
+  },
+
+  "mission": {
+    "title": "Unsere Mission",
+    "text": "Kredit für alle zugänglich und transparent zu machen und jeden Kunden bei der Realisierung seiner persönlichen und beruflichen Projekte zu unterstützen."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Wir hören zu",
+      "desc": "Wir nehmen uns die Zeit, Ihre Bedürfnisse und Projekte zu verstehen, um Ihnen die beste Lösung anzubieten."
+    },
+    "expertise": {
+      "title": "Anerkannte Expertise",
+      "desc": "Über 15 Jahre Erfahrung im Kreditbereich, um Sie vertrauensvoll zu begleiten."
+    },
+    "personalSupport": {
+      "title": "Persönliche Betreuung",
+      "desc": "Ein persönlicher Berater begleitet Sie bei jedem Schritt Ihres Kreditantrags."
+    },
+    "transparency": {
+      "title": "Totale Transparenz",
+      "desc": "Klare Bedingungen ohne versteckte Gebühren. Sie wissen genau, was Sie bezahlen."
+    }
+  },
+
+  "team": {
+    "title": "Ein Expertenteam zu Ihren Diensten",
+    "text1": "Unser Team spezialisierter Berater ist ausgebildet, um Ihnen die bestmögliche Unterstützung zu bieten. Wir prüfen jede Akte sorgfältig und bieten personalisierte Lösungen, die auf Ihre Situation zugeschnitten sind.",
+    "text2": "Ob Sie eine größere Anschaffung finanzieren, Renovierungen durchführen oder ein persönliches Projekt verwirklichen möchten, wir sind hier, um Sie bei jedem Schritt zu begleiten und zu beraten.",
+
+    "points": {
+      "advice": "Kostenlose Beratung: Unsere Experten beantworten alle Ihre Fragen",
+      "fastStudy": "Schnelle Prüfung: Vorläufige Antwort innerhalb von 24 Stunden",
+      "followUp": "Persönliche Begleitung: Ein dedizierter Berater bis zur Freigabe der Mittel"
+    }
+  },
+
+  "why": {
+    "title": "Warum uns wählen?",
+    "competitiveRates": "Wettbewerbsfähige Zinsen",
+    "competitiveRates_desc": "Wir verhandeln die besten Zinssätze für Ihr Profil",
+
+    "simplifiedProcess": "Vereinfachter Prozess",
+    "simplifiedProcess_desc": "Online-Verfahren und elektronische Unterschrift",
+
+    "flexibility": "Flexibilität",
+    "flexibility_desc": "Möglichkeit der vorzeitigen Rückzahlung ohne Gebühren",
+
+    "security": "Maximale Sicherheit",
+    "security_desc": "Verschlüsselte Daten und DSGVO-konform"
+  },
+
+  "reviews": {
+    "title": "Was unsere Kunden sagen",
+    "subtitle": "Tausende Kunden vertrauen uns",
+
+    "review1": {
+      "text": "Einwandfreier Service! Ich habe meinen Kredit in nur wenigen Tagen erhalten. Das Team war sehr aufmerksam und professionell.",
+      "author": "Marie L.",
+      "location": "Paris"
+    },
+
+    "review2": {
+      "text": "Sehr wettbewerbsfähige Zinssätze und vereinfachte Abläufe. Ich empfehle PrêtFacile dringend, um Ihre Projekte zu finanzieren.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Ausgezeichnete Betreuung von Anfang bis Ende. Mein Berater war verfügbar und beantwortete alle meine Fragen.",
+      "author": "Sophie M.",
+      "location": "Marseille"
+    }
+  }
+}

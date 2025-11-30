@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "title": "Entre em contato",
+    "subtitle": "Nossa equipe está à sua disposição para responder a todas as suas perguntas",
+    "phone": "Telefone",
+    "phone_sub": "Segunda a sexta-feira, 9h-18h",
+    "email": "E-mail",
+    "email_sub": "Resposta em até 24h",
+    "address": "Endereço",
+    "hours": "Horário de funcionamento",
+    "hours_week": "Seg - Sex: 9h - 18h",
+    "hours_weekend": "Sáb - Dom: Fechado",
+    "send_message": "Envie-nos uma mensagem",
+    "success_title": "Mensagem enviada!",
+    "success_msg": "Recebemos sua mensagem e responderemos o mais breve possível.",
+    "error_title": "Erro",
+    "error_msg": "Ocorreu um erro. Por favor, tente novamente.",
+    "form": {
+      "name": "Nome completo",
+      "name_placeholder": "João Silva",
+      "email": "E-mail",
+      "email_placeholder": "joao.silva@exemplo.com",
+      "subject": "Assunto",
+      "select_subject": "Selecione um assunto",
+      "subject_loan": "Informação sobre empréstimo",
+      "subject_status": "Status da minha solicitação",
+      "subject_technical": "Problema técnico",
+      "subject_partnership": "Parceria",
+      "subject_other": "Outro",
+      "message": "Mensagem",
+      "message_placeholder": "Descreva sua solicitação..."
+    },
+    "sending": "Enviando...",
+    "send": "Enviar mensagem"
+  }
+}

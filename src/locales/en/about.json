@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "About PrêtFacile",
+    "subtitle": "Since 2008, we have helped thousands of people achieve their projects with tailored and accessible financing solutions."
+  },
+
+  "stats": {
+    "clients": "Satisfied Clients",
+    "experience": "Years of Experience",
+    "responseTime": "Response Time",
+    "satisfaction": "Satisfaction Rate"
+  },
+
+  "mission": {
+    "title": "Our Mission",
+    "text": "Making credit accessible and transparent for everyone, while supporting each client in achieving their personal and professional projects."
+  },
+
+  "values": {
+    "listen": {
+      "title": "Listening to You",
+      "desc": "We take the time to understand your needs and projects to offer you the best solution."
+    },
+    "expertise": {
+      "title": "Recognized Expertise",
+      "desc": "Over 15 years of experience in the credit sector to support you with confidence."
+    },
+    "personalSupport": {
+      "title": "Personalized Support",
+      "desc": "A dedicated advisor guides you through every step of your loan application."
+    },
+    "transparency": {
+      "title": "Total Transparency",
+      "desc": "Clear terms with no hidden fees. You know exactly what you are paying."
+    }
+  },
+
+  "team": {
+    "title": "A Team of Experts at Your Service",
+    "text1": "Our team of specialized advisors is trained to provide the best possible support. We review each file carefully and offer personalized solutions tailored to your situation.",
+    "text2": "Whether you want to finance a major purchase, carry out renovations, or realize a personal project, we are here to guide and advise you every step of the way.",
+
+    "points": {
+      "advice": "Free Advice: Our experts answer all your questions",
+      "fastStudy": "Quick Review: Preliminary response within 24 hours",
+      "followUp": "Personalized Follow-up: A dedicated advisor until funds are released"
+    }
+  },
+
+  "why": {
+    "title": "Why Choose Us?",
+    "competitiveRates": "Competitive Rates",
+    "competitiveRates_desc": "We negotiate the best rates for your profile",
+
+    "simplifiedProcess": "Simplified Process",
+    "simplifiedProcess_desc": "Online procedures and electronic signature",
+
+    "flexibility": "Flexibility",
+    "flexibility_desc": "Possibility of early repayment with no fees",
+
+    "security": "Maximum Security",
+    "security_desc": "Encrypted data and GDPR compliant"
+  },
+
+  "reviews": {
+    "title": "What Our Clients Say",
+    "subtitle": "Thousands of clients trust us",
+
+    "review1": {
+      "text": "Impeccable service! I got my loan in just a few days. The team was very attentive and professional.",
+      "author": "Marie L.",
+      "location": "Paris"
+    },
+
+    "review2": {
+      "text": "Very competitive rates and simplified procedures. I highly recommend PrêtFacile to finance your projects.",
+      "author": "Thomas D.",
+      "location": "Lyon"
+    },
+
+    "review3": {
+      "text": "Excellent support from start to finish. My advisor was available and answered all my questions.",
+      "author": "Sophie M.",
+      "location": "Marseille"
+    }
+  }
+}

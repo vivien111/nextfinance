@@ -1,0 +1,163 @@
+{
+  "application": {
+    "title": "Žádost o půjčku",
+    "description": "Vyplňte svou žádost během několika minut a získejte předběžnou odpověď do 24 hodin",
+    
+    "sections": {
+      "personal_info": "Osobní údaje",
+      "loan_details": "Detaily půjčky",
+      "employment_situation": "Pracovní situace"
+    },
+    
+    "form": {
+      "labels": {
+        "first_name": "Jméno",
+        "last_name": "Příjmení",
+        "email": "E-mailová adresa",
+        "phone": "Telefon",
+        "loan_amount": "Výše půjčky",
+        "loan_duration": "Doba trvání půjčky",
+        "monthly_income": "Měsíční příjem",
+        "employment_status": "Pracovní status",
+        "loan_purpose": "Účel půjčky"
+      },
+      
+      "placeholders": {
+        "loan_purpose": "Vyberte účel půjčky",
+        "employment_status": "Vyberte svůj pracovní status"
+      },
+      
+      "options": {
+        "loan_duration": {
+          "12": "12 měsíců",
+          "24": "24 měsíců",
+          "36": "36 měsíců",
+          "48": "48 měsíců",
+          "60": "60 měsíců",
+          "72": "72 měsíců",
+          "84": "84 měsíců"
+        },
+        "loan_purpose": {
+          "car": "Koupě vozidla",
+          "works": "Stavební práce",
+          "equipment": "Vybavení",
+          "personal": "Osobní projekt",
+          "debt": "Refinancování půjček",
+          "other": "Jiné"
+        },
+        "employment_status": {
+          "employed": "Trvalý zaměstnanec",
+          "employed_trial": "Zaměstnanec ve zkušební době",
+          "employed_fixed": "Zaměstnanec na dobu určitou",
+          "civil_servant": "Státní zaměstnanec",
+          "self_employed": "OSVČ",
+          "freelancer": "Freelancer",
+          "retired": "Důchodce",
+          "student": "Student",
+          "unemployed": "Nezaměstnaný"
+        }
+      },
+      
+      "buttons": {
+        "submit": "Odeslat žádost",
+        "submitting": "Odesílání...",
+        "back_to_simulation": "Zpět k simulaci"
+      },
+      
+      "privacy_notice": "Vaše údaje jsou chráněny a důvěrné. V souladu se zákonem o ochraně osobních údajů máte právo na přístup, opravu a námitku proti použití vašich osobních údajů.",
+      
+      "validation": {
+        "invalid_email": "Neplatná e-mailová adresa",
+        "invalid_phone": "Neplatné telefonní číslo",
+        "min_amount": "Minimální částka je 1 000 €",
+        "max_amount": "Maximální částka je 100 000 €",
+        "min_income": "Měsíční příjem musí být alespoň 500 €",
+        "min_length": "Toto pole musí obsahovat alespoň 2 znaky",
+        "debt_too_high": "Výše půjčky je příliš vysoká vzhledem k vašemu příjmu"
+      }
+    },
+    
+    "success": {
+      "title": "Žádost odeslána!",
+      "message": "Vaše žádost o půjčku byla úspěšně odeslána. Náš tým vás kontaktuje do 24 hodin."
+    },
+    
+    "error": {
+      "title": "Chyba při odesílání",
+      "message": "Při odesílání vaší žádosti došlo k chybě. Prosím zkuste to znovu nebo nás kontaktujte přímo."
+    },
+    
+    "next_steps": {
+      "title": "Další kroky",
+      "steps": [
+        "Analýza vaší žádosti do 24 hodin",
+        "Konzultace s naším poradcem",
+        "Obdržení personalizované nabídky",
+        "Uvolnění prostředků do 48 hodin po přijetí"
+      ]
+    },
+    
+    "simulation": {
+      "title": "Simulace v reálném čase",
+      "eligibility": "Způsobilost",
+      "monthly_payment": "Měsíční splátka",
+      "total_interest": "Celkové úroky",
+      "total_amount": "Celková částka",
+      "debt_to_income": "Poměr dluhu k příjmu",
+      
+      "eligibility_high": "Vysoká",
+      "eligibility_medium": "Střední",
+      "eligibility_low": "Nízká",
+      
+      "eligibility_low_warning": "Váš profil vyžaduje další kontrolu",
+      
+      "advice": {
+        "title": "Personalizovaná rada",
+        "high_ratio": "Zvažte snížení částky nebo prodloužení doby splácení, abyste zlepšili poměr dluhu k příjmu.",
+        "good_ratio": "Váš poměr dluhu k příjmu je v rozumném rozsahu."
+      }
+    },
+    
+    "benefits": {
+      "title": "Naše výhody",
+      "fast_processing": "Zpracování do 24 hodin",
+      "competitive_rates": "Konkurenceschopné úrokové sazby",
+      "no_hidden_fees": "Žádné skryté poplatky",
+      "flexible_terms": "Flexibilní doby splácení"
+    },
+    
+    "suggestion": {
+      "based_on_income": "Návrh: {{amount}} €"
+    }
+  },
+  
+  "simulator": {
+    "title": "Kalkulátor půjčky",
+    "subtitle": "Spočítejte si své měsíční splátky v reálném čase a najděte řešení vhodné pro váš rozpočet",
+    
+    "loanParameters": "Parametry půjčky",
+    "loanAmount": "Výše půjčky",
+    "loanDuration": "Doba trvání půjčky",
+    "interestRate": "Roční úroková sazba",
+    "interestNote": "Orientační sazba podléhá schválení vaší žádosti",
+    
+    "monthlyPayments": "Vaše měsíční splátky",
+    "perMonth": "za měsíc",
+    
+    "financingDetails": "Detaily financování",
+    "borrowedAmount": "Půjčená částka",
+    "totalInterest": "Celkové úroky",
+    "totalCost": "Celkové náklady úvěru",
+    
+    "applyButton": "Požádat o půjčku",
+    "simulationNote": "Tato simulace je pouze orientační a nepředstavuje nabídku půjčky. Konečné podmínky budou stanoveny po vyhodnocení vaší žádosti.",
+    
+    "howItWorks": "Jak to funguje",
+    "step1Title": "Simulujte",
+    "step1Text": "Upravte parametry a najděte měsíční splátku, která odpovídá vašemu rozpočtu",
+    "step2Title": "Požádejte",
+    "step2Text": "Vyplňte žádost během několika minut",
+    "step3Title": "Obdržte",
+    "step3Text": "Získejte předběžnou odpověď do 24 hodin a prostředky rychle"
+  }
+}

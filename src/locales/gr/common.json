@@ -1,0 +1,42 @@
+{
+  "navigation": {
+    "home": "Αρχική",
+    "simulation": "Προσομοίωση",
+    "application": "Αίτηση Δανείου",
+    "about": "Σχετικά",
+    "contact": "Επικοινωνία"
+  },
+  "footer": {
+    "navigation": "Πλοήγηση",
+    "contact": "Επικοινωνία",
+    "email": "Email",
+    "phone": "Τηλ",
+    "schedule": "Δευτ. - Παρ.",
+    "hours": "9πμ - 6μμ",
+    "rights": "Με επιφύλαξη παντός δικαιώματος",
+    "description": "Ο έμπιστος συνεργάτης σας για όλα τα χρηματοδοτικά σας έργα. Λύσεις δανεισμού προσαρμοσμένες στις ανάγκες σας."
+  },
+  "buttons": {
+    "simulateLoan": "Προσομοίωση δανείου",
+    "makeRequest": "Κάντε αίτηση",
+    "simulateThisLoan": "Προσομοίωση δανείου",
+    "startSimulation": "Έναρξη προσομοίωσης",
+    "contactUs": "Επικοινωνήστε μαζί μας"
+  },
+  "language": {
+    "select": "Γλώσσα / Language",
+    "french": "Français",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "italian": "Italiano",
+    "portuguese": "Português",
+    "greek": "Ελληνικά",
+    "finnish": "Φινλανδικά",
+    "dutch": "Ολλανδικά",
+    "azerbaijani": "Αζερμπαϊτζανικά",
+    "polish": "Πολωνικά",
+    "maltese": "Μαλτεζικά",
+    "czech": "Τσέχικα"
+  }
+}

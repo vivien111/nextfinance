@@ -14,13 +14,21 @@ export default function Layout({ children, currentPage, onNavigate }: LayoutProp
   const { t, i18n } = useTranslation('common');
 
   const languages = [
-    { code: 'fr', name: t('language.french'), flag: '🇫🇷' },
-    { code: 'en', name: t('language.english'), flag: '🇬🇧' },
-    { code: 'es', name: t('language.spanish'), flag: '🇪🇸' },
-    { code: 'de', name: t('language.german'), flag: '🇩🇪' },
-    { code: 'it', name: t('language.italian'), flag: '🇮🇹' },
-    { code: 'pt', name: t('language.portuguese'), flag: '🇵🇹' },
-  ];
+  { code: 'fr', name: t('language.french'), flag: '🇫🇷' },
+  { code: 'en', name: t('language.english'), flag: '🇬🇧' },
+  { code: 'es', name: t('language.spanish'), flag: '🇪🇸' },
+  { code: 'de', name: t('language.german'), flag: '🇩🇪' },
+  { code: 'it', name: t('language.italian'), flag: '🇮🇹' },
+  { code: 'pt', name: t('language.portuguese'), flag: '🇵🇹' },
+  { code: 'gr', name: t('language.greek'), flag: '🇬🇷' },
+  { code: 'fi', name: t('language.finnish'), flag: '🇫🇮' },
+  { code: 'nl', name: t('language.dutch'), flag: '🇳🇱' },
+  { code: 'az', name: t('language.azerbaijani'), flag: '🇦🇿' },
+  { code: 'pl', name: t('language.polish'), flag: '🇵🇱' },
+  { code: 'mt', name: t('language.maltese'), flag: '🇲🇹' },
+  { code: 'cs', name: t('language.czech'), flag: '🇨🇿' },
+];
+
 
   const navigation = [
     { name: t('navigation.home'), href: 'home' },
@@ -49,9 +57,9 @@ export default function Layout({ children, currentPage, onNavigate }: LayoutProp
                 className="flex items-center space-x-2"
               >
                 <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-700 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-xl">N</span>
+                  <span className="text-white font-bold text-xl">P</span>
                 </div>
-                <span className="text-xl font-bold text-gray-900">Nextfinance</span>
+                <span className="text-xl font-bold text-gray-900">Popular Financia</span>
               </button>
             </div>
 
@@ -193,7 +201,7 @@ export default function Layout({ children, currentPage, onNavigate }: LayoutProp
                 <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-700 rounded-lg flex items-center justify-center">
                   <span className="text-white font-bold text-xl">P</span>
                 </div>
-                <span className="text-xl font-bold">PrêtFacile</span>
+                <span className="text-xl font-bold">Popular Financia</span>
               </div>
               <p className="text-gray-400 max-w-md">
                 {t('footer.description')}

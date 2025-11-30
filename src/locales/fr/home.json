@@ -1,8 +1,115 @@
 {
+"simulation":{
+  "title": "Simulateur de prêt",
+  "subtitle": "Calculez vos mensualités en temps réel et trouvez la solution adaptée à votre budget",
+
+  "loanParameters": "Paramètres du prêt",
+  "loanAmount": "Montant du prêt",
+  "loanDuration": "Durée du prêt",
+  "interestRate": "Taux d'intérêt annuel",
+  "interestNote": "Taux indicatif sous réserve d'acceptation de votre dossier",
+
+  "monthlyPayments": "Vos mensualités",
+  "perMonth": "par mois",
+
+  "financingDetails": "Détail du financement",
+  "borrowedAmount": "Montant emprunté",
+  "totalInterest": "Intérêts totaux",
+  "totalCost": "Coût total du crédit",
+
+  "applyButton": "Faire une demande de prêt",
+  "simulationNote": "Cette simulation est indicative et ne constitue pas une offre de prêt. Les conditions définitives seront établies après étude de votre dossier.",
+
+  "howItWorks": "Comment ça marche ?",
+  "step1Title": "Simulez",
+  "step1Text": "Ajustez les paramètres pour trouver la mensualité qui correspond à votre budget",
+  "step2Title": "Demandez",
+  "step2Text": "Remplissez le formulaire de demande en quelques minutes",
+  "step3Title": "Recevez",
+  "step3Text": "Obtenez une réponse de principe sous 24h et les fonds rapidement"
+   },
+  "application": {
+    "title": "Demande de prêt",
+    "description": "Remplissez ce formulaire pour démarrer votre demande. Réponse sous 24h.",
+    "success": {
+      "title": "Demande envoyée avec succès !",
+      "message": "Nous avons bien reçu votre demande de prêt. Notre équipe va l'étudier et vous contactera sous 24h pour vous donner une réponse de principe."
+    },
+    "error": {
+      "title": "Erreur lors de l'envoi",
+      "message": "Une erreur est survenue lors de l'envoi de votre demande. Veuillez réessayer."
+    },
+    "sections": {
+      "personal_info": "Informations personnelles",
+      "loan_details": "Détails du prêt",
+      "employment_situation": "Situation professionnelle"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Prénom *",
+        "last_name": "Nom *",
+        "email": "Email *",
+        "phone": "Téléphone *",
+        "loan_amount": "Montant souhaité () *",
+        "loan_duration": "Durée (mois) *",
+        "loan_purpose": "Objet du prêt *",
+        "employment_status": "Statut professionnel *",
+        "monthly_income": "Revenus mensuels nets () *"
+      },
+      "placeholders": {
+        "loan_purpose": "Sélectionnez...",
+        "employment_status": "Sélectionnez..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Prêt personnel",
+          "auto": "Achat véhicule",
+          "home": "Travaux",
+          "consolidation": "Rachat de crédit",
+          "other": "Autre"
+        },
+        "employment_status": {
+          "employed": "Salarié(e)",
+          "self_employed": "Indépendant(e)",
+          "unemployed": "Sans emploi",
+          "retired": "Retraité(e)",
+          "student": "Étudiant(e)"
+        },
+        "loan_duration": {
+          "12": "12 mois",
+          "24": "24 mois",
+          "36": "36 mois",
+          "48": "48 mois",
+          "60": "60 mois",
+          "72": "72 mois",
+          "84": "84 mois",
+          "96": "96 mois",
+          "120": "120 mois"
+        }
+      },
+      "privacy_notice": "En soumettant ce formulaire, vous acceptez que vos données soient utilisées pour l'étude de votre demande de prêt. Vos informations sont sécurisées et confidentielles.",
+      "buttons": {
+        "submit": "Envoyer ma demande",
+        "submitting": "Envoi en cours...",
+        "back_to_simulation": "Retour à la simulation"
+      }
+    },
+    "next_steps": {
+      "title": "Prochaines étapes",
+      "steps": [
+        "Notre équipe étudie votre demande dans les 24h",
+        "Vous recevez une réponse de principe par email et téléphone",
+        "Si votre dossier est accepté, nous finalisons les détails ensemble",
+        "Les fonds sont versés rapidement sur votre compte"
+      ]
+    }
+  },
   "hero": {
     "title": "Réalisez vos projets avec",
-    "subtitle": "PrêtFacile",
-    "description": "Des solutions de financement adaptées à tous vos besoins. Simulation gratuite et sans engagement."
+    "subtitle": "Popular Financia",
+    "description": "Des solutions de financement adaptées à tous vos besoins. Simulation gratuite et sans engagement.",
+    "simuler": "Simuler mon prêt",
+    "Faire": "Faire une demande"
   },
   "features": {
     "title": "Nos avantages",
@@ -50,6 +157,18 @@
       {
         "question": "Y a-t-il des frais de dossier ?",
         "answer": "Non, PrêtFacile ne facture aucun frais de dossier. Notre rémunération est incluse dans le taux d'intérêt, ce qui garantit une totale transparence."
+      },
+      {
+        "question": "Puis-je rembourser mon prêt par anticipation ?",
+        "answer": "Oui, vous pouvez rembourser votre prêt par anticipation sans frais ni pénalités. Contactez simplement notre service client pour organiser le remboursement."
+      },
+      {
+        "question": "Quelle est la différence entre un prêt personnel et un crédit affecté ?",
+        "answer": "Le prêt personnel est libre d'utilisation, tandis que le crédit affecté est lié à un achat spécifique (voiture, travaux...). Le prêt personnel offre plus de flexibilité."
+      },
+      {
+        "question": "Mon taux est-il fixe pendant toute la durée du prêt ?",
+        "answer": "Oui, tous nos prêts proposent des taux fixes garantis pendant toute la durée du contrat. Vos mensualités restent identiques du premier au dernier remboursement."
       }
     ],
     "cta": {
@@ -60,5 +179,74 @@
   "cta": {
     "title": "Prêt à démarrer votre projet ?",
     "description": "Rejoignez les milliers de clients satisfaits et obtenez votre réponse en 24h"
-  }
+  },
+  "stats": {
+    "clients": "Clients satisfaits",
+    "reviews": "Avis Clients",
+    "acceptance": "Taux d'acceptation"
+  },
+  "convincing_description": {
+    "title": "Pourquoi choisir PrêtFacile pour votre projet ?",
+    "expertise_title": "Expertise et Simplicité",
+    "expertise_description": "Forts de 10 ans d'expérience, nous avons simplifié le processus de demande de prêt pour vous faire gagner du temps et éviter les tracas administratifs.",
+    "rates_title": "Les Meilleurs Taux Garantis",
+    "rates_description": "Grâce à nos partenariats avec les plus grandes banques françaises, nous négocions pour vous des taux d'intérêt compétitifs, souvent inférieurs à ceux proposés en agence.",
+    "support_title": "Accompagnement Personnalisé",
+    "support_description": "Un conseiller dédié vous suit du début à la fin de votre projet. Nous adaptons nos solutions à votre situation unique pour maximiser vos chances d'acceptation.",
+    "time_title": "Gain de Temps Significatif",
+    "time_description": "Fini les allers-retours en agence ! Notre plateforme 100% en ligne vous permet de finaliser votre demande en 15 minutes seulement, 7j/7.",
+    "badge_text": "de satisfaction",
+    "start_simulation": "Démarrer ma simulation gratuite",
+    "talk_to_advisor": "Parler à un conseiller"
+  },
+  "concise_advantages": {
+    "title": "La solution de financement la plus simple du marché",
+    "subtitle": "Nous avons révolutionné l'obtention de prêt en supprimant les complexités et en vous offrant une expérience transparente et rapide.",
+    "quick_title": "Rapide",
+    "quick_description": "Réponse sous 24h et déblocage des fonds en 72h",
+    "economic_title": "Économique",
+    "economic_description": "0 frais de dossier et taux négociés pour vous",
+    "secure_title": "Sécurisé",
+    "secure_description": "Données cryptées et processus 100% sécurisé",
+    "tailored_title": "Sur Mesure",
+    "tailored_description": "Solutions adaptées à votre situation unique",
+    "small_cta_title": "Ne laissez plus vos projets en attente",
+    "small_cta_description": "Chaque jour compte quand il s'agit de concrétiser vos ambitions. Des milliers de clients nous font confiance chaque mois. Et vous ?",
+    "start_now": "Je commence maintenant - C'est gratuit"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Prêt Personnel",
+      "features": ["Sans justificatif", "Décision rapide", "Taux compétitif"]
+    },
+    "autoLoan": {
+      "title": "Prêt Auto",
+      "features": ["Véhicule neuf ou occasion", "Financement à 100%", "Assurance incluse"]
+    },
+    "worksLoan": {
+      "title": "Prêt Travaux",
+      "features": ["Rénovation", "Extension", "Amélioration énergétique"]
+    },
+    "simulate_this_loan": "Simuler ce prêt"
+  },
+  "testimonials_data": [
+    {
+      "name": "Marie L.",
+      "city": "Lyon",
+      "text": "Processus très simple et équipe à l écoute. Mon prêt a été accepté en 24h !",
+      "rating": 5
+    },
+    {
+      "name": "Pierre D.",
+      "city": "Paris",
+      "text": "Meilleur taux du marché, je recommande vivement PrêtFacile pour vos projets.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie M.",
+      "city": "Marseille",
+      "text": "Simulation claire et transparente, sans mauvaise surprise.",
+      "rating": 4
+    }
+  ]
 }

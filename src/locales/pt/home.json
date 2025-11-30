@@ -1,0 +1,252 @@
+{
+  "simulation": {
+  "title": "Simulador de Empréstimo",
+  "subtitle": "Calcule as suas prestações em tempo real e encontre a solução adequada ao seu orçamento",
+
+  "loanParameters": "Parâmetros do Empréstimo",
+  "loanAmount": "Montante do Empréstimo",
+  "loanDuration": "Prazo do Empréstimo",
+  "interestRate": "Taxa de Juro Anual",
+  "interestNote": "Taxa indicativa, sujeita à aceitação da sua proposta",
+
+  "monthlyPayments": "As suas prestações",
+  "perMonth": "por mês",
+
+  "financingDetails": "Detalhe do Financiamento",
+  "borrowedAmount": "Montante Emprestado",
+  "totalInterest": "Juros Totais",
+  "totalCost": "Custo Total do Crédito",
+
+  "applyButton": "Fazer um Pedido de Empréstimo",
+  "simulationNote": "Esta simulação é indicativa e não constitui uma oferta de empréstimo. As condições definitivas serão estabelecidas após análise da sua proposta.",
+
+  "howItWorks": "Como funciona?",
+  "step1Title": "Simule",
+  "step1Text": "Ajuste os parâmetros para encontrar a prestação que se adequa ao seu orçamento",
+  "step2Title": "Solicite",
+  "step2Text": "Preencha o formulário de pedido em alguns minutos",
+  "step3Title": "Receba",
+  "step3Text": "Obtenha uma resposta de princípio em 24 horas e os fundos rapidamente"
+},
+  "application": {
+    "title": "Pedido de Empréstimo",
+    "description": "Preencha este formulário para iniciar o seu pedido. Resposta em 24 horas.",
+    "success": {
+      "title": "Pedido enviado com sucesso!",
+      "message": "Recebemos o seu pedido de empréstimo. A nossa equipa irá analisá-lo e entrará em contacto consigo em 24 horas para dar uma resposta de princípio."
+    },
+    "error": {
+      "title": "Erro no envio",
+      "message": "Ocorreu um erro ao enviar o seu pedido. Por favor, tente novamente."
+    },
+    "sections": {
+      "personal_info": "Informações Pessoais",
+      "loan_details": "Detalhes do Empréstimo",
+      "employment_situation": "Situação Profissional"
+    },
+    "form": {
+      "labels": {
+        "first_name": "Nome *",
+        "last_name": "Sobrenome *",
+        "email": "E-mail *",
+        "phone": "Telefone *",
+        "loan_amount": "Montante desejado (€) *",
+        "loan_duration": "Prazo (meses) *",
+        "loan_purpose": "Finalidade do Empréstimo *",
+        "employment_status": "Situação Profissional *",
+        "monthly_income": "Rendimento Líquido Mensal (€) *"
+      },
+      "placeholders": {
+        "loan_purpose": "Selecionar...",
+        "employment_status": "Selecionar..."
+      },
+      "options": {
+        "loan_purpose": {
+          "personal": "Empréstimo Pessoal",
+          "auto": "Aquisição de Veículo",
+          "home": "Obras/Reforma",
+          "consolidation": "Consolidação de Dívidas",
+          "other": "Outro"
+        },
+        "employment_status": {
+          "employed": "Assalariado(a)",
+          "self_employed": "Trabalhador Independente",
+          "unemployed": "Desempregado(a)",
+          "retired": "Reformado(a)",
+          "student": "Estudante"
+        },
+        "loan_duration": {
+          "12": "12 meses",
+          "24": "24 meses",
+          "36": "36 meses",
+          "48": "48 meses",
+          "60": "60 meses",
+          "72": "72 meses",
+          "84": "84 meses",
+          "96": "96 meses",
+          "120": "120 meses"
+        }
+      },
+      "privacy_notice": "Ao enviar este formulário, aceita que os seus dados sejam utilizados para a análise do seu pedido de empréstimo. As suas informações são seguras e confidenciais.",
+      "buttons": {
+        "submit": "Enviar o meu pedido",
+        "submitting": "A enviar...",
+        "back_to_simulation": "Voltar à simulação"
+      }
+    },
+    "next_steps": {
+      "title": "Próximos Passos",
+      "steps": [
+        "A nossa equipa analisa o seu pedido em 24 horas",
+        "Recebe uma resposta de princípio por e-mail e telefone",
+        "Se a sua proposta for aceite, finalizamos os detalhes em conjunto",
+        "Os fundos são rapidamente transferidos para a sua conta"
+      ]
+    }
+  },
+  "hero": {
+    "title": "Concretize os seus projetos com a",
+    "subtitle": "Popular Financia",
+    "description": "Soluções de financiamento adaptadas a todas as suas necessidades. Simulação gratuita e sem compromisso.",
+    "simuler": "Simular o meu empréstimo",
+    "Faire": "Fazer um pedido"
+  },
+  "features": {
+    "title": "As nossas vantagens",
+    "freeSimulation": {
+      "title": "Simulação Gratuita",
+      "description": "Calcule as suas prestações em alguns cliques, sem compromisso"
+    },
+    "quickResponse": {
+      "title": "Resposta Rápida",
+      "description": "Obtenha uma resposta de princípio em até 24 horas"
+    },
+    "secure": {
+      "title": "Seguro e Confidencial",
+      "description": "Os seus dados estão protegidos e são confidenciais"
+    }
+  },
+  "loans": {
+    "title": "As nossas soluções de empréstimo",
+    "description": "Escolha a solução adequada ao seu projeto",
+    "personalLoan": "Empréstimo Pessoal",
+    "autoLoan": "Empréstimo Automóvel",
+    "worksLoan": "Empréstimo para Obras",
+    "from": "A partir de",
+    "duration": "Prazo"
+  },
+  "testimonials": {
+    "title": "Eles confiam em nós",
+    "description": "Descubra os testemunhos dos nossos clientes satisfeitos"
+  },
+  "partners": {
+    "title": "Os nossos parceiros financeiros"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "description": "Encontre rapidamente respostas para as suas perguntas",
+    "items": [
+      {
+        "question": "Que documentos são necessários para um pedido de empréstimo?",
+        "answer": "Para um pedido de empréstimo, necessitará de: documento de identificação, comprovativo de morada, últimos recibos de vencimento (3 meses) e extratos bancários recentes. A lista exata pode variar consoante o tipo de empréstimo."
+      },
+      {
+        "question": "Qual é o prazo de tratamento de um pedido?",
+        "answer": "Processamos a maioria dos pedidos em 24 a 48 horas. Uma vez aceite, a transferência dos fundos ocorre geralmente em 3 a 5 dias úteis."
+      },
+      {
+        "question": "Existem custos de processo?",
+        "answer": "Não, a Popular Financia não cobra quaisquer custos de processo. A nossa remuneração está incluída na taxa de juro, o que garante total transparência."
+      },
+      {
+        "question": "Posso liquidar o meu empréstimo antecipadamente?",
+        "answer": "Sim, pode liquidar o seu empréstimo antecipadamente sem custos ou penalizações. Basta contactar o nosso serviço ao cliente para organizar a liquidação."
+      },
+      {
+        "question": "Qual é a diferença entre um empréstimo pessoal e um crédito vinculado?",
+        "answer": "O empréstimo pessoal é de utilização livre, enquanto o crédito vinculado está associado a uma aquisição específica (carro, obras...). O empréstimo pessoal oferece mais flexibilidade."
+      },
+      {
+        "question": "A minha taxa é fixa durante todo o prazo do empréstimo?",
+        "answer": "Sim, todos os nossos empréstimos propõem taxas fixas garantidas durante todo o prazo do contrato. As suas prestações mantêm-se iguais do primeiro ao último pagamento."
+      }
+    ],
+    "cta": {
+      "title": "Não encontrou a resposta à sua pergunta?",
+      "description": "A nossa equipa de consultores está à sua disposição para responder a todas as suas questões."
+    }
+  },
+  "cta": {
+    "title": "Pronto para iniciar o seu projeto?",
+    "description": "Junte-se a milhares de clientes satisfeitos e obtenha a sua resposta em 24 horas"
+  },
+  "stats": {
+    "clients": "Clientes satisfeitos",
+    "reviews": "Avaliações de Clientes",
+    "acceptance": "Taxa de Aceitação"
+  },
+  "convincing_description": {
+    "title": "Porquê escolher a Popular Financia para o seu projeto?",
+    "expertise_title": "Experiência e Simplicidade",
+    "expertise_description": "Com 10 anos de experiência, simplificámos o processo de pedido de empréstimo para lhe poupar tempo e evitar transtornos administrativos.",
+    "rates_title": "As Melhores Taxas Garantidas",
+    "rates_description": "Graças às nossas parcerias com os maiores bancos, negociamos para si taxas de juro competitivas, frequentemente inferiores às propostas em agência.",
+    "support_title": "Acompanhamento Personalizado",
+    "support_description": "Um consultor dedicado acompanha-o do início ao fim do seu projeto. Adaptamos as soluções à sua situação única para maximizar as suas hipóteses de aceitação.",
+    "time_title": "Poupança de Tempo Significativa",
+    "time_description": "Acabaram-se as idas e vindas à agência! A nossa plataforma 100% online permite finalizar o seu pedido em apenas 15 minutos, 7 dias por semana.",
+    "badge_text": "de satisfação",
+    "start_simulation": "Iniciar a minha simulação gratuita",
+    "talk_to_advisor": "Falar com um consultor"
+  },
+  "concise_advantages": {
+    "title": "A solução de financiamento mais simples do mercado",
+    "subtitle": "Revolucionámos a obtenção de empréstimos, eliminando as complexidades e oferecendo-lhe uma experiência transparente e rápida.",
+    "quick_title": "Rápido",
+    "quick_description": "Resposta em 24 horas e libertação dos fundos em 72 horas",
+    "economic_title": "Económico",
+    "economic_description": "0 custos de processo e taxas negociadas para si",
+    "secure_title": "Seguro",
+    "secure_description": "Dados encriptados e processo 100% seguro",
+    "tailored_title": "Sob Medida",
+    "tailored_description": "Soluções adaptadas à sua situação única",
+    "small_cta_title": "Não adie mais os seus projetos",
+    "small_cta_description": "Cada dia conta quando se trata de concretizar as suas ambições. Milhares de clientes confiam em nós todos os meses. E você?",
+    "start_now": "Começo agora - É gratuito"
+  },
+  "loan_details": {
+    "personalLoan": {
+      "title": "Empréstimo Pessoal",
+      "features": ["Sem justificativo", "Decisão rápida", "Taxa competitiva"]
+    },
+    "autoLoan": {
+      "title": "Empréstimo Automóvel",
+      "features": ["Veículo novo ou usado", "Financiamento a 100%", "Seguro incluído"]
+    },
+    "worksLoan": {
+      "title": "Empréstimo para Obras",
+      "features": ["Renovação", "Ampliação", "Melhoria Energética"]
+    },
+    "simulate_this_loan": "Simular este empréstimo"
+  },
+  "testimonials_data": [
+    {
+      "name": "Maria L.",
+      "city": "Lisboa",
+      "text": "Processo muito simples e equipa atenta. O meu empréstimo foi aceite em 24 horas!",
+      "rating": 5
+    },
+    {
+      "name": "Pedro D.",
+      "city": "Porto",
+      "text": "Melhor taxa do mercado, recomendo vivamente a Popular Financia para os seus projetos.",
+      "rating": 5
+    },
+    {
+      "name": "Sofia M.",
+      "city": "Faro",
+      "text": "Simulação clara e transparente, sem surpresas desagradáveis.",
+      "rating": 4
+    }
+  ]
+}
