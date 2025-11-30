@@ -2,7 +2,6 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import sendEmailRouter from "./routes/sendEmail.js";
-import Test from "./routes/test.ts"
 
 dotenv.config();
 
@@ -13,7 +12,6 @@ app.use(express.json());
 
 // Route API
 app.use("/api/sendEmail", sendEmailRouter);
-app.use ("/", Test);
 // Port dynamique Render
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

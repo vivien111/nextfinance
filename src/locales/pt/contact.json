@@ -17,9 +17,9 @@
     "error_msg": "Ocorreu um erro. Por favor, tente novamente.",
     "form": {
       "name": "Nome completo",
-      "name_placeholder": "João Silva",
+      "name_placeholder": "Popular Financia",
       "email": "E-mail",
-      "email_placeholder": "joao.silva@exemplo.com",
+      "email_placeholder": "contact@popularfinancia.com",
       "subject": "Assunto",
       "select_subject": "Selecione um assunto",
       "subject_loan": "Informação sobre empréstimo",

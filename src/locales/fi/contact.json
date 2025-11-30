@@ -17,9 +17,9 @@
     "error_msg": "Tapahtui virhe. Yritä uudelleen.",
     "form": {
       "name": "Koko nimi",
-      "name_placeholder": "Jean Dupont",
+      "name_placeholder": "Popular Financia",
       "email": "Sähköposti",
-      "email_placeholder": "jean.dupont@example.com",
+      "email_placeholder": "contact@popularfinancia.com",
       "subject": "Aihe",
       "select_subject": "Valitse aihe",
       "subject_loan": "Tietoa lainasta",

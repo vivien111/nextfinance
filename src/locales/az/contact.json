@@ -17,9 +17,9 @@
     "error_msg": "Xəta baş verdi. Zəhmət olmasa yenidən cəhd edin.",
     "form": {
       "name": "Tam ad",
-      "name_placeholder": "Jean Dupont",
+      "name_placeholder": "Popular Financia",
       "email": "Email",
-      "email_placeholder": "jean.dupont@example.com",
+      "email_placeholder": "contact@popularfinancia.com",
       "subject": "Mövzu",
       "select_subject": "Mövzu seçin",
       "subject_loan": "Kredit haqqında məlumat",

@@ -17,9 +17,9 @@
     "error_msg": "Wystąpił błąd. Prosimy spróbować ponownie.",
     "form": {
       "name": "Imię i nazwisko",
-      "name_placeholder": "Jan Kowalski",
+      "name_placeholder": "Popular Financia",
       "email": "E-mail",
-      "email_placeholder": "jan.kowalski@przyklad.pl",
+      "email_placeholder": "contact@popularfinancia.com",
       "subject": "Temat",
       "select_subject": "Wybierz temat",
       "subject_loan": "Informacja o pożyczce",

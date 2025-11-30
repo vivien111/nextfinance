@@ -17,9 +17,9 @@
     "error_msg": "Sar żball. Jekk jogħġbok erġa' pprova.",
     "form": {
       "name": "Isem sħiħ",
-      "name_placeholder": "Jean Dupont",
+      "name_placeholder": "Popular Financia",
       "email": "Email",
-      "email_placeholder": "jean.dupont@eżempju.com",
+      "email_placeholder": "contact@popularfinancia.com",
       "subject": "Suġġett",
       "select_subject": "Agħżel suġġett",
       "subject_loan": "Informazzjoni dwar self",

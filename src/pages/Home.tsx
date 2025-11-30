@@ -460,7 +460,7 @@ export default function Home({ onNavigate }: HomeProps) {
                                     Nous contacter
                                 </button>
                                 <button className="bg-white/80 backdrop-blur-sm border-2 border-gray-300 text-gray-700 px-8 py-3 rounded-xl font-semibold hover:bg-white transition-all duration-300 hover:scale-105">
-                                    📞 01 23 45 67 89
+                                    📞+30 699 802 9086
                                 </button>
                             </div>
                         </div>

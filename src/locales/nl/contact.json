@@ -17,9 +17,9 @@
     "error_msg": "Er is een fout opgetreden. Probeer het opnieuw.",
     "form": {
       "name": "Volledige naam",
-      "name_placeholder": "Jean Dupont",
+      "name_placeholder": "Popular Financia",
       "email": "E-mail",
-      "email_placeholder": "jean.dupont@example.com",
+      "email_placeholder": "contact@popularfinancia.com",
       "subject": "Onderwerp",
       "select_subject": "Selecteer een onderwerp",
       "subject_loan": "Informatie over een lening",

@@ -17,9 +17,9 @@
     "error_msg": "Došlo k chybě. Zkuste to prosím znovu.",
     "form": {
       "name": "Celé jméno",
-      "name_placeholder": "Jan Novák",
+      "name_placeholder": "Popular Financia",
       "email": "E-mail",
-      "email_placeholder": "jan.novak@priklad.cz",
+      "email_placeholder": "contact@popularfinancia.com",
       "subject": "Předmět",
       "select_subject": "Vyberte předmět",
       "subject_loan": "Informace o půjčce",

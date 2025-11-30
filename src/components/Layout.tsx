@@ -248,8 +248,8 @@ export default function Layout({ children, currentPage, onNavigate }: LayoutProp
             <div>
               <h3 className="font-semibold mb-4">{t('footer.contact')}</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>{t('footer.email')}: contact@pretfacile.fr</li>
-                <li>{t('footer.phone')}: +33 1 23 45 67 89</li>
+                <li>{t('footer.email')}: contact@popularfinancia.com</li>
+                <li>{t('footer.phone')}: +30 699 802 9086</li>
                 <li>{t('footer.schedule')}</li>
                 <li>{t('footer.hours')}</li>
               </ul>
@@ -257,7 +257,7 @@ export default function Layout({ children, currentPage, onNavigate }: LayoutProp
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; {new Date().getFullYear()} PrêtFacile. {t('footer.rights')}</p>
+            <p>&copy; {new Date().getFullYear()} Popular Financia. {t('footer.rights')}</p>
           </div>
         </div>
       </footer>

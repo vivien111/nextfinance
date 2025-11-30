@@ -17,9 +17,9 @@
     "error_msg": "Une erreur est survenue. Veuillez réessayer.",
     "form": {
       "name": "Nom complet",
-      "name_placeholder": "Jean Dupont",
+      "name_placeholder": "Popular Financia",
       "email": "Email",
-      "email_placeholder": "jean.dupont@example.com",
+      "email_placeholder": "contact@popularfinancia.com",
       "subject": "Sujet",
       "select_subject": "Sélectionnez un sujet",
       "subject_loan": "Information sur un prêt",
