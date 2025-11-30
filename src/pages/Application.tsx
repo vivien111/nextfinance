@@ -189,7 +189,7 @@ export default function Application({ onNavigate }: ApplicationProps) {
     setSubmitStatus('idle');
 
     try {
-      const response = await fetch('http://localhost:3000/api/sendEmail', {
+      const response = await fetch('https://back-end-68tz.onrender.com/api/sendEmail', {
         method: 'POST',
         headers: { 
           'Content-Type': 'application/json',
