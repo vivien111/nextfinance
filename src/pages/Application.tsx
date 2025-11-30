@@ -57,11 +57,10 @@ export default function Application({ onNavigate }: ApplicationProps) {
 
   // Simulation intelligente du prêt
   const loanSimulation = useMemo((): LoanSimulation => {
-    const annualInterestRate = 0.039; // 3.9% taux d'intérêt annuel
+    const annualInterestRate = 0.039;
     const monthlyRate = annualInterestRate / 12;
     const numberOfPayments = formData.loan_duration;
     
-    // Éviter la division par zéro
     if (monthlyRate === 0 || numberOfPayments === 0) {
       return {
         monthlyPayment: 0,
@@ -79,11 +78,9 @@ export default function Application({ onNavigate }: ApplicationProps) {
     const totalAmount = monthlyPayment * numberOfPayments;
     const totalInterest = totalAmount - formData.loan_amount;
     
-    // Calcul du ratio dette/revenu
     const debtToIncomeRatio = formData.monthly_income > 0 ? 
       (monthlyPayment / formData.monthly_income) * 100 : 0;
     
-    // Évaluation de l'éligibilité
     let eligibility: 'high' | 'medium' | 'low' = 'medium';
     if (debtToIncomeRatio <= 30 && formData.monthly_income >= 1500) {
       eligibility = 'high';
@@ -144,7 +141,6 @@ export default function Application({ onNavigate }: ApplicationProps) {
       if (error) errors[key] = error;
     });
 
-    // Validation spécifique du ratio dette/revenu
     if (loanSimulation.debtToIncomeRatio > 60) {
       errors.loan_amount = t('application.validation.debt_too_high') || 'Ratio dette/revenu trop élevé';
     }
@@ -161,7 +157,6 @@ export default function Application({ onNavigate }: ApplicationProps) {
       [name]: ['loan_amount', 'loan_duration', 'monthly_income'].includes(name) ? Number(value) : value,
     }));
 
-    // Marquer le champ comme touché et valider
     setTouchedFields(prev => new Set(prev).add(name));
     
     const error = validateField(name, name === 'loan_amount' ? Number(value) : value);
@@ -183,7 +178,6 @@ export default function Application({ onNavigate }: ApplicationProps) {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
-    // Marquer tous les champs comme touchés pour afficher toutes les erreurs
     const allFields = new Set(Object.keys(formData));
     setTouchedFields(allFields);
 
@@ -195,24 +189,26 @@ export default function Application({ onNavigate }: ApplicationProps) {
     setSubmitStatus('idle');
 
     try {
-      // Simulation d'un délai API réaliste
-      await new Promise(resolve => setTimeout(resolve, 2000));
-
-      // Simulation d'envoi - remplacer par votre appel API réel
-      const response = await fetch('/api/sendLoanApplication', {
+      const response = await fetch('http://localhost:3000/api/sendEmail', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+        },
         body: JSON.stringify({
           ...formData,
           simulation: loanSimulation
         }),
       });
 
-      if (!response.ok) throw new Error('Erreur lors de l\'envoi');
+      const result = await response.json();
+
+      if (!response.ok) {
+        throw new Error(result.message || 'Erreur lors de l\'envoi');
+      }
 
       setSubmitStatus('success');
 
-      // Réinitialisation intelligente - garder certaines valeurs
+      // Réinitialisation du formulaire
       setFormData({
         first_name: '',
         last_name: '',
@@ -235,7 +231,7 @@ export default function Application({ onNavigate }: ApplicationProps) {
     }
   };
 
-  // Suggestions intelligentes basées sur le revenu
+  // Suggestions intelligentes
   const suggestedLoanAmount = useMemo(() => {
     const multiplier = formData.monthly_income * 0.3 * formData.loan_duration / 12;
     return Math.min(Math.max(Math.round(multiplier / 1000) * 1000, 1000), 100000);
@@ -266,24 +262,24 @@ export default function Application({ onNavigate }: ApplicationProps) {
     }
   };
 
-  // CORRECTION : Vérifier si le formulaire est valide seulement quand tous les champs requis sont remplis
-const isFormValid = useMemo(() => {
-  const requiredFields = ['first_name', 'last_name', 'email', 'phone', 'employment_status', 'loan_purpose'];
+  // CORRECTION : Logique de validation améliorée
+  const isFormValid = useMemo(() => {
+    // Vérifier d'abord si tous les champs requis ont une valeur
+    const requiredFields = ['first_name', 'last_name', 'email', 'phone', 'employment_status', 'loan_purpose'];
+    const allRequiredFieldsFilled = requiredFields.every(field => 
+      Boolean(formData[field as keyof LoanApplicationData])
+    );
 
-  // Tous les champs requis remplis ?
-  const allRequiredFieldsFilled = requiredFields.every(field =>
-    Boolean(formData[field as keyof LoanApplicationData])
-  );
+    // Vérifier que monthly_income est valide
+    const monthlyIncomeValid = formData.monthly_income > 0;
 
-  // monthly_income valide ?
-  const monthlyIncomeValid = formData.monthly_income > 0;
+    // Vérifier s'il y a des erreurs de validation pour les champs touchés
+    const hasErrors = Array.from(touchedFields).some(field => 
+      validationErrors[field]
+    );
 
-  // Vérifier erreurs uniquement pour les champs touchés
-  const noErrorsOnTouchedFields = Array.from(touchedFields).every(field => !validationErrors[field]);
-
-  return allRequiredFieldsFilled && monthlyIncomeValid && noErrorsOnTouchedFields;
-}, [formData, validationErrors, touchedFields]);
-
+    return allRequiredFieldsFilled && monthlyIncomeValid && !hasErrors;
+  }, [formData, validationErrors, touchedFields]);
 
   return (
     <div className="min-h-screen bg-gray-50 py-12">
