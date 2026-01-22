@@ -249,7 +249,7 @@ export default function Layout({ children, currentPage, onNavigate }: LayoutProp
               <h3 className="font-semibold mb-4">{t('footer.contact')}</h3>
               <ul className="space-y-2 text-gray-400">
                 <li>{t('footer.email')}: contact@popularfinancia.com</li>
-                <li>{t('footer.phone')}: +30 699 802 9086</li>
+                <li>{t('footer.phone')}: +18606898213 </li>
                 <li>{t('footer.schedule')}</li>
                 <li>{t('footer.hours')}</li>
               </ul>
