@@ -57,7 +57,7 @@ export default function Contact() {
     {
       icon: Phone,
       title: t('contact.phone'),
-      content: '+33 1 23 45 67 89',
+      content: '+18606898213',
       subContent: t('contact.phone_sub'),
     },
     {
